@@ -1,0 +1,6 @@
+{
+  "devMode": "false",
+  "locations":[
+    { "country":  "chile", "geoName": "Chile", "cities": ["santiago", "valparaíso", "viña-del-mar", "arica", "temuco", "concepcion", "puerto-montt"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" }
+  ]
+}
