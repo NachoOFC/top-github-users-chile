@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" alt="Chile">
 </a>
 
-The `public contributions` and `private contributions` by users in Chile on `2026/11/6 4:39 AM UTC`. This list contains users from `Chile` and cities `Santiago` `Valparaíso` `Viña-del-mar` `Arica` `Temuco` `Concepcion` `Puerto-montt`.
+The `public contributions` and `private contributions` by users in Chile on `2026/11/7 4:07 AM UTC`. This list contains users from `Chile` and cities `Santiago` `Valparaíso` `Viña-del-mar` `Arica` `Temuco` `Concepcion` `Puerto-montt`.
 
 There are `1 countries` and `7 cities` can be found [here](https://github.com/NachoOFC/top-github-users-chile).
 
@@ -116,8 +116,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>@openvelora @novalangley @community @redlinesec<br/>@gsetech<br/></td>
 		<td><a href="https://twitter.com/felipealfonsog">felipealfonsog</a></td>
 		<td>Santiago, Metropolitan Region, Chile</td>
-		<td>2006</td>
-		<td>42705</td>
+		<td>2026</td>
+		<td>42741</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -131,7 +131,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>12</td>
-		<td>27633</td>
+		<td>27871</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -145,7 +145,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>935</td>
-		<td>22941</td>
+		<td>24099</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,7 +159,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>18311</td>
-		<td>21980</td>
+		<td>22009</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -173,7 +173,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>9</td>
-		<td>19640</td>
+		<td>19976</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -186,8 +186,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Gendigital </td>
 		<td><a href="https://twitter.com/DonEzio">DonEzio</a></td>
 		<td>Chile</td>
-		<td>6351</td>
-		<td>19513</td>
+		<td>6373</td>
+		<td>19557</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -201,7 +201,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>473</td>
-		<td>18907</td>
+		<td>19011</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -215,10 +215,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/lnds">lnds</a></td>
 		<td>Santiago, Chile</td>
 		<td>14526</td>
-		<td>18057</td>
+		<td>18058</td>
 	</tr>
 	<tr>
 		<td>9</td>
+		<td>
+			<a href="https://github.com/rarce">
+				<img src="https://avatars.githubusercontent.com/u/48420?s=72&v=4" width="24" alt="Avatar of rarce"> rarce
+			</a><br/>
+			Roberto Arce
+		</td>
+		<td>Docutray </td>
+		<td><a href="https://twitter.com/rarce">rarce</a></td>
+		<td>Santiago, Chile</td>
+		<td>1363</td>
+		<td>16622</td>
+	</tr>
+	<tr>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/limcross">
 				<img src="https://avatars.githubusercontent.com/u/584752?s=72&u=b40d66be6a4ea53bddf8c627ad036d01d6720f16&v=4" width="24" alt="Avatar of limcross"> limcross
@@ -229,21 +243,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/limcross2">limcross2</a></td>
 		<td>Santiago, Chile</td>
 		<td>16</td>
-		<td>16501</td>
-	</tr>
-	<tr>
-		<td>10</td>
-		<td>
-			<a href="https://github.com/rarce">
-				<img src="https://avatars.githubusercontent.com/u/48420?s=72&v=4" width="24" alt="Avatar of rarce"> rarce
-			</a><br/>
-			Roberto Arce
-		</td>
-		<td>Docutray </td>
-		<td><a href="https://twitter.com/rarce">rarce</a></td>
-		<td>Santiago, Chile</td>
-		<td>1345</td>
-		<td>16485</td>
+		<td>16519</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -257,7 +257,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>147</td>
-		<td>14940</td>
+		<td>14986</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -270,25 +270,11 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Vambe Ai </td>
 		<td><a href="https://twitter.com/sebabreguel">sebabreguel</a></td>
 		<td> Santiago, Chile</td>
-		<td>1051</td>
-		<td>13900</td>
+		<td>1068</td>
+		<td>13979</td>
 	</tr>
 	<tr>
 		<td>13</td>
-		<td>
-			<a href="https://github.com/grisuno">
-				<img src="https://avatars.githubusercontent.com/u/1097185?s=72&u=4337166dec782aa1312084b6fb92cc4e0f78865b&v=4" width="24" alt="Avatar of grisuno"> grisuno
-			</a><br/>
-			Grisuno
-		</td>
-		<td>Esporalibre Cl </td>
-		<td>No Twitter Username</td>
-		<td>Santiago de chile</td>
-		<td>13120</td>
-		<td>13646</td>
-	</tr>
-	<tr>
-		<td>14</td>
 		<td>
 			<a href="https://github.com/Alejandrehl">
 				<img src="https://avatars.githubusercontent.com/u/18683071?s=72&u=01487cce471b9f2042ee08015092f7dffb43c0ee&v=4" width="24" alt="Avatar of Alejandrehl"> Alejandrehl
@@ -299,10 +285,38 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>239</td>
-		<td>13610</td>
+		<td>13712</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
+			<a href="https://github.com/grisuno">
+				<img src="https://avatars.githubusercontent.com/u/1097185?s=72&u=4337166dec782aa1312084b6fb92cc4e0f78865b&v=4" width="24" alt="Avatar of grisuno"> grisuno
+			</a><br/>
+			Grisuno
+		</td>
+		<td>Esporalibre Cl </td>
+		<td>No Twitter Username</td>
+		<td>Santiago de chile</td>
+		<td>13193</td>
+		<td>13646</td>
 	</tr>
 	<tr>
 		<td>15</td>
+		<td>
+			<a href="https://github.com/nicolaslopezj">
+				<img src="https://avatars.githubusercontent.com/u/2042567?s=72&u=c47133ab706328f23ad5ec8e0b45d210620ae6f6&v=4" width="24" alt="Avatar of nicolaslopezj"> nicolaslopezj
+			</a><br/>
+			Nicolás López Jullian
+		</td>
+		<td>@getjusto  </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>402</td>
+		<td>12688</td>
+	</tr>
+	<tr>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/appwebd">
 				<img src="https://avatars.githubusercontent.com/u/20527169?s=72&u=9f1046cc22eeb0f5c11e524940e7f156d5bee0c5&v=4" width="24" alt="Avatar of appwebd"> appwebd
@@ -316,20 +330,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>12658</td>
 	</tr>
 	<tr>
-		<td>16</td>
-		<td>
-			<a href="https://github.com/nicolaslopezj">
-				<img src="https://avatars.githubusercontent.com/u/2042567?s=72&u=c47133ab706328f23ad5ec8e0b45d210620ae6f6&v=4" width="24" alt="Avatar of nicolaslopezj"> nicolaslopezj
-			</a><br/>
-			Nicolás López Jullian
-		</td>
-		<td>@getjusto  </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>402</td>
-		<td>12465</td>
-	</tr>
-	<tr>
 		<td>17</td>
 		<td>
 			<a href="https://github.com/fcarvajalbrown">
@@ -341,7 +341,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago de Chile</td>
 		<td>3187</td>
-		<td>12357</td>
+		<td>12585</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -355,7 +355,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>68</td>
-		<td>11747</td>
+		<td>11862</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -369,24 +369,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/kaosb">kaosb</a></td>
 		<td>Viña del Mar, Chile</td>
 		<td>18</td>
-		<td>11591</td>
+		<td>11640</td>
 	</tr>
 	<tr>
 		<td>20</td>
-		<td>
-			<a href="https://github.com/fnmendez">
-				<img src="https://avatars.githubusercontent.com/u/20799436?s=72&u=f166154ae3cb38c068474b9a3606d46cd467c3a2&v=4" width="24" alt="Avatar of fnmendez"> fnmendez
-			</a><br/>
-			Franco Mendez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_francomendez">_francomendez</a></td>
-		<td>Chile</td>
-		<td>35</td>
-		<td>11409</td>
-	</tr>
-	<tr>
-		<td>21</td>
 		<td>
 			<a href="https://github.com/aamatte">
 				<img src="https://avatars.githubusercontent.com/u/7615277?s=72&u=9a795e561a86370313b1a57a4f1b2a921a851c97&v=4" width="24" alt="Avatar of aamatte"> aamatte
@@ -397,7 +383,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/andresmatte">andresmatte</a></td>
 		<td>Santiago, Chile</td>
 		<td>178</td>
-		<td>11406</td>
+		<td>11449</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
+			<a href="https://github.com/fnmendez">
+				<img src="https://avatars.githubusercontent.com/u/20799436?s=72&u=f166154ae3cb38c068474b9a3606d46cd467c3a2&v=4" width="24" alt="Avatar of fnmendez"> fnmendez
+			</a><br/>
+			Franco Mendez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/_francomendez">_francomendez</a></td>
+		<td>Chile</td>
+		<td>35</td>
+		<td>11438</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -410,8 +410,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Le Wagon </td>
 		<td>No Twitter Username</td>
 		<td>Remote - Mexico, Santiago & Buenos Aires</td>
-		<td>375</td>
-		<td>11355</td>
+		<td>392</td>
+		<td>11387</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -425,7 +425,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>0</td>
-		<td>10441</td>
+		<td>10500</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -438,8 +438,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/aledbf">aledbf</a></td>
 		<td>Santiago, Chile</td>
-		<td>3421</td>
-		<td>10350</td>
+		<td>3465</td>
+		<td>10487</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -452,8 +452,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jsgrrchg">jsgrrchg</a></td>
 		<td>Chile</td>
-		<td>5504</td>
-		<td>10077</td>
+		<td>5511</td>
+		<td>10084</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -466,8 +466,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>@disenoudp </td>
 		<td>No Twitter Username</td>
 		<td>Chile</td>
-		<td>9417</td>
-		<td>9642</td>
+		<td>9430</td>
+		<td>9655</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -481,7 +481,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/nicolascine">nicolascine</a></td>
 		<td>Chile</td>
 		<td>343</td>
-		<td>9584</td>
+		<td>9586</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -495,7 +495,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>82</td>
-		<td>9353</td>
+		<td>9387</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -509,24 +509,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Valdivia, Chile</td>
 		<td>60</td>
-		<td>9139</td>
+		<td>9284</td>
 	</tr>
 	<tr>
 		<td>30</td>
-		<td>
-			<a href="https://github.com/rodyherrera">
-				<img src="https://avatars.githubusercontent.com/u/69746956?s=72&u=d201d36af050f079f6a5bcc45a8618fbd26d40df&v=4" width="24" alt="Avatar of rodyherrera"> rodyherrera
-			</a><br/>
-			Rodolfo Herrera Hernandez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile, Talca</td>
-		<td>4149</td>
-		<td>8428</td>
-	</tr>
-	<tr>
-		<td>31</td>
 		<td>
 			<a href="https://github.com/blackjid">
 				<img src="https://avatars.githubusercontent.com/u/228037?s=72&v=4" width="24" alt="Avatar of blackjid"> blackjid
@@ -537,7 +523,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/blackjid">blackjid</a></td>
 		<td>Santiago, Chile</td>
 		<td>1093</td>
-		<td>8408</td>
+		<td>8458</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td>
+			<a href="https://github.com/rodyherrera">
+				<img src="https://avatars.githubusercontent.com/u/69746956?s=72&u=d201d36af050f079f6a5bcc45a8618fbd26d40df&v=4" width="24" alt="Avatar of rodyherrera"> rodyherrera
+			</a><br/>
+			Rodolfo Herrera Hernandez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chile, Talca</td>
+		<td>4149</td>
+		<td>8438</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -551,7 +551,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>200</td>
-		<td>8187</td>
+		<td>8248</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -564,8 +564,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Madtrackers </td>
 		<td><a href="https://twitter.com/madkoding">madkoding</a></td>
 		<td>Chile</td>
-		<td>6788</td>
-		<td>7975</td>
+		<td>6843</td>
+		<td>8032</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -593,7 +593,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>1058</td>
-		<td>7252</td>
+		<td>7262</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -621,7 +621,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/Giocrisrai">Giocrisrai</a></td>
 		<td>Puerto Montt, Chile</td>
 		<td>676</td>
-		<td>6856</td>
+		<td>6866</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -634,8 +634,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>@codebrossystems @laboratorio-nacho @fetchvault @valnex-digital<br/>@github<br/></td>
 		<td>No Twitter Username</td>
 		<td>Puerto Montt, Chile</td>
-		<td>4880</td>
-		<td>6719</td>
+		<td>4881</td>
+		<td>6724</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -649,7 +649,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/lewandydilone">lewandydilone</a></td>
 		<td>Santiago,Dominican Republic</td>
 		<td>97</td>
-		<td>6679</td>
+		<td>6680</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -663,7 +663,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>123</td>
-		<td>6558</td>
+		<td>6591</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -676,8 +676,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Pantacor </td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
-		<td>3418</td>
-		<td>6432</td>
+		<td>3428</td>
+		<td>6444</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -691,7 +691,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>18</td>
-		<td>6179</td>
+		<td>6187</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -719,10 +719,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>659</td>
-		<td>5967</td>
+		<td>5982</td>
 	</tr>
 	<tr>
 		<td>45</td>
+		<td>
+			<a href="https://github.com/juanbrujo">
+				<img src="https://avatars.githubusercontent.com/u/362186?s=72&u=4052131634180f584e7d3c3b156a7bc2d507b8fc&v=4" width="24" alt="Avatar of juanbrujo"> juanbrujo
+			</a><br/>
+			Jorge Epuñan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>902</td>
+		<td>5936</td>
+	</tr>
+	<tr>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/ppizarror">
 				<img src="https://avatars.githubusercontent.com/u/12925256?s=72&u=3e1c12be03f79c13045388a3f271477b769f586a&v=4" width="24" alt="Avatar of ppizarror"> ppizarror
@@ -733,21 +747,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>756</td>
-		<td>5925</td>
-	</tr>
-	<tr>
-		<td>46</td>
-		<td>
-			<a href="https://github.com/juanbrujo">
-				<img src="https://avatars.githubusercontent.com/u/362186?s=72&u=4052131634180f584e7d3c3b156a7bc2d507b8fc&v=4" width="24" alt="Avatar of juanbrujo"> juanbrujo
-			</a><br/>
-			Jorge Epuñan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>899</td>
-		<td>5894</td>
+		<td>5927</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -761,7 +761,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/unnamed_query">unnamed_query</a></td>
 		<td>Valdivia, Chile</td>
 		<td>297</td>
-		<td>5849</td>
+		<td>5899</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -775,7 +775,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>57</td>
-		<td>5846</td>
+		<td>5871</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -789,10 +789,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago de Chile</td>
 		<td>698</td>
-		<td>5737</td>
+		<td>5746</td>
 	</tr>
 	<tr>
 		<td>50</td>
+		<td>
+			<a href="https://github.com/royarzun">
+				<img src="https://avatars.githubusercontent.com/u/213289?s=72&u=b7e73bfb53db1c00c422cf61d5151198c4e63a2d&v=4" width="24" alt="Avatar of royarzun"> royarzun
+			</a><br/>
+			Ricardo Oyarzun
+		</td>
+		<td>@uber </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>91</td>
+		<td>5713</td>
+	</tr>
+	<tr>
+		<td>51</td>
 		<td>
 			<a href="https://github.com/wajahat-ali-mir-dev">
 				<img src="https://avatars.githubusercontent.com/u/156110102?s=72&u=c407c0684339b08ac2d9c5bc14cd4bc8658c1ec6&v=4" width="24" alt="Avatar of wajahat-ali-mir-dev"> wajahat-ali-mir-dev
@@ -806,20 +820,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>5689</td>
 	</tr>
 	<tr>
-		<td>51</td>
-		<td>
-			<a href="https://github.com/royarzun">
-				<img src="https://avatars.githubusercontent.com/u/213289?s=72&u=b7e73bfb53db1c00c422cf61d5151198c4e63a2d&v=4" width="24" alt="Avatar of royarzun"> royarzun
-			</a><br/>
-			Ricardo Oyarzun
-		</td>
-		<td>@uber </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>91</td>
-		<td>5688</td>
-	</tr>
-	<tr>
 		<td>52</td>
 		<td>
 			<a href="https://github.com/peopleworks">
@@ -831,24 +831,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/peopleworks">peopleworks</a></td>
 		<td>Santiago, Dominican Republic</td>
 		<td>1360</td>
-		<td>5554</td>
+		<td>5581</td>
 	</tr>
 	<tr>
 		<td>53</td>
-		<td>
-			<a href="https://github.com/CarloGauss33">
-				<img src="https://avatars.githubusercontent.com/u/45949389?s=72&u=4460d4734d77975b384e0e7cf154cf13121ea2a9&v=4" width="24" alt="Avatar of CarloGauss33"> CarloGauss33
-			</a><br/>
-			Carlos Paredes
-		</td>
-		<td>@mok-labs </td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>42</td>
-		<td>5532</td>
-	</tr>
-	<tr>
-		<td>54</td>
 		<td>
 			<a href="https://github.com/mquezada">
 				<img src="https://avatars.githubusercontent.com/u/549627?s=72&u=ed1e0bb08b81cd412817e048b4fc5e800e0a0500&v=4" width="24" alt="Avatar of mquezada"> mquezada
@@ -859,7 +845,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>42</td>
-		<td>5523</td>
+		<td>5556</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/CarloGauss33">
+				<img src="https://avatars.githubusercontent.com/u/45949389?s=72&u=4460d4734d77975b384e0e7cf154cf13121ea2a9&v=4" width="24" alt="Avatar of CarloGauss33"> CarloGauss33
+			</a><br/>
+			Carlos Paredes
+		</td>
+		<td>@mok-labs </td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>42</td>
+		<td>5544</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -872,11 +872,25 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/maria_rcks">maria_rcks</a></td>
 		<td>Santiago, Chile</td>
-		<td>2943</td>
-		<td>5498</td>
+		<td>2951</td>
+		<td>5506</td>
 	</tr>
 	<tr>
 		<td>56</td>
+		<td>
+			<a href="https://github.com/rubentd">
+				<img src="https://avatars.githubusercontent.com/u/1794079?s=72&u=cf715c58a04dcb24b960059139491edf83013df9&v=4" width="24" alt="Avatar of rubentd"> rubentd
+			</a><br/>
+			Ruben Torres
+		</td>
+		<td>Qubitsuite </td>
+		<td><a href="https://twitter.com/rubentdlh">rubentdlh</a></td>
+		<td>Santiago</td>
+		<td>13</td>
+		<td>5498</td>
+	</tr>
+	<tr>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/caverav">
 				<img src="https://avatars.githubusercontent.com/u/66751764?s=72&u=fca68e8fcf1430c9a4acac4ece5a9b6b20ad76cd&v=4" width="24" alt="Avatar of caverav"> caverav
@@ -890,20 +904,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>5496</td>
 	</tr>
 	<tr>
-		<td>57</td>
-		<td>
-			<a href="https://github.com/rubentd">
-				<img src="https://avatars.githubusercontent.com/u/1794079?s=72&u=cf715c58a04dcb24b960059139491edf83013df9&v=4" width="24" alt="Avatar of rubentd"> rubentd
-			</a><br/>
-			Ruben Torres
-		</td>
-		<td>Qubitsuite </td>
-		<td><a href="https://twitter.com/rubentdlh">rubentdlh</a></td>
-		<td>Santiago</td>
-		<td>13</td>
-		<td>5484</td>
-	</tr>
-	<tr>
 		<td>58</td>
 		<td>
 			<a href="https://github.com/richonguzman">
@@ -915,7 +915,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Viña del Mar, Chile</td>
 		<td>4697</td>
-		<td>5455</td>
+		<td>5457</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -928,8 +928,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Technical Lead @cmpc </td>
 		<td>No Twitter Username</td>
 		<td>Chile</td>
-		<td>1500</td>
-		<td>5412</td>
+		<td>1653</td>
+		<td>5449</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -942,8 +942,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Vigalab </td>
 		<td>No Twitter Username</td>
 		<td>Santiago,Chile</td>
-		<td>493</td>
-		<td>5346</td>
+		<td>537</td>
+		<td>5396</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -957,10 +957,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/lopezjurip">lopezjurip</a></td>
 		<td>Santiago, Chile</td>
 		<td>302</td>
-		<td>5313</td>
+		<td>5316</td>
 	</tr>
 	<tr>
 		<td>62</td>
+		<td>
+			<a href="https://github.com/v4rgas">
+				<img src="https://avatars.githubusercontent.com/u/66626747?s=72&u=9b1f440fa3b14f3047fe9f345a7537fd231c79b4&v=4" width="24" alt="Avatar of v4rgas"> v4rgas
+			</a><br/>
+			Juan Vargas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>643</td>
+		<td>5258</td>
+	</tr>
+	<tr>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/margavicunas">
 				<img src="https://avatars.githubusercontent.com/u/69604538?s=72&u=415d4cc6e6653cef39d5bfe464da58341f7f3267&v=4" width="24" alt="Avatar of margavicunas"> margavicunas
@@ -974,20 +988,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>5244</td>
 	</tr>
 	<tr>
-		<td>63</td>
-		<td>
-			<a href="https://github.com/v4rgas">
-				<img src="https://avatars.githubusercontent.com/u/66626747?s=72&u=9b1f440fa3b14f3047fe9f345a7537fd231c79b4&v=4" width="24" alt="Avatar of v4rgas"> v4rgas
-			</a><br/>
-			Juan Vargas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>637</td>
-		<td>5242</td>
-	</tr>
-	<tr>
 		<td>64</td>
 		<td>
 			<a href="https://github.com/CxrlosKenobi">
@@ -999,7 +999,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>213</td>
-		<td>5185</td>
+		<td>5195</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -1012,8 +1012,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Todoist </td>
 		<td><a href="https://twitter.com/gnapse">gnapse</a></td>
 		<td>Santiago, Chile</td>
-		<td>1070</td>
-		<td>5106</td>
+		<td>1073</td>
+		<td>5154</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -1027,24 +1027,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/danielsateler1">danielsateler1</a></td>
 		<td>Santiago, Chile</td>
 		<td>317</td>
-		<td>5082</td>
+		<td>5086</td>
 	</tr>
 	<tr>
 		<td>67</td>
-		<td>
-			<a href="https://github.com/dialvarezs">
-				<img src="https://avatars.githubusercontent.com/u/13831919?s=72&u=9eab4e7df85e565f3928b8b2d9b052d32ea331cb&v=4" width="24" alt="Avatar of dialvarezs"> dialvarezs
-			</a><br/>
-			Diego Alvarez S.
-		</td>
-		<td>Universidad De Magallanes </td>
-		<td>No Twitter Username</td>
-		<td>Punta Arenas, Chile</td>
-		<td>2407</td>
-		<td>5008</td>
-	</tr>
-	<tr>
-		<td>68</td>
 		<td>
 			<a href="https://github.com/Baelfire18">
 				<img src="https://avatars.githubusercontent.com/u/50716449?s=72&u=49697b3530d24d68e3beb441e5bd46f4c25800aa&v=4" width="24" alt="Avatar of Baelfire18"> Baelfire18
@@ -1055,7 +1041,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>184</td>
-		<td>5007</td>
+		<td>5020</td>
+	</tr>
+	<tr>
+		<td>68</td>
+		<td>
+			<a href="https://github.com/dialvarezs">
+				<img src="https://avatars.githubusercontent.com/u/13831919?s=72&u=9eab4e7df85e565f3928b8b2d9b052d32ea331cb&v=4" width="24" alt="Avatar of dialvarezs"> dialvarezs
+			</a><br/>
+			Diego Alvarez S.
+		</td>
+		<td>Universidad De Magallanes </td>
+		<td>No Twitter Username</td>
+		<td>Punta Arenas, Chile</td>
+		<td>2408</td>
+		<td>5009</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -1068,8 +1068,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Yii, Codeception, Wordpress. </td>
 		<td><a href="https://twitter.com/terabytesoftw">terabytesoftw</a></td>
 		<td>Santiago, Chile</td>
-		<td>4744</td>
-		<td>4952</td>
+		<td>4771</td>
+		<td>4979</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -1083,7 +1083,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>118</td>
-		<td>4857</td>
+		<td>4895</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1097,7 +1097,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile, San Pedro de la Paz</td>
 		<td>308</td>
-		<td>4770</td>
+		<td>4822</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1111,7 +1111,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>51</td>
-		<td>4720</td>
+		<td>4759</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1125,7 +1125,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/_jaimeGuzman">_jaimeGuzman</a></td>
 		<td>Santiago, Chile</td>
 		<td>54</td>
-		<td>4650</td>
+		<td>4651</td>
 	</tr>
 	<tr>
 		<td>74</td>
@@ -1139,7 +1139,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/cisco_legrand">cisco_legrand</a></td>
 		<td>Santiago de Compostela, Galicia</td>
 		<td>92</td>
-		<td>4550</td>
+		<td>4555</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1152,25 +1152,11 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chile</td>
-		<td>49</td>
-		<td>4541</td>
+		<td>50</td>
+		<td>4542</td>
 	</tr>
 	<tr>
 		<td>76</td>
-		<td>
-			<a href="https://github.com/arcaela">
-				<img src="https://avatars.githubusercontent.com/u/15781453?s=72&u=b06393d05bc47892aa440297978555b6e892b53f&v=4" width="24" alt="Avatar of arcaela"> arcaela
-			</a><br/>
-			Miguel A Guevara R
-		</td>
-		<td>@arcaelas  </td>
-		<td><a href="https://twitter.com/arcaelas">arcaelas</a></td>
-		<td>San Antonio, Valparaiso - Chile</td>
-		<td>536</td>
-		<td>4513</td>
-	</tr>
-	<tr>
-		<td>77</td>
 		<td>
 			<a href="https://github.com/crishernandezmaps">
 				<img src="https://avatars.githubusercontent.com/u/5718347?s=72&u=611f477307e1d61074b243696d3caac3d573cebb&v=4" width="24" alt="Avatar of crishernandezmaps"> crishernandezmaps
@@ -1181,10 +1167,52 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>203</td>
-		<td>4507</td>
+		<td>4519</td>
+	</tr>
+	<tr>
+		<td>77</td>
+		<td>
+			<a href="https://github.com/arcaela">
+				<img src="https://avatars.githubusercontent.com/u/15781453?s=72&u=b06393d05bc47892aa440297978555b6e892b53f&v=4" width="24" alt="Avatar of arcaela"> arcaela
+			</a><br/>
+			Miguel A Guevara R
+		</td>
+		<td>@arcaelas  </td>
+		<td><a href="https://twitter.com/arcaelas">arcaelas</a></td>
+		<td>San Antonio, Valparaiso - Chile</td>
+		<td>536</td>
+		<td>4519</td>
 	</tr>
 	<tr>
 		<td>78</td>
+		<td>
+			<a href="https://github.com/hexripper">
+				<img src="https://avatars.githubusercontent.com/u/14365041?s=72&u=036486f1dba9c7cdfe79a50530ee17a9d58a38e0&v=4" width="24" alt="Avatar of hexripper"> hexripper
+			</a><br/>
+			Esteban
+		</td>
+		<td>@digital-gob-cl </td>
+		<td>No Twitter Username</td>
+		<td>Santiago</td>
+		<td>165</td>
+		<td>4496</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
+			<a href="https://github.com/zeluizr">
+				<img src="https://avatars.githubusercontent.com/u/1095908?s=72&u=9e326a7c981e293977311cf537cf31a6bbba2ae5&v=4" width="24" alt="Avatar of zeluizr"> zeluizr
+			</a><br/>
+			Jose Luiz Rodrigues
+		</td>
+		<td>Commente.me </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>1040</td>
+		<td>4460</td>
+	</tr>
+	<tr>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/TesslaRay">
 				<img src="https://avatars.githubusercontent.com/u/11906937?s=72&u=4147394b29c500ba4360c01c86dc73386e5ffc86&v=4" width="24" alt="Avatar of TesslaRay"> TesslaRay
@@ -1195,10 +1223,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>287</td>
-		<td>4433</td>
+		<td>4434</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/mframos3">
 				<img src="https://avatars.githubusercontent.com/u/37158653?s=72&u=72ae9ccd31eecc978344e8df2a9629ef532370db&v=4" width="24" alt="Avatar of mframos3"> mframos3
@@ -1209,10 +1237,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>8</td>
-		<td>4420</td>
+		<td>4429</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/ctala">
 				<img src="https://avatars.githubusercontent.com/u/2981193?s=72&v=4" width="24" alt="Avatar of ctala"> ctala
@@ -1223,35 +1251,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>206</td>
-		<td>4382</td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>
-			<a href="https://github.com/vladimiracunadev-create">
-				<img src="https://avatars.githubusercontent.com/u/244009933?s=72&u=894f36db0c778a442785f394fd41ca0d4ffc1af3&v=4" width="24" alt="Avatar of vladimiracunadev-create"> vladimiracunadev-create
-			</a><br/>
-			Vladimir Acuña Valdebenito DEV
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/VladiAcunaDev">VladiAcunaDev</a></td>
-		<td>Chile</td>
-		<td>4163</td>
-		<td>4380</td>
-	</tr>
-	<tr>
-		<td>82</td>
-		<td>
-			<a href="https://github.com/dcortesnet">
-				<img src="https://avatars.githubusercontent.com/u/20870950?s=72&u=26728548c57018625202f74fe99b43e346e51261&v=4" width="24" alt="Avatar of dcortesnet"> dcortesnet
-			</a><br/>
-			Diego C
-		</td>
-		<td>Software </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>13</td>
-		<td>4364</td>
+		<td>4403</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1264,25 +1264,39 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>E[ad] Escuela De Arquitectura<br/>Y<br/>Diseño<br/></td>
 		<td><a href="https://twitter.com/hspencer">hspencer</a></td>
 		<td>Viña del Mar, Valparaíso, Chile</td>
-		<td>2597</td>
-		<td>4362</td>
+		<td>2628</td>
+		<td>4393</td>
 	</tr>
 	<tr>
 		<td>84</td>
 		<td>
-			<a href="https://github.com/hexripper">
-				<img src="https://avatars.githubusercontent.com/u/14365041?s=72&u=036486f1dba9c7cdfe79a50530ee17a9d58a38e0&v=4" width="24" alt="Avatar of hexripper"> hexripper
+			<a href="https://github.com/vladimiracunadev-create">
+				<img src="https://avatars.githubusercontent.com/u/244009933?s=72&u=894f36db0c778a442785f394fd41ca0d4ffc1af3&v=4" width="24" alt="Avatar of vladimiracunadev-create"> vladimiracunadev-create
 			</a><br/>
-			Esteban
+			Vladimir Acuña Valdebenito DEV
 		</td>
-		<td>@digital-gob-cl </td>
-		<td>No Twitter Username</td>
-		<td>Santiago</td>
-		<td>165</td>
-		<td>4357</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/VladiAcunaDev">VladiAcunaDev</a></td>
+		<td>Chile</td>
+		<td>4172</td>
+		<td>4385</td>
 	</tr>
 	<tr>
 		<td>85</td>
+		<td>
+			<a href="https://github.com/dcortesnet">
+				<img src="https://avatars.githubusercontent.com/u/20870950?s=72&u=26728548c57018625202f74fe99b43e346e51261&v=4" width="24" alt="Avatar of dcortesnet"> dcortesnet
+			</a><br/>
+			Diego C
+		</td>
+		<td>Software </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>13</td>
+		<td>4365</td>
+	</tr>
+	<tr>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/raulmt">
 				<img src="https://avatars.githubusercontent.com/u/632782?s=72&u=2b3238fc48f6006a4c8e6a5b4f824c2ecbae12c5&v=4" width="24" alt="Avatar of raulmt"> raulmt
@@ -1293,10 +1307,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/raulmt">raulmt</a></td>
 		<td>Chile</td>
 		<td>4</td>
-		<td>4287</td>
+		<td>4343</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/slara">
 				<img src="https://avatars.githubusercontent.com/u/585824?s=72&v=4" width="24" alt="Avatar of slara"> slara
@@ -1307,24 +1321,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>100</td>
-		<td>4281</td>
-	</tr>
-	<tr>
-		<td>87</td>
-		<td>
-			<a href="https://github.com/mapacheverdugo">
-				<img src="https://avatars.githubusercontent.com/u/16374322?s=72&u=d11f6c2a8164759feb6a91d66d26039c2876ac1f&v=4" width="24" alt="Avatar of mapacheverdugo"> mapacheverdugo
-			</a><br/>
-			Jorge Verdugo
-		</td>
-		<td>Universidad Tecnológica Metropolitana De<br/>Chile<br/></td>
-		<td><a href="https://twitter.com/mapacheverdugo">mapacheverdugo</a></td>
-		<td>Curacaví, Chile</td>
-		<td>28</td>
-		<td>4214</td>
+		<td>4320</td>
 	</tr>
 	<tr>
 		<td>88</td>
+		<td>
+			<a href="https://github.com/Hancapo">
+				<img src="https://avatars.githubusercontent.com/u/20731612?s=72&u=5c32991e138a54f3e188e559584b1eadfeb08ed4&v=4" width="24" alt="Avatar of Hancapo"> Hancapo
+			</a><br/>
+			MrVicho13
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>2324</td>
+		<td>4297</td>
+	</tr>
+	<tr>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/puntorigen">
 				<img src="https://avatars.githubusercontent.com/u/57605485?s=72&v=4" width="24" alt="Avatar of puntorigen"> puntorigen
@@ -1335,35 +1349,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/punt0rigen">punt0rigen</a></td>
 		<td>Santiago, Chile</td>
 		<td>350</td>
-		<td>4198</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
-			<a href="https://github.com/Hancapo">
-				<img src="https://avatars.githubusercontent.com/u/20731612?s=72&u=5c32991e138a54f3e188e559584b1eadfeb08ed4&v=4" width="24" alt="Avatar of Hancapo"> Hancapo
-			</a><br/>
-			MrVicho13
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>2242</td>
-		<td>4198</td>
+		<td>4238</td>
 	</tr>
 	<tr>
 		<td>90</td>
 		<td>
-			<a href="https://github.com/zeluizr">
-				<img src="https://avatars.githubusercontent.com/u/1095908?s=72&u=9e326a7c981e293977311cf537cf31a6bbba2ae5&v=4" width="24" alt="Avatar of zeluizr"> zeluizr
+			<a href="https://github.com/mapacheverdugo">
+				<img src="https://avatars.githubusercontent.com/u/16374322?s=72&u=d11f6c2a8164759feb6a91d66d26039c2876ac1f&v=4" width="24" alt="Avatar of mapacheverdugo"> mapacheverdugo
 			</a><br/>
-			Jose Luiz Rodrigues
+			Jorge Verdugo
 		</td>
-		<td>Commente.me </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>991</td>
-		<td>4180</td>
+		<td>Universidad Tecnológica Metropolitana De<br/>Chile<br/></td>
+		<td><a href="https://twitter.com/mapacheverdugo">mapacheverdugo</a></td>
+		<td>Curacaví, Chile</td>
+		<td>28</td>
+		<td>4238</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -1391,7 +1391,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/felixalguzman">felixalguzman</a></td>
 		<td>Santiago De Los Caballeros, Dominican Republic</td>
 		<td>231</td>
-		<td>4099</td>
+		<td>4100</td>
 	</tr>
 	<tr>
 		<td>93</td>
@@ -1405,10 +1405,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>423</td>
-		<td>4047</td>
+		<td>4066</td>
 	</tr>
 	<tr>
 		<td>94</td>
+		<td>
+			<a href="https://github.com/diflores">
+				<img src="https://avatars.githubusercontent.com/u/8507302?s=72&u=1efb76597843f56301fc39410af19654b436b0bf&v=4" width="24" alt="Avatar of diflores"> diflores
+			</a><br/>
+			Daniela Flores
+		</td>
+		<td>@copilotmoney </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>1</td>
+		<td>3899</td>
+	</tr>
+	<tr>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/griffero">
 				<img src="https://avatars.githubusercontent.com/u/5199826?s=72&u=4c5691602e24d8f55a9b60c8d3a7d6181dde51ff&v=4" width="24" alt="Avatar of griffero"> griffero
@@ -1422,7 +1436,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>3886</td>
 	</tr>
 	<tr>
-		<td>95</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/xThreeh">
 				<img src="https://avatars.githubusercontent.com/u/16139465?s=72&u=96a945c2eb112a6250c3e18e6be6c9b1b4d5d8ef&v=4" width="24" alt="Avatar of xThreeh"> xThreeh
@@ -1436,7 +1450,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>3863</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>97</td>
 		<td>
 			<a href="https://github.com/ez2torta">
 				<img src="https://avatars.githubusercontent.com/u/5553942?s=72&u=3a182e16e6e5abbaf6b02feebcdcc4363aed8139&v=4" width="24" alt="Avatar of ez2torta"> ez2torta
@@ -1447,21 +1461,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>71</td>
-		<td>3842</td>
-	</tr>
-	<tr>
-		<td>97</td>
-		<td>
-			<a href="https://github.com/diflores">
-				<img src="https://avatars.githubusercontent.com/u/8507302?s=72&u=1efb76597843f56301fc39410af19654b436b0bf&v=4" width="24" alt="Avatar of diflores"> diflores
-			</a><br/>
-			Daniela Flores
-		</td>
-		<td>@copilotmoney </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>1</td>
-		<td>3835</td>
+		<td>3847</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -1474,8 +1474,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>@applydigital  </td>
 		<td><a href="https://twitter.com/Jondotsoy">Jondotsoy</a></td>
 		<td>Chile</td>
-		<td>1453</td>
-		<td>3807</td>
+		<td>1459</td>
+		<td>3813</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -1489,24 +1489,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/elbm0x">elbm0x</a></td>
 		<td>Los Ángeles, Bio-Bio, Chile</td>
 		<td>345</td>
-		<td>3762</td>
+		<td>3784</td>
 	</tr>
 	<tr>
 		<td>100</td>
-		<td>
-			<a href="https://github.com/jwcastillo">
-				<img src="https://avatars.githubusercontent.com/u/443948?s=72&u=4656a49a15d04f88b7bb234da44b8e863fa45f21&v=4" width="24" alt="Avatar of jwcastillo"> jwcastillo
-			</a><br/>
-			Wen Castillo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jwcastillo">jwcastillo</a></td>
-		<td>Santiago de Chile, Chile</td>
-		<td>980</td>
-		<td>3751</td>
-	</tr>
-	<tr>
-		<td>101</td>
 		<td>
 			<a href="https://github.com/Gaonuk">
 				<img src="https://avatars.githubusercontent.com/u/43006704?s=72&u=03da0c180d557e883351a8bddd6fa8922c1e2216&v=4" width="24" alt="Avatar of Gaonuk"> Gaonuk
@@ -1517,24 +1503,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/GaonukRodrigo">GaonukRodrigo</a></td>
 		<td>Santiago, Chile.</td>
 		<td>317</td>
-		<td>3726</td>
+		<td>3768</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
+			<a href="https://github.com/jwcastillo">
+				<img src="https://avatars.githubusercontent.com/u/443948?s=72&u=4656a49a15d04f88b7bb234da44b8e863fa45f21&v=4" width="24" alt="Avatar of jwcastillo"> jwcastillo
+			</a><br/>
+			Wen Castillo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jwcastillo">jwcastillo</a></td>
+		<td>Santiago de Chile, Chile</td>
+		<td>981</td>
+		<td>3754</td>
 	</tr>
 	<tr>
 		<td>102</td>
-		<td>
-			<a href="https://github.com/galenzo17">
-				<img src="https://avatars.githubusercontent.com/u/9113159?s=72&u=87ef3bb551c6092479c41a5756654c4a138e1804&v=4" width="24" alt="Avatar of galenzo17"> galenzo17
-			</a><br/>
-			Agustin Bereciartua Castillo
-		</td>
-		<td>Shinkansen </td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>558</td>
-		<td>3617</td>
-	</tr>
-	<tr>
-		<td>103</td>
 		<td>
 			<a href="https://github.com/JosefaPaz">
 				<img src="https://avatars.githubusercontent.com/u/41802643?s=72&u=9586e101c78b61bc2a85cb3d2c27796fd28a8400&v=4" width="24" alt="Avatar of JosefaPaz"> JosefaPaz
@@ -1545,7 +1531,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>5</td>
-		<td>3609</td>
+		<td>3625</td>
+	</tr>
+	<tr>
+		<td>103</td>
+		<td>
+			<a href="https://github.com/galenzo17">
+				<img src="https://avatars.githubusercontent.com/u/9113159?s=72&u=87ef3bb551c6092479c41a5756654c4a138e1804&v=4" width="24" alt="Avatar of galenzo17"> galenzo17
+			</a><br/>
+			Agustin Bereciartua Castillo
+		</td>
+		<td>Shinkansen </td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>558</td>
+		<td>3619</td>
 	</tr>
 	<tr>
 		<td>104</td>
@@ -1573,24 +1573,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>101</td>
-		<td>3499</td>
+		<td>3515</td>
 	</tr>
 	<tr>
 		<td>106</td>
-		<td>
-			<a href="https://github.com/mvargas33">
-				<img src="https://avatars.githubusercontent.com/u/43217761?s=72&u=6b1beaed092bbf176dc09cc138ee76c61094b456&v=4" width="24" alt="Avatar of mvargas33"> mvargas33
-			</a><br/>
-			Maximiliano Vargas
-		</td>
-		<td>@toku-ia  </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>144</td>
-		<td>3498</td>
-	</tr>
-	<tr>
-		<td>107</td>
 		<td>
 			<a href="https://github.com/agucova">
 				<img src="https://avatars.githubusercontent.com/u/4694408?s=72&u=be8965d3804213365821f977c93cee34b81fdeee&v=4" width="24" alt="Avatar of agucova"> agucova
@@ -1601,10 +1587,38 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/austinc3301">austinc3301</a></td>
 		<td>Santiago, Chile</td>
 		<td>453</td>
-		<td>3475</td>
+		<td>3501</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td>
+			<a href="https://github.com/mvargas33">
+				<img src="https://avatars.githubusercontent.com/u/43217761?s=72&u=6b1beaed092bbf176dc09cc138ee76c61094b456&v=4" width="24" alt="Avatar of mvargas33"> mvargas33
+			</a><br/>
+			Maximiliano Vargas
+		</td>
+		<td>@toku-ia  </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>144</td>
+		<td>3500</td>
 	</tr>
 	<tr>
 		<td>108</td>
+		<td>
+			<a href="https://github.com/fonturbel">
+				<img src="https://avatars.githubusercontent.com/u/25533231?s=72&u=42136fa185bdf39120241980e47b5cdd4dbffd1e&v=4" width="24" alt="Avatar of fonturbel"> fonturbel
+			</a><br/>
+			Francisco E. Fonturbel
+		</td>
+		<td>Millenium Nucleus Patagonian Limit<br/>Of<br/>Life<br/></td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>183</td>
+		<td>3468</td>
+	</tr>
+	<tr>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/maaferna">
 				<img src="https://avatars.githubusercontent.com/u/55238942?s=72&u=2edfab9c2d27f444c011d32a0d271693d013a7c7&v=4" width="24" alt="Avatar of maaferna"> maaferna
@@ -1618,20 +1632,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>3466</td>
 	</tr>
 	<tr>
-		<td>109</td>
-		<td>
-			<a href="https://github.com/fonturbel">
-				<img src="https://avatars.githubusercontent.com/u/25533231?s=72&u=42136fa185bdf39120241980e47b5cdd4dbffd1e&v=4" width="24" alt="Avatar of fonturbel"> fonturbel
-			</a><br/>
-			Francisco E. Fonturbel
-		</td>
-		<td>Millenium Nucleus Patagonian Limit<br/>Of<br/>Life<br/></td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>183</td>
-		<td>3458</td>
-	</tr>
-	<tr>
 		<td>110</td>
 		<td>
 			<a href="https://github.com/khpark2">
@@ -1643,7 +1643,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>7</td>
-		<td>3451</td>
+		<td>3459</td>
 	</tr>
 	<tr>
 		<td>111</td>
@@ -1656,11 +1656,25 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Mylab </td>
 		<td>No Twitter Username</td>
 		<td>Chile</td>
-		<td>2503</td>
-		<td>3442</td>
+		<td>2505</td>
+		<td>3451</td>
 	</tr>
 	<tr>
 		<td>112</td>
+		<td>
+			<a href="https://github.com/FarDust">
+				<img src="https://avatars.githubusercontent.com/u/26115793?s=72&u=612823d8eb9b534c9f750b7a7f745656be485bf0&v=4" width="24" alt="Avatar of FarDust"> FarDust
+			</a><br/>
+			Gabriel Faundez
+		</td>
+		<td>Blend 360 </td>
+		<td><a href="https://twitter.com/gxfaundez">gxfaundez</a></td>
+		<td>Chile</td>
+		<td>414</td>
+		<td>3448</td>
+	</tr>
+	<tr>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/Andres6936">
 				<img src="https://avatars.githubusercontent.com/u/18540634?s=72&u=c2cf64636794f0935a5709da3b677f70adb31ec1&v=4" width="24" alt="Avatar of Andres6936"> Andres6936
@@ -1671,10 +1685,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago de Cali (Colombia)</td>
 		<td>1372</td>
-		<td>3413</td>
+		<td>3418</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/leosoto">
 				<img src="https://avatars.githubusercontent.com/u/123691?s=72&v=4" width="24" alt="Avatar of leosoto"> leosoto
@@ -1685,10 +1699,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>0</td>
-		<td>3410</td>
+		<td>3412</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/rafafdz">
 				<img src="https://avatars.githubusercontent.com/u/35550309?s=72&u=d3c5f4148773334ebae0e058a2d2ae3520912241&v=4" width="24" alt="Avatar of rafafdz"> rafafdz
@@ -1702,7 +1716,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>3404</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/itsalb3rt">
 				<img src="https://avatars.githubusercontent.com/u/35310226?s=72&u=a2b41e04375b08a3ed5fe8aecd117ec98ed90ded&v=4" width="24" alt="Avatar of itsalb3rt"> itsalb3rt
@@ -1714,20 +1728,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Santiago,Dominican Republic</td>
 		<td>46</td>
 		<td>3347</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/FarDust">
-				<img src="https://avatars.githubusercontent.com/u/26115793?s=72&u=612823d8eb9b534c9f750b7a7f745656be485bf0&v=4" width="24" alt="Avatar of FarDust"> FarDust
-			</a><br/>
-			Gabriel Faundez
-		</td>
-		<td>Blend 360 </td>
-		<td><a href="https://twitter.com/gxfaundez">gxfaundez</a></td>
-		<td>Chile</td>
-		<td>403</td>
-		<td>3298</td>
 	</tr>
 	<tr>
 		<td>117</td>
@@ -1769,7 +1769,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>480</td>
-		<td>3262</td>
+		<td>3272</td>
 	</tr>
 	<tr>
 		<td>120</td>
@@ -1783,7 +1783,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Viña del Mar, Chile</td>
 		<td>83</td>
-		<td>3198</td>
+		<td>3238</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -1797,7 +1797,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Pucón, Chile</td>
 		<td>3</td>
-		<td>3192</td>
+		<td>3197</td>
 	</tr>
 	<tr>
 		<td>122</td>
@@ -1811,10 +1811,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>48</td>
-		<td>3126</td>
+		<td>3130</td>
 	</tr>
 	<tr>
 		<td>123</td>
+		<td>
+			<a href="https://github.com/sasalatart">
+				<img src="https://avatars.githubusercontent.com/u/5463900?s=72&u=c3eae06fb2923cc38a6b431115ac105ece0dc152&v=4" width="24" alt="Avatar of sasalatart"> sasalatart
+			</a><br/>
+			Sebastián Salata R-T
+		</td>
+		<td>@sailor-health </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>0</td>
+		<td>3119</td>
+	</tr>
+	<tr>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/rodrwan">
 				<img src="https://avatars.githubusercontent.com/u/2304451?s=72&u=cac4bc6c221369b27d4279ad15874c8cb64773a6&v=4" width="24" alt="Avatar of rodrwan"> rodrwan
@@ -1828,20 +1842,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>3109</td>
 	</tr>
 	<tr>
-		<td>124</td>
-		<td>
-			<a href="https://github.com/sasalatart">
-				<img src="https://avatars.githubusercontent.com/u/5463900?s=72&u=c3eae06fb2923cc38a6b431115ac105ece0dc152&v=4" width="24" alt="Avatar of sasalatart"> sasalatart
-			</a><br/>
-			Sebastián Salata R-T
-		</td>
-		<td>@sailor-health </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>0</td>
-		<td>3105</td>
-	</tr>
-	<tr>
 		<td>125</td>
 		<td>
 			<a href="https://github.com/gonzafg2">
@@ -1852,8 +1852,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>@fleming-technologie </td>
 		<td><a href="https://twitter.com/gonzaflemingg">gonzaflemingg</a></td>
 		<td>Santiago, Chile</td>
-		<td>669</td>
-		<td>3051</td>
+		<td>676</td>
+		<td>3066</td>
 	</tr>
 	<tr>
 		<td>126</td>
@@ -1866,8 +1866,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>@toku-ia  </td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
-		<td>105</td>
-		<td>3035</td>
+		<td>106</td>
+		<td>3052</td>
 	</tr>
 	<tr>
 		<td>127</td>
@@ -1886,6 +1886,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>128</td>
 		<td>
+			<a href="https://github.com/rjherrera">
+				<img src="https://avatars.githubusercontent.com/u/11674283?s=72&u=fe5c44de8badafac32f5f8d305ff291f6dcb74b6&v=4" width="24" alt="Avatar of rjherrera"> rjherrera
+			</a><br/>
+			Raimundo Herrera
+		</td>
+		<td>Platanus </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>133</td>
+		<td>3007</td>
+	</tr>
+	<tr>
+		<td>129</td>
+		<td>
 			<a href="https://github.com/fernandosmither">
 				<img src="https://avatars.githubusercontent.com/u/66154723?s=72&u=f79753eb207d01cca5bbb91ac62db6123e7622d1&v=4" width="24" alt="Avatar of fernandosmither"> fernandosmither
 			</a><br/>
@@ -1896,20 +1910,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Santiago, Chile</td>
 		<td>298</td>
 		<td>2976</td>
-	</tr>
-	<tr>
-		<td>129</td>
-		<td>
-			<a href="https://github.com/rjherrera">
-				<img src="https://avatars.githubusercontent.com/u/11674283?s=72&u=fe5c44de8badafac32f5f8d305ff291f6dcb74b6&v=4" width="24" alt="Avatar of rjherrera"> rjherrera
-			</a><br/>
-			Raimundo Herrera
-		</td>
-		<td>Platanus </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>133</td>
-		<td>2952</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -1928,6 +1928,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>131</td>
 		<td>
+			<a href="https://github.com/sebaiturravaldes">
+				<img src="https://avatars.githubusercontent.com/u/11622941?s=72&u=860df4920a44bf0bad566ecc1cdcbda281b0e71b&v=4" width="24" alt="Avatar of sebaiturravaldes"> sebaiturravaldes
+			</a><br/>
+			Sebastián Iturra
+		</td>
+		<td>@tcgmatch </td>
+		<td>No Twitter Username</td>
+		<td>Chile, Santiago</td>
+		<td>23</td>
+		<td>2892</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>
 			<a href="https://github.com/daleal">
 				<img src="https://avatars.githubusercontent.com/u/37158127?s=72&u=1fcd5f154e765e68ef785b12d07739d886289896&v=4" width="24" alt="Avatar of daleal"> daleal
 			</a><br/>
@@ -1938,20 +1952,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Santiago, Chile</td>
 		<td>405</td>
 		<td>2888</td>
-	</tr>
-	<tr>
-		<td>132</td>
-		<td>
-			<a href="https://github.com/sebaiturravaldes">
-				<img src="https://avatars.githubusercontent.com/u/11622941?s=72&u=860df4920a44bf0bad566ecc1cdcbda281b0e71b&v=4" width="24" alt="Avatar of sebaiturravaldes"> sebaiturravaldes
-			</a><br/>
-			Sebastián Iturra
-		</td>
-		<td>@tcgmatch </td>
-		<td>No Twitter Username</td>
-		<td>Chile, Santiago</td>
-		<td>23</td>
-		<td>2878</td>
 	</tr>
 	<tr>
 		<td>133</td>
@@ -1965,7 +1965,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago de Compostela</td>
 		<td>160</td>
-		<td>2838</td>
+		<td>2840</td>
 	</tr>
 	<tr>
 		<td>134</td>
@@ -1993,24 +1993,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/ehernandezvilla">ehernandezvilla</a></td>
 		<td>Chile</td>
 		<td>68</td>
-		<td>2678</td>
+		<td>2683</td>
 	</tr>
 	<tr>
 		<td>136</td>
-		<td>
-			<a href="https://github.com/josecannete">
-				<img src="https://avatars.githubusercontent.com/u/12201153?s=72&u=cc86616bca7762b64d1dcc630e05051a0e6f3981&v=4" width="24" alt="Avatar of josecannete"> josecannete
-			</a><br/>
-			José Cañete
-		</td>
-		<td>@topsort </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>4</td>
-		<td>2619</td>
-	</tr>
-	<tr>
-		<td>137</td>
 		<td>
 			<a href="https://github.com/matmartinez">
 				<img src="https://avatars.githubusercontent.com/u/2999694?s=72&u=05f79a816cf513940e2acf2e6485fb6e8053c20b&v=4" width="24" alt="Avatar of matmartinez"> matmartinez
@@ -2021,7 +2007,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/martinez">martinez</a></td>
 		<td>Chile</td>
 		<td>194</td>
-		<td>2614</td>
+		<td>2643</td>
+	</tr>
+	<tr>
+		<td>137</td>
+		<td>
+			<a href="https://github.com/josecannete">
+				<img src="https://avatars.githubusercontent.com/u/12201153?s=72&u=cc86616bca7762b64d1dcc630e05051a0e6f3981&v=4" width="24" alt="Avatar of josecannete"> josecannete
+			</a><br/>
+			José Cañete
+		</td>
+		<td>@topsort </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>4</td>
+		<td>2640</td>
 	</tr>
 	<tr>
 		<td>138</td>
@@ -2035,10 +2035,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>60</td>
-		<td>2567</td>
+		<td>2581</td>
 	</tr>
 	<tr>
 		<td>139</td>
+		<td>
+			<a href="https://github.com/AgdaScript">
+				<img src="https://avatars.githubusercontent.com/u/176329945?s=72&u=a55651570e67960def066644ca01c9074cea69ad&v=4" width="24" alt="Avatar of AgdaScript"> AgdaScript
+			</a><br/>
+			Agda Lopes
+		</td>
+		<td>Banco Caboverdiano De Negocios<br/></td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Cabo Verde</td>
+		<td>199</td>
+		<td>2567</td>
+	</tr>
+	<tr>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/storrealbac">
 				<img src="https://avatars.githubusercontent.com/u/83615350?s=72&u=a5b6878c1b310ac23d335d51aec40a51c9b0ea95&v=4" width="24" alt="Avatar of storrealbac"> storrealbac
@@ -2052,21 +2066,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>2560</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>141</td>
 		<td>
-			<a href="https://github.com/AgdaScript">
-				<img src="https://avatars.githubusercontent.com/u/176329945?s=72&u=a55651570e67960def066644ca01c9074cea69ad&v=4" width="24" alt="Avatar of AgdaScript"> AgdaScript
+			<a href="https://github.com/ierceg">
+				<img src="https://avatars.githubusercontent.com/u/1505203?s=72&u=36c328e6d2ac47f5edaac3ef8f6849d836d66966&v=4" width="24" alt="Avatar of ierceg"> ierceg
 			</a><br/>
-			Agda Lopes
+			Ivan Erceg
 		</td>
-		<td>Banco Caboverdiano De Negocios<br/></td>
+		<td>@tonicai </td>
 		<td>No Twitter Username</td>
-		<td>Santiago, Cabo Verde</td>
-		<td>199</td>
-		<td>2555</td>
+		<td>Chile</td>
+		<td>47</td>
+		<td>2516</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/vicentematus">
 				<img src="https://avatars.githubusercontent.com/u/38754555?s=72&u=8bad270952f92f89d5f25dd53c4be4bc206c4235&v=4" width="24" alt="Avatar of vicentematus"> vicentematus
@@ -2077,24 +2091,38 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>188</td>
-		<td>2482</td>
-	</tr>
-	<tr>
-		<td>142</td>
-		<td>
-			<a href="https://github.com/ierceg">
-				<img src="https://avatars.githubusercontent.com/u/1505203?s=72&u=36c328e6d2ac47f5edaac3ef8f6849d836d66966&v=4" width="24" alt="Avatar of ierceg"> ierceg
-			</a><br/>
-			Ivan Erceg
-		</td>
-		<td>@tonicai </td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>46</td>
-		<td>2473</td>
+		<td>2485</td>
 	</tr>
 	<tr>
 		<td>143</td>
+		<td>
+			<a href="https://github.com/estebandelaf">
+				<img src="https://avatars.githubusercontent.com/u/1381888?s=72&v=4" width="24" alt="Avatar of estebandelaf"> estebandelaf
+			</a><br/>
+			Esteban Delaf
+		</td>
+		<td>@sascocl @libredte @billmysales </td>
+		<td><a href="https://twitter.com/delaf_cl">delaf_cl</a></td>
+		<td>Chile</td>
+		<td>1426</td>
+		<td>2482</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
+			<a href="https://github.com/Blandskron">
+				<img src="https://avatars.githubusercontent.com/u/93203724?s=72&u=5b07a865cb82a09b3a8b1197cf6ef9b31ca1cd31&v=4" width="24" alt="Avatar of Blandskron"> Blandskron
+			</a><br/>
+			Bastian Landskron
+		</td>
+		<td>Blandskron </td>
+		<td>No Twitter Username</td>
+		<td>Santiago Chile</td>
+		<td>2477</td>
+		<td>2477</td>
+	</tr>
+	<tr>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/jalvaradosegura">
 				<img src="https://avatars.githubusercontent.com/u/65737950?s=72&u=ac97a8ca933c430fcb2f26801b71402a379d4c63&v=4" width="24" alt="Avatar of jalvaradosegura"> jalvaradosegura
@@ -2108,21 +2136,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>2461</td>
 	</tr>
 	<tr>
-		<td>144</td>
-		<td>
-			<a href="https://github.com/estebandelaf">
-				<img src="https://avatars.githubusercontent.com/u/1381888?s=72&v=4" width="24" alt="Avatar of estebandelaf"> estebandelaf
-			</a><br/>
-			Esteban Delaf
-		</td>
-		<td>@sascocl @libredte @billmysales </td>
-		<td><a href="https://twitter.com/delaf_cl">delaf_cl</a></td>
-		<td>Chile</td>
-		<td>1406</td>
-		<td>2456</td>
-	</tr>
-	<tr>
-		<td>145</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/DmACKGL">
 				<img src="https://avatars.githubusercontent.com/u/10565361?s=72&u=e904cd3a62c843419d66b172a2feb8977ca1df1e&v=4" width="24" alt="Avatar of DmACKGL"> DmACKGL
@@ -2133,24 +2147,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>6</td>
-		<td>2444</td>
-	</tr>
-	<tr>
-		<td>146</td>
-		<td>
-			<a href="https://github.com/Blandskron">
-				<img src="https://avatars.githubusercontent.com/u/93203724?s=72&u=5b07a865cb82a09b3a8b1197cf6ef9b31ca1cd31&v=4" width="24" alt="Avatar of Blandskron"> Blandskron
-			</a><br/>
-			Bastian Landskron
-		</td>
-		<td>Blandskron </td>
-		<td>No Twitter Username</td>
-		<td>Santiago Chile</td>
-		<td>2438</td>
-		<td>2438</td>
+		<td>2445</td>
 	</tr>
 	<tr>
 		<td>147</td>
+		<td>
+			<a href="https://github.com/afariasfermin">
+				<img src="https://avatars.githubusercontent.com/u/1696665?s=72&u=d2b8d346c4726321ede8adacca8a0ea5756601fb&v=4" width="24" alt="Avatar of afariasfermin"> afariasfermin
+			</a><br/>
+			Alvaro Farias
+		</td>
+		<td>@rentadronecl   </td>
+		<td><a href="https://twitter.com/afariasfermin">afariasfermin</a></td>
+		<td>Santiago, Chile</td>
+		<td>51</td>
+		<td>2434</td>
+	</tr>
+	<tr>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/ernestoacevedo">
 				<img src="https://avatars.githubusercontent.com/u/2821732?s=72&u=e7b608a5a02a723846a39e464653eb12f7ecca0d&v=4" width="24" alt="Avatar of ernestoacevedo"> ernestoacevedo
@@ -2164,35 +2178,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>2429</td>
 	</tr>
 	<tr>
-		<td>148</td>
-		<td>
-			<a href="https://github.com/afariasfermin">
-				<img src="https://avatars.githubusercontent.com/u/1696665?s=72&u=d2b8d346c4726321ede8adacca8a0ea5756601fb&v=4" width="24" alt="Avatar of afariasfermin"> afariasfermin
-			</a><br/>
-			Alvaro Farias
-		</td>
-		<td>@rentadronecl   </td>
-		<td><a href="https://twitter.com/afariasfermin">afariasfermin</a></td>
-		<td>Santiago, Chile</td>
-		<td>51</td>
-		<td>2425</td>
-	</tr>
-	<tr>
 		<td>149</td>
-		<td>
-			<a href="https://github.com/dasolari">
-				<img src="https://avatars.githubusercontent.com/u/42161460?s=72&u=1685ecf02c2e3175436b6f07a54fa54736b12209&v=4" width="24" alt="Avatar of dasolari"> dasolari
-			</a><br/>
-			Diego Solari
-		</td>
-		<td>Cuidapet </td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>0</td>
-		<td>2357</td>
-	</tr>
-	<tr>
-		<td>150</td>
 		<td>
 			<a href="https://github.com/camjasaez">
 				<img src="https://avatars.githubusercontent.com/u/70957679?s=72&u=c9551c5bdb7381118bb22e90e23fa0c9dd4418a1&v=4" width="24" alt="Avatar of camjasaez"> camjasaez
@@ -2203,7 +2189,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>3</td>
-		<td>2351</td>
+		<td>2382</td>
+	</tr>
+	<tr>
+		<td>150</td>
+		<td>
+			<a href="https://github.com/dasolari">
+				<img src="https://avatars.githubusercontent.com/u/42161460?s=72&u=1685ecf02c2e3175436b6f07a54fa54736b12209&v=4" width="24" alt="Avatar of dasolari"> dasolari
+			</a><br/>
+			Diego Solari
+		</td>
+		<td>Cuidapet </td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>0</td>
+		<td>2362</td>
 	</tr>
 	<tr>
 		<td>151</td>
@@ -2231,10 +2231,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>27</td>
-		<td>2311</td>
+		<td>2318</td>
 	</tr>
 	<tr>
 		<td>153</td>
+		<td>
+			<a href="https://github.com/sergioazoc">
+				<img src="https://avatars.githubusercontent.com/u/6147546?s=72&u=2f447d905d7778517a94b7900e7f4a70fb6b2e23&v=4" width="24" alt="Avatar of sergioazoc"> sergioazoc
+			</a><br/>
+			Sergio Azócar
+		</td>
+		<td>Skyward </td>
+		<td><a href="https://twitter.com/sergioazoc">sergioazoc</a></td>
+		<td>Chile</td>
+		<td>813</td>
+		<td>2310</td>
+	</tr>
+	<tr>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/so77id">
 				<img src="https://avatars.githubusercontent.com/u/4089219?s=72&u=ffd2f0cb679d782696975b46c78c6085f81cb00b&v=4" width="24" alt="Avatar of so77id"> so77id
@@ -2244,22 +2258,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
-		<td>617</td>
-		<td>2303</td>
-	</tr>
-	<tr>
-		<td>154</td>
-		<td>
-			<a href="https://github.com/rodoherrera">
-				<img src="https://avatars.githubusercontent.com/u/1215744?s=72&u=b8af4b7caf53b115ba555460bc01015550b990ac&v=4" width="24" alt="Avatar of rodoherrera"> rodoherrera
-			</a><br/>
-			Rodo Herrera
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santiago de Chile</td>
-		<td>10</td>
-		<td>2300</td>
+		<td>620</td>
+		<td>2307</td>
 	</tr>
 	<tr>
 		<td>155</td>
@@ -2273,10 +2273,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>38</td>
-		<td>2299</td>
+		<td>2300</td>
 	</tr>
 	<tr>
 		<td>156</td>
+		<td>
+			<a href="https://github.com/rodoherrera">
+				<img src="https://avatars.githubusercontent.com/u/1215744?s=72&u=b8af4b7caf53b115ba555460bc01015550b990ac&v=4" width="24" alt="Avatar of rodoherrera"> rodoherrera
+			</a><br/>
+			Rodo Herrera
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago de Chile</td>
+		<td>10</td>
+		<td>2300</td>
+	</tr>
+	<tr>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/deivinsontejeda">
 				<img src="https://avatars.githubusercontent.com/u/628513?s=72&u=7ac5290268fa8a4a2e53bd3ed05a052c83da9db4&v=4" width="24" alt="Avatar of deivinsontejeda"> deivinsontejeda
@@ -2287,21 +2301,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago of Chile</td>
 		<td>1</td>
-		<td>2297</td>
-	</tr>
-	<tr>
-		<td>157</td>
-		<td>
-			<a href="https://github.com/sergioazoc">
-				<img src="https://avatars.githubusercontent.com/u/6147546?s=72&u=2f447d905d7778517a94b7900e7f4a70fb6b2e23&v=4" width="24" alt="Avatar of sergioazoc"> sergioazoc
-			</a><br/>
-			Sergio Azócar
-		</td>
-		<td>Skyward </td>
-		<td><a href="https://twitter.com/sergioazoc">sergioazoc</a></td>
-		<td>Chile</td>
-		<td>809</td>
-		<td>2295</td>
+		<td>2300</td>
 	</tr>
 	<tr>
 		<td>158</td>
@@ -2315,7 +2315,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/alvaroveliz">alvaroveliz</a></td>
 		<td>Santiago, Chile</td>
 		<td>0</td>
-		<td>2284</td>
+		<td>2296</td>
 	</tr>
 	<tr>
 		<td>159</td>
@@ -2328,8 +2328,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Ark Dev </td>
 		<td>No Twitter Username</td>
 		<td>Chile - Bolivia</td>
-		<td>1971</td>
-		<td>2260</td>
+		<td>1977</td>
+		<td>2266</td>
 	</tr>
 	<tr>
 		<td>160</td>
@@ -2348,6 +2348,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>161</td>
 		<td>
+			<a href="https://github.com/CleoMenezesJr">
+				<img src="https://avatars.githubusercontent.com/u/54215258?s=72&u=e9889b8aee28742eabdee92d8976eadb240e6cd6&v=4" width="24" alt="Avatar of CleoMenezesJr"> CleoMenezesJr
+			</a><br/>
+			Cleo Menezes Jr.
+		</td>
+		<td>@doblecheck </td>
+		<td>No Twitter Username</td>
+		<td>Viña del mar - Chile</td>
+		<td>1418</td>
+		<td>2257</td>
+	</tr>
+	<tr>
+		<td>162</td>
+		<td>
 			<a href="https://github.com/paulovillarroel">
 				<img src="https://avatars.githubusercontent.com/u/52899164?s=72&u=ab58cb3e7c3ff15ffe8b0e18af2a480bd8b1f5cf&v=4" width="24" alt="Avatar of paulovillarroel"> paulovillarroel
 			</a><br/>
@@ -2360,35 +2374,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>2256</td>
 	</tr>
 	<tr>
-		<td>162</td>
-		<td>
-			<a href="https://github.com/CleoMenezesJr">
-				<img src="https://avatars.githubusercontent.com/u/54215258?s=72&u=e9889b8aee28742eabdee92d8976eadb240e6cd6&v=4" width="24" alt="Avatar of CleoMenezesJr"> CleoMenezesJr
-			</a><br/>
-			Cleo Menezes Jr.
-		</td>
-		<td>@doblecheck </td>
-		<td>No Twitter Username</td>
-		<td>Viña del mar - Chile</td>
-		<td>1416</td>
-		<td>2255</td>
-	</tr>
-	<tr>
 		<td>163</td>
-		<td>
-			<a href="https://github.com/raicerk">
-				<img src="https://avatars.githubusercontent.com/u/4575267?s=72&u=9959f43e13a8fd107ebdaf69e96acad7226440f1&v=4" width="24" alt="Avatar of raicerk"> raicerk
-			</a><br/>
-			Juan Mora
-		</td>
-		<td>Pro-gramadores Org </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>104</td>
-		<td>2187</td>
-	</tr>
-	<tr>
-		<td>164</td>
 		<td>
 			<a href="https://github.com/vinavfx">
 				<img src="https://avatars.githubusercontent.com/u/40272695?s=72&u=482a29983624ca739c61247b55785ded18f49b13&v=4" width="24" alt="Avatar of vinavfx"> vinavfx
@@ -2399,24 +2385,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>350</td>
-		<td>2179</td>
+		<td>2207</td>
+	</tr>
+	<tr>
+		<td>164</td>
+		<td>
+			<a href="https://github.com/raicerk">
+				<img src="https://avatars.githubusercontent.com/u/4575267?s=72&u=9959f43e13a8fd107ebdaf69e96acad7226440f1&v=4" width="24" alt="Avatar of raicerk"> raicerk
+			</a><br/>
+			Juan Mora
+		</td>
+		<td>Pro-gramadores Org </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>104</td>
+		<td>2205</td>
 	</tr>
 	<tr>
 		<td>165</td>
-		<td>
-			<a href="https://github.com/Dagt07">
-				<img src="https://avatars.githubusercontent.com/u/72309666?s=72&u=17f8b0ba3dd95ed6c739ba1ad117cb55c87833c0&v=4" width="24" alt="Avatar of Dagt07"> Dagt07
-			</a><br/>
-			David García
-		</td>
-		<td>Universidad De Chile </td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>30</td>
-		<td>2179</td>
-	</tr>
-	<tr>
-		<td>166</td>
 		<td>
 			<a href="https://github.com/domingo2000">
 				<img src="https://avatars.githubusercontent.com/u/40220174?s=72&u=c6b1f6deff5bb148a470a89276603912b92a68c3&v=4" width="24" alt="Avatar of domingo2000"> domingo2000
@@ -2427,7 +2413,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>11</td>
-		<td>2169</td>
+		<td>2192</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
+			<a href="https://github.com/Dagt07">
+				<img src="https://avatars.githubusercontent.com/u/72309666?s=72&u=17f8b0ba3dd95ed6c739ba1ad117cb55c87833c0&v=4" width="24" alt="Avatar of Dagt07"> Dagt07
+			</a><br/>
+			David García
+		</td>
+		<td>Universidad De Chile </td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>30</td>
+		<td>2187</td>
 	</tr>
 	<tr>
 		<td>167</td>
@@ -2441,7 +2441,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>13</td>
-		<td>2148</td>
+		<td>2152</td>
 	</tr>
 	<tr>
 		<td>168</td>
@@ -2455,66 +2455,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/ivolivares">ivolivares</a></td>
 		<td>Santiago, Chile</td>
 		<td>47</td>
-		<td>2119</td>
+		<td>2124</td>
 	</tr>
 	<tr>
 		<td>169</td>
-		<td>
-			<a href="https://github.com/Keviinplz">
-				<img src="https://avatars.githubusercontent.com/u/41240999?s=72&u=05548ad6ae19cea0f827928e4d3eedff6c459156&v=4" width="24" alt="Avatar of Keviinplz"> Keviinplz
-			</a><br/>
-			Kevin Pinochet
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>2</td>
-		<td>2094</td>
-	</tr>
-	<tr>
-		<td>170</td>
-		<td>
-			<a href="https://github.com/IgnacioPalma">
-				<img src="https://avatars.githubusercontent.com/u/81819758?s=72&u=60a21ec73c6c62a8723a2bd88f32afeb1c4bd59c&v=4" width="24" alt="Avatar of IgnacioPalma"> IgnacioPalma
-			</a><br/>
-			Ignacio Palma
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>344</td>
-		<td>2085</td>
-	</tr>
-	<tr>
-		<td>171</td>
-		<td>
-			<a href="https://github.com/fredpena">
-				<img src="https://avatars.githubusercontent.com/u/5680906?s=72&u=57d45b98c7080c5ce39f38c9bffba77ed0fa56ef&v=4" width="24" alt="Avatar of fredpena"> fredpena
-			</a><br/>
-			Fred Peña
-		</td>
-		<td>Alphnology </td>
-		<td><a href="https://twitter.com/fred_pena">fred_pena</a></td>
-		<td>Santiago, Rep. Dom.</td>
-		<td>414</td>
-		<td>2082</td>
-	</tr>
-	<tr>
-		<td>172</td>
-		<td>
-			<a href="https://github.com/marcelog">
-				<img src="https://avatars.githubusercontent.com/u/527356?s=72&u=432f8664934f5088e6513e7d2476a17620133457&v=4" width="24" alt="Avatar of marcelog"> marcelog
-			</a><br/>
-			Marcelo Gornstein
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>0</td>
-		<td>2069</td>
-	</tr>
-	<tr>
-		<td>173</td>
 		<td>
 			<a href="https://github.com/itolosa">
 				<img src="https://avatars.githubusercontent.com/u/1658961?s=72&u=74c247e0f977247fefa0dd45253a1454bc1ac251&v=4" width="24" alt="Avatar of itolosa"> itolosa
@@ -2525,10 +2469,80 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>56</td>
-		<td>2068</td>
+		<td>2124</td>
+	</tr>
+	<tr>
+		<td>170</td>
+		<td>
+			<a href="https://github.com/KrozT">
+				<img src="https://avatars.githubusercontent.com/u/26510230?s=72&u=f30f72d7d0712a9a7a22e833afdb025bbd183b91&v=4" width="24" alt="Avatar of KrozT"> KrozT
+			</a><br/>
+			Matías Espinoza
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>701</td>
+		<td>2103</td>
+	</tr>
+	<tr>
+		<td>171</td>
+		<td>
+			<a href="https://github.com/Keviinplz">
+				<img src="https://avatars.githubusercontent.com/u/41240999?s=72&u=05548ad6ae19cea0f827928e4d3eedff6c459156&v=4" width="24" alt="Avatar of Keviinplz"> Keviinplz
+			</a><br/>
+			Kevin Pinochet
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>2</td>
+		<td>2100</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>
+			<a href="https://github.com/IgnacioPalma">
+				<img src="https://avatars.githubusercontent.com/u/81819758?s=72&u=60a21ec73c6c62a8723a2bd88f32afeb1c4bd59c&v=4" width="24" alt="Avatar of IgnacioPalma"> IgnacioPalma
+			</a><br/>
+			Ignacio Palma
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>344</td>
+		<td>2096</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>
+			<a href="https://github.com/fredpena">
+				<img src="https://avatars.githubusercontent.com/u/5680906?s=72&u=57d45b98c7080c5ce39f38c9bffba77ed0fa56ef&v=4" width="24" alt="Avatar of fredpena"> fredpena
+			</a><br/>
+			Fred Peña
+		</td>
+		<td>Alphnology </td>
+		<td><a href="https://twitter.com/fred_pena">fred_pena</a></td>
+		<td>Santiago, Rep. Dom.</td>
+		<td>420</td>
+		<td>2090</td>
 	</tr>
 	<tr>
 		<td>174</td>
+		<td>
+			<a href="https://github.com/marcelog">
+				<img src="https://avatars.githubusercontent.com/u/527356?s=72&u=432f8664934f5088e6513e7d2476a17620133457&v=4" width="24" alt="Avatar of marcelog"> marcelog
+			</a><br/>
+			Marcelo Gornstein
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>0</td>
+		<td>2083</td>
+	</tr>
+	<tr>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/JavierArredondo">
 				<img src="https://avatars.githubusercontent.com/u/19624900?s=72&u=47c8688dc00784ae8367ce1456f8ee291ff96e20&v=4" width="24" alt="Avatar of JavierArredondo"> JavierArredondo
@@ -2542,7 +2556,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>2064</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/camiloarce">
 				<img src="https://avatars.githubusercontent.com/u/6612201?s=72&u=345d8895b174c5f214324e4e6c25959f71c7098a&v=4" width="24" alt="Avatar of camiloarce"> camiloarce
@@ -2553,10 +2567,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago de Cali, Colombia</td>
 		<td>0</td>
-		<td>2060</td>
+		<td>2061</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/a-maccormack">
 				<img src="https://avatars.githubusercontent.com/u/78695941?s=72&u=74789e37e0f14d30cbac5f96f223c29f84a5d794&v=4" width="24" alt="Avatar of a-maccormack"> a-maccormack
@@ -2570,7 +2584,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>2053</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/jorgeortizfuentes">
 				<img src="https://avatars.githubusercontent.com/u/49564757?s=72&u=1d674e3b2f1c1ea7c3fcae2872b57387e5aaf317&v=4" width="24" alt="Avatar of jorgeortizfuentes"> jorgeortizfuentes
@@ -2584,7 +2598,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>2046</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>179</td>
+		<td>
+			<a href="https://github.com/cris-achiardi">
+				<img src="https://avatars.githubusercontent.com/u/220779572?s=72&u=b1803cc2d18112ea307078cc039c3e28f52a2c7b&v=4" width="24" alt="Avatar of cris-achiardi"> cris-achiardi
+			</a><br/>
+			Cristian Morales
+		</td>
+		<td>Southleft </td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>354</td>
+		<td>2042</td>
+	</tr>
+	<tr>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/barbaritalaram">
 				<img src="https://avatars.githubusercontent.com/u/65517903?s=72&u=0d55c4a5e8f0d3783379dda4f4d6c991afd4ae41&v=4" width="24" alt="Avatar of barbaritalaram"> barbaritalaram
@@ -2598,34 +2626,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>2041</td>
 	</tr>
 	<tr>
-		<td>179</td>
-		<td>
-			<a href="https://github.com/cris-achiardi">
-				<img src="https://avatars.githubusercontent.com/u/220779572?s=72&u=b1803cc2d18112ea307078cc039c3e28f52a2c7b&v=4" width="24" alt="Avatar of cris-achiardi"> cris-achiardi
-			</a><br/>
-			Cristian Morales
-		</td>
-		<td>Southleft </td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>340</td>
-		<td>2020</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
-			<a href="https://github.com/KrozT">
-				<img src="https://avatars.githubusercontent.com/u/26510230?s=72&u=f30f72d7d0712a9a7a22e833afdb025bbd183b91&v=4" width="24" alt="Avatar of KrozT"> KrozT
-			</a><br/>
-			Matías Espinoza
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>701</td>
-		<td>2005</td>
-	</tr>
-	<tr>
 		<td>181</td>
 		<td>
 			<a href="https://github.com/estebanmino">
@@ -2637,7 +2637,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/estebanmino_">estebanmino_</a></td>
 		<td>Chile</td>
 		<td>0</td>
-		<td>2002</td>
+		<td>2005</td>
 	</tr>
 	<tr>
 		<td>182</td>
@@ -2651,7 +2651,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/michelson">michelson</a></td>
 		<td>Santiago, Chile</td>
 		<td>634</td>
-		<td>1992</td>
+		<td>2003</td>
 	</tr>
 	<tr>
 		<td>183</td>
@@ -2726,6 +2726,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>188</td>
 		<td>
+			<a href="https://github.com/mudetz">
+				<img src="https://avatars.githubusercontent.com/u/8472961?s=72&u=416a7acdc0a69620822384130f980d16c2c6e559&v=4" width="24" alt="Avatar of mudetz"> mudetz
+			</a><br/>
+			Manuel Weitzman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>2</td>
+		<td>1952</td>
+	</tr>
+	<tr>
+		<td>189</td>
+		<td>
 			<a href="https://github.com/fbecerra">
 				<img src="https://avatars.githubusercontent.com/u/7333874?s=72&u=eb42554e0b4849e78214089f9676a772a36927bf&v=4" width="24" alt="Avatar of fbecerra"> fbecerra
 			</a><br/>
@@ -2736,20 +2750,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Aysén, Chile</td>
 		<td>250</td>
 		<td>1942</td>
-	</tr>
-	<tr>
-		<td>189</td>
-		<td>
-			<a href="https://github.com/mudetz">
-				<img src="https://avatars.githubusercontent.com/u/8472961?s=72&u=416a7acdc0a69620822384130f980d16c2c6e559&v=4" width="24" alt="Avatar of mudetz"> mudetz
-			</a><br/>
-			Manuel Weitzman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>2</td>
-		<td>1939</td>
 	</tr>
 	<tr>
 		<td>190</td>
@@ -2777,7 +2777,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>133</td>
-		<td>1912</td>
+		<td>1918</td>
 	</tr>
 	<tr>
 		<td>192</td>
@@ -2805,7 +2805,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile.</td>
 		<td>0</td>
-		<td>1903</td>
+		<td>1904</td>
 	</tr>
 	<tr>
 		<td>194</td>
@@ -2833,7 +2833,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>2</td>
-		<td>1883</td>
+		<td>1885</td>
 	</tr>
 	<tr>
 		<td>196</td>
@@ -2847,7 +2847,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago de Compostela, Spain</td>
 		<td>140</td>
-		<td>1843</td>
+		<td>1852</td>
 	</tr>
 	<tr>
 		<td>197</td>
@@ -2861,7 +2861,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>358</td>
-		<td>1837</td>
+		<td>1838</td>
 	</tr>
 	<tr>
 		<td>198</td>
@@ -2875,7 +2875,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/alesis18">alesis18</a></td>
 		<td>Puerto Montt, Chile</td>
 		<td>136</td>
-		<td>1825</td>
+		<td>1836</td>
 	</tr>
 	<tr>
 		<td>199</td>
@@ -2894,6 +2894,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>200</td>
 		<td>
+			<a href="https://github.com/franciellevargas">
+				<img src="https://avatars.githubusercontent.com/u/19657817?s=72&u=3a57fe96a414ded0834130179af8733f96cd10a5&v=4" width="24" alt="Avatar of franciellevargas"> franciellevargas
+			</a><br/>
+			Francielle Vargas
+		</td>
+		<td>Data And Artificial Intelligence<br/>Initiative<br/>(idia),<br/>University<br/>Of<br/>Chile<br/></td>
+		<td>No Twitter Username</td>
+		<td>Santiago</td>
+		<td>1809</td>
+		<td>1809</td>
+	</tr>
+	<tr>
+		<td>201</td>
+		<td>
 			<a href="https://github.com/josebarross">
 				<img src="https://avatars.githubusercontent.com/u/38407495?s=72&u=2a558b1c59c834fc4ebde1bb91fefb5b6ae174c4&v=4" width="24" alt="Avatar of josebarross"> josebarross
 			</a><br/>
@@ -2906,32 +2920,18 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>1809</td>
 	</tr>
 	<tr>
-		<td>201</td>
-		<td>
-			<a href="https://github.com/franciellevargas">
-				<img src="https://avatars.githubusercontent.com/u/19657817?s=72&u=3a57fe96a414ded0834130179af8733f96cd10a5&v=4" width="24" alt="Avatar of franciellevargas"> franciellevargas
-			</a><br/>
-			Francielle Vargas
-		</td>
-		<td>Data And Artificial Intelligence<br/>Initiative<br/>(idia),<br/>University<br/>Of<br/>Chile<br/></td>
-		<td>No Twitter Username</td>
-		<td>Santiago</td>
-		<td>1800</td>
-		<td>1800</td>
-	</tr>
-	<tr>
 		<td>202</td>
 		<td>
-			<a href="https://github.com/mallendeo">
-				<img src="https://avatars.githubusercontent.com/u/1578018?s=72&u=030b6ec8ae35b72e0367fd9535e916fdd0905faf&v=4" width="24" alt="Avatar of mallendeo"> mallendeo
+			<a href="https://github.com/jerosalazar">
+				<img src="https://avatars.githubusercontent.com/u/30667977?s=72&u=6ed11971cee8f0c4adc8a8b7a06bad2dc28e392b&v=4" width="24" alt="Avatar of jerosalazar"> jerosalazar
 			</a><br/>
-			Mauricio Allende
+			Jeronimo Salazar
 		</td>
-		<td>Palta Studios </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
-		<td>906</td>
-		<td>1793</td>
+		<td>9</td>
+		<td>1808</td>
 	</tr>
 	<tr>
 		<td>203</td>
@@ -2945,21 +2945,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/luisjrodriguezo">luisjrodriguezo</a></td>
 		<td>Santiago, Chile</td>
 		<td>313</td>
-		<td>1791</td>
+		<td>1794</td>
 	</tr>
 	<tr>
 		<td>204</td>
 		<td>
-			<a href="https://github.com/jerosalazar">
-				<img src="https://avatars.githubusercontent.com/u/30667977?s=72&u=6ed11971cee8f0c4adc8a8b7a06bad2dc28e392b&v=4" width="24" alt="Avatar of jerosalazar"> jerosalazar
+			<a href="https://github.com/mallendeo">
+				<img src="https://avatars.githubusercontent.com/u/1578018?s=72&u=030b6ec8ae35b72e0367fd9535e916fdd0905faf&v=4" width="24" alt="Avatar of mallendeo"> mallendeo
 			</a><br/>
-			Jeronimo Salazar
+			Mauricio Allende
 		</td>
-		<td>No Company</td>
+		<td>Palta Studios </td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
-		<td>9</td>
-		<td>1789</td>
+		<td>906</td>
+		<td>1793</td>
 	</tr>
 	<tr>
 		<td>205</td>
@@ -2973,38 +2973,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>226</td>
-		<td>1774</td>
+		<td>1790</td>
 	</tr>
 	<tr>
 		<td>206</td>
-		<td>
-			<a href="https://github.com/cavb">
-				<img src="https://avatars.githubusercontent.com/u/5445746?s=72&u=60a974400944b46c67abd67fbca71d1e26e5c632&v=4" width="24" alt="Avatar of cavb"> cavb
-			</a><br/>
-			Cristián Vargas Busquets
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>0</td>
-		<td>1732</td>
-	</tr>
-	<tr>
-		<td>207</td>
-		<td>
-			<a href="https://github.com/jgmontoya">
-				<img src="https://avatars.githubusercontent.com/u/11434422?s=72&u=906e37b34c7178b221a8fe9ee8530e170252dfa4&v=4" width="24" alt="Avatar of jgmontoya"> jgmontoya
-			</a><br/>
-			Javier G. Montoya S.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>972</td>
-		<td>1725</td>
-	</tr>
-	<tr>
-		<td>208</td>
 		<td>
 			<a href="https://github.com/hpaez">
 				<img src="https://avatars.githubusercontent.com/u/3461484?s=72&v=4" width="24" alt="Avatar of hpaez"> hpaez
@@ -3015,10 +2987,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>1</td>
-		<td>1720</td>
+		<td>1782</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/boris">
 				<img src="https://avatars.githubusercontent.com/u/537305?s=72&u=c3f5cd44f55824326599ab9bd541783144d8044a&v=4" width="24" alt="Avatar of boris"> boris
@@ -3029,21 +3001,49 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>195</td>
-		<td>1717</td>
+		<td>1742</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
+			<a href="https://github.com/cavb">
+				<img src="https://avatars.githubusercontent.com/u/5445746?s=72&u=60a974400944b46c67abd67fbca71d1e26e5c632&v=4" width="24" alt="Avatar of cavb"> cavb
+			</a><br/>
+			Cristián Vargas Busquets
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>0</td>
+		<td>1733</td>
+	</tr>
+	<tr>
+		<td>209</td>
+		<td>
+			<a href="https://github.com/jgmontoya">
+				<img src="https://avatars.githubusercontent.com/u/11434422?s=72&u=906e37b34c7178b221a8fe9ee8530e170252dfa4&v=4" width="24" alt="Avatar of jgmontoya"> jgmontoya
+			</a><br/>
+			Javier G. Montoya S.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>972</td>
+		<td>1727</td>
 	</tr>
 	<tr>
 		<td>210</td>
 		<td>
-			<a href="https://github.com/Not-Minimal">
-				<img src="https://avatars.githubusercontent.com/u/58341096?s=72&u=c1264d73fcd5a476d571eb3bd69aa29f522bec69&v=4" width="24" alt="Avatar of Not-Minimal"> Not-Minimal
+			<a href="https://github.com/BGM">
+				<img src="https://avatars.githubusercontent.com/u/26081543?s=72&u=db9cd4fbb4117a72fd4f52e8cd1cd7f4e5d97665&v=4" width="24" alt="Avatar of BGM"> BGM
 			</a><br/>
-			Saul Muñoz
+			José Benavente
 		</td>
-		<td>Ceo Vertitrack </td>
+		<td>@aukko-cl </td>
 		<td>No Twitter Username</td>
 		<td>Chile</td>
-		<td>129</td>
-		<td>1712</td>
+		<td>140</td>
+		<td>1724</td>
 	</tr>
 	<tr>
 		<td>211</td>
@@ -3057,21 +3057,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>0</td>
-		<td>1708</td>
+		<td>1723</td>
 	</tr>
 	<tr>
 		<td>212</td>
 		<td>
-			<a href="https://github.com/bgm">
-				<img src="https://avatars.githubusercontent.com/u/26081543?s=72&u=db9cd4fbb4117a72fd4f52e8cd1cd7f4e5d97665&v=4" width="24" alt="Avatar of bgm"> bgm
+			<a href="https://github.com/Not-Minimal">
+				<img src="https://avatars.githubusercontent.com/u/58341096?s=72&u=c1264d73fcd5a476d571eb3bd69aa29f522bec69&v=4" width="24" alt="Avatar of Not-Minimal"> Not-Minimal
 			</a><br/>
-			José Benavente
+			Saul Muñoz
 		</td>
-		<td>@aukko-cl </td>
+		<td>Ceo Vertitrack </td>
 		<td>No Twitter Username</td>
 		<td>Chile</td>
-		<td>130</td>
-		<td>1707</td>
+		<td>129</td>
+		<td>1712</td>
 	</tr>
 	<tr>
 		<td>213</td>
@@ -3090,20 +3090,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>214</td>
 		<td>
-			<a href="https://github.com/bastianolea">
-				<img src="https://avatars.githubusercontent.com/u/3477437?s=72&u=8f1d5315a436de767788f719603730d5425bcb0f&v=4" width="24" alt="Avatar of bastianolea"> bastianolea
-			</a><br/>
-			Bastián Olea Herera
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/bastimapache">bastimapache</a></td>
-		<td>Santiago, Chile</td>
-		<td>1671</td>
-		<td>1696</td>
-	</tr>
-	<tr>
-		<td>215</td>
-		<td>
 			<a href="https://github.com/felipeDev303">
 				<img src="https://avatars.githubusercontent.com/u/154853067?s=72&u=cf164a8851423278dcbdf4bf8477cb17ed461967&v=4" width="24" alt="Avatar of felipeDev303"> felipeDev303
 			</a><br/>
@@ -3112,11 +3098,39 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/fmoralesdev">fmoralesdev</a></td>
 		<td>Chile</td>
-		<td>532</td>
-		<td>1688</td>
+		<td>533</td>
+		<td>1698</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
+			<a href="https://github.com/bastianolea">
+				<img src="https://avatars.githubusercontent.com/u/3477437?s=72&u=8f1d5315a436de767788f719603730d5425bcb0f&v=4" width="24" alt="Avatar of bastianolea"> bastianolea
+			</a><br/>
+			Bastián Olea Herera
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/bastimapache">bastimapache</a></td>
+		<td>Santiago, Chile</td>
+		<td>1672</td>
+		<td>1697</td>
 	</tr>
 	<tr>
 		<td>216</td>
+		<td>
+			<a href="https://github.com/nilehmann">
+				<img src="https://avatars.githubusercontent.com/u/2400776?s=72&u=5a9d3547957e0fc9846b29efcaa1caea33854513&v=4" width="24" alt="Avatar of nilehmann"> nilehmann
+			</a><br/>
+			Nico Lehmann
+		</td>
+		<td>University Of Chile </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>1198</td>
+		<td>1691</td>
+	</tr>
+	<tr>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/irydacea">
 				<img src="https://avatars.githubusercontent.com/u/489895?s=72&v=4" width="24" alt="Avatar of irydacea"> irydacea
@@ -3130,20 +3144,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>1687</td>
 	</tr>
 	<tr>
-		<td>217</td>
-		<td>
-			<a href="https://github.com/nilehmann">
-				<img src="https://avatars.githubusercontent.com/u/2400776?s=72&u=5a9d3547957e0fc9846b29efcaa1caea33854513&v=4" width="24" alt="Avatar of nilehmann"> nilehmann
-			</a><br/>
-			Nico Lehmann
-		</td>
-		<td>University Of Chile </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>1193</td>
-		<td>1683</td>
-	</tr>
-	<tr>
 		<td>218</td>
 		<td>
 			<a href="https://github.com/AlvaroBrey">
@@ -3154,8 +3154,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>@revenuecat </td>
 		<td>No Twitter Username</td>
 		<td>Santiago de Compostela</td>
-		<td>1301</td>
-		<td>1666</td>
+		<td>1313</td>
+		<td>1681</td>
 	</tr>
 	<tr>
 		<td>219</td>
@@ -3188,6 +3188,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>221</td>
 		<td>
+			<a href="https://github.com/jsanbae">
+				<img src="https://avatars.githubusercontent.com/u/5470429?s=72&u=01666f0d92ff16c9641443361432d90d1d38380f&v=4" width="24" alt="Avatar of jsanbae"> jsanbae
+			</a><br/>
+			Javier Sánchez Baeza
+		</td>
+		<td>@trustedtools  </td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>41</td>
+		<td>1662</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>
 			<a href="https://github.com/rampmaster">
 				<img src="https://avatars.githubusercontent.com/u/978024?s=72&u=25070191fc5e42ef0feaf59060e54e8dd888c067&v=4" width="24" alt="Avatar of rampmaster"> rampmaster
 			</a><br/>
@@ -3198,20 +3212,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Santiago, Santiago Metropolitan, Chile</td>
 		<td>104</td>
 		<td>1655</td>
-	</tr>
-	<tr>
-		<td>222</td>
-		<td>
-			<a href="https://github.com/jsanbae">
-				<img src="https://avatars.githubusercontent.com/u/5470429?s=72&u=01666f0d92ff16c9641443361432d90d1d38380f&v=4" width="24" alt="Avatar of jsanbae"> jsanbae
-			</a><br/>
-			Javier Sánchez Baeza
-		</td>
-		<td>@trustedtools  </td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>41</td>
-		<td>1653</td>
 	</tr>
 	<tr>
 		<td>223</td>
@@ -3225,7 +3225,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile, Villa Alegre</td>
 		<td>127</td>
-		<td>1649</td>
+		<td>1651</td>
 	</tr>
 	<tr>
 		<td>224</td>
@@ -3253,7 +3253,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/DaniWhiteS">DaniWhiteS</a></td>
 		<td>Santiago, Chile</td>
 		<td>161</td>
-		<td>1636</td>
+		<td>1638</td>
 	</tr>
 	<tr>
 		<td>226</td>
@@ -3267,10 +3267,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Valdivia, Chile</td>
 		<td>513</td>
-		<td>1631</td>
+		<td>1634</td>
 	</tr>
 	<tr>
 		<td>227</td>
+		<td>
+			<a href="https://github.com/VicenteMerino">
+				<img src="https://avatars.githubusercontent.com/u/47841749?s=72&u=a90d471dcbcb4d3a349e9b25835ae2ca34250906&v=4" width="24" alt="Avatar of VicenteMerino"> VicenteMerino
+			</a><br/>
+			Vicente Merino
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago</td>
+		<td>0</td>
+		<td>1634</td>
+	</tr>
+	<tr>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/fcatrin">
 				<img src="https://avatars.githubusercontent.com/u/11641442?s=72&u=22109e64cb1f5e43b23f06ae2e2eefe8839a7d77&v=4" width="24" alt="Avatar of fcatrin"> fcatrin
@@ -3281,10 +3295,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/fcatrin">fcatrin</a></td>
 		<td>Quilpué, Chile</td>
 		<td>33</td>
-		<td>1629</td>
+		<td>1630</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/Rodrigo-Flores">
 				<img src="https://avatars.githubusercontent.com/u/71245625?s=72&u=a23a9a57bcb09a06f9ee118c0d8d1b52427a004c&v=4" width="24" alt="Avatar of Rodrigo-Flores"> Rodrigo-Flores
@@ -3298,20 +3312,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>1623</td>
 	</tr>
 	<tr>
-		<td>229</td>
-		<td>
-			<a href="https://github.com/VicenteMerino">
-				<img src="https://avatars.githubusercontent.com/u/47841749?s=72&u=a90d471dcbcb4d3a349e9b25835ae2ca34250906&v=4" width="24" alt="Avatar of VicenteMerino"> VicenteMerino
-			</a><br/>
-			Vicente Merino
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santiago</td>
-		<td>0</td>
-		<td>1621</td>
-	</tr>
-	<tr>
 		<td>230</td>
 		<td>
 			<a href="https://github.com/jcrucesdeveloper">
@@ -3323,7 +3323,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago,Chile</td>
 		<td>691</td>
-		<td>1619</td>
+		<td>1620</td>
 	</tr>
 	<tr>
 		<td>231</td>
@@ -3337,7 +3337,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>65</td>
-		<td>1612</td>
+		<td>1618</td>
 	</tr>
 	<tr>
 		<td>232</td>
@@ -3351,7 +3351,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>0</td>
-		<td>1602</td>
+		<td>1612</td>
 	</tr>
 	<tr>
 		<td>233</td>
@@ -3370,6 +3370,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>234</td>
 		<td>
+			<a href="https://github.com/JosuhaSanhueza">
+				<img src="https://avatars.githubusercontent.com/u/108726999?s=72&u=bfbe74b160bbfa6550a6b3d376200f1cbb30085e&v=4" width="24" alt="Avatar of JosuhaSanhueza"> JosuhaSanhueza
+			</a><br/>
+			Josuha
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>575</td>
+		<td>1568</td>
+	</tr>
+	<tr>
+		<td>235</td>
+		<td>
 			<a href="https://github.com/glarrain">
 				<img src="https://avatars.githubusercontent.com/u/812654?s=72&v=4" width="24" alt="Avatar of glarrain"> glarrain
 			</a><br/>
@@ -3378,11 +3392,11 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Cto At @sodtrack </td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
-		<td>59</td>
-		<td>1555</td>
+		<td>60</td>
+		<td>1561</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/sergiolucero">
 				<img src="https://avatars.githubusercontent.com/u/7134649?s=72&u=7b7637d3acccc58e0b5d68fb8c55b51a13c07764&v=4" width="24" alt="Avatar of sergiolucero"> sergiolucero
@@ -3392,22 +3406,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
-		<td>1457</td>
-		<td>1551</td>
-	</tr>
-	<tr>
-		<td>236</td>
-		<td>
-			<a href="https://github.com/JosuhaSanhueza">
-				<img src="https://avatars.githubusercontent.com/u/108726999?s=72&u=bfbe74b160bbfa6550a6b3d376200f1cbb30085e&v=4" width="24" alt="Avatar of JosuhaSanhueza"> JosuhaSanhueza
-			</a><br/>
-			Josuha
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>560</td>
-		<td>1537</td>
+		<td>1461</td>
+		<td>1555</td>
 	</tr>
 	<tr>
 		<td>237</td>
@@ -3421,7 +3421,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>0</td>
-		<td>1530</td>
+		<td>1546</td>
 	</tr>
 	<tr>
 		<td>238</td>
@@ -3434,8 +3434,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
-		<td>1525</td>
-		<td>1525</td>
+		<td>1528</td>
+		<td>1528</td>
 	</tr>
 	<tr>
 		<td>239</td>
@@ -3448,8 +3448,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>@mac-c-training </td>
 		<td>No Twitter Username</td>
 		<td>Talca, Chile</td>
-		<td>483</td>
-		<td>1523</td>
+		<td>484</td>
+		<td>1528</td>
 	</tr>
 	<tr>
 		<td>240</td>
@@ -3463,10 +3463,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>112</td>
-		<td>1505</td>
+		<td>1514</td>
 	</tr>
 	<tr>
 		<td>241</td>
+		<td>
+			<a href="https://github.com/joaquinnunez">
+				<img src="https://avatars.githubusercontent.com/u/436746?s=72&v=4" width="24" alt="Avatar of joaquinnunez"> joaquinnunez
+			</a><br/>
+			Joaquín Núñez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>56</td>
+		<td>1508</td>
+	</tr>
+	<tr>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/JoseGermanx">
 				<img src="https://avatars.githubusercontent.com/u/471118?s=72&u=a9cdd1e718bdcbf18710a789fd98e4f5e13a8a1c&v=4" width="24" alt="Avatar of JoseGermanx"> JoseGermanx
@@ -3477,10 +3491,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/jgxdev">jgxdev</a></td>
 		<td>Chile</td>
 		<td>572</td>
-		<td>1491</td>
+		<td>1492</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/MauriDev94">
 				<img src="https://avatars.githubusercontent.com/u/59176952?s=72&u=afbcf678b9e6db22a645db640331f511cf130d9e&v=4" width="24" alt="Avatar of MauriDev94"> MauriDev94
@@ -3494,7 +3508,35 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>1488</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>244</td>
+		<td>
+			<a href="https://github.com/Dyotson">
+				<img src="https://avatars.githubusercontent.com/u/13369498?s=72&u=b97968bfad0f00cefc6f6202d50c3729b472e9cc&v=4" width="24" alt="Avatar of Dyotson"> Dyotson
+			</a><br/>
+			Maximiliano Militzer
+		</td>
+		<td>Insilico Biotech Gmbh </td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>1487</td>
+		<td>1487</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/JuanDuran85">
+				<img src="https://avatars.githubusercontent.com/u/15115270?s=72&u=2722fa54c6f94839030427fef6f085a0ca7ccc22&v=4" width="24" alt="Avatar of JuanDuran85"> JuanDuran85
+			</a><br/>
+			Juan Duran
+		</td>
+		<td>Cencosud S.a </td>
+		<td><a href="https://twitter.com/JuanDuran85">JuanDuran85</a></td>
+		<td>Santiago de Chile, Chile</td>
+		<td>1479</td>
+		<td>1479</td>
+	</tr>
+	<tr>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/rvillablanca">
 				<img src="https://avatars.githubusercontent.com/u/1508272?s=72&u=cf1a09c4add34ee5edf10e0df24d98c3cad4e75e&v=4" width="24" alt="Avatar of rvillablanca"> rvillablanca
@@ -3508,35 +3550,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>1479</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>247</td>
 		<td>
-			<a href="https://github.com/joaquinnunez">
-				<img src="https://avatars.githubusercontent.com/u/436746?s=72&v=4" width="24" alt="Avatar of joaquinnunez"> joaquinnunez
+			<a href="https://github.com/ClaudiaRojasSoto">
+				<img src="https://avatars.githubusercontent.com/u/97201255?s=72&u=56e1b754dbcc0c80caabde37a1491b18ad121e68&v=4" width="24" alt="Avatar of ClaudiaRojasSoto"> ClaudiaRojasSoto
 			</a><br/>
-			Joaquín Núñez
+			Claudia  P. R. Soto
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>56</td>
-		<td>1460</td>
+		<td>Software Developer </td>
+		<td><a href="https://twitter.com/CLAUDIAROJAS197">CLAUDIAROJAS197</a></td>
+		<td>Copiapó, Atacama. Chile</td>
+		<td>110</td>
+		<td>1456</td>
 	</tr>
 	<tr>
-		<td>245</td>
-		<td>
-			<a href="https://github.com/JuanDuran85">
-				<img src="https://avatars.githubusercontent.com/u/15115270?s=72&u=2722fa54c6f94839030427fef6f085a0ca7ccc22&v=4" width="24" alt="Avatar of JuanDuran85"> JuanDuran85
-			</a><br/>
-			Juan Duran
-		</td>
-		<td>Cencosud S.a </td>
-		<td><a href="https://twitter.com/JuanDuran85">JuanDuran85</a></td>
-		<td>Santiago de Chile, Chile</td>
-		<td>1458</td>
-		<td>1458</td>
-	</tr>
-	<tr>
-		<td>246</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/gmq">
 				<img src="https://avatars.githubusercontent.com/u/472791?s=72&v=4" width="24" alt="Avatar of gmq"> gmq
@@ -3550,49 +3578,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>1450</td>
 	</tr>
 	<tr>
-		<td>247</td>
-		<td>
-			<a href="https://github.com/ClaudiaRojasSoto">
-				<img src="https://avatars.githubusercontent.com/u/97201255?s=72&u=56e1b754dbcc0c80caabde37a1491b18ad121e68&v=4" width="24" alt="Avatar of ClaudiaRojasSoto"> ClaudiaRojasSoto
-			</a><br/>
-			Claudia  P. R. Soto
-		</td>
-		<td>Software Developer </td>
-		<td><a href="https://twitter.com/CLAUDIAROJAS197">CLAUDIAROJAS197</a></td>
-		<td>Copiapó, Atacama. Chile</td>
-		<td>110</td>
-		<td>1446</td>
-	</tr>
-	<tr>
-		<td>248</td>
-		<td>
-			<a href="https://github.com/Dyotson">
-				<img src="https://avatars.githubusercontent.com/u/13369498?s=72&u=b97968bfad0f00cefc6f6202d50c3729b472e9cc&v=4" width="24" alt="Avatar of Dyotson"> Dyotson
-			</a><br/>
-			Maximiliano Militzer
-		</td>
-		<td>Insilico Biotech Gmbh </td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>1442</td>
-		<td>1442</td>
-	</tr>
-	<tr>
 		<td>249</td>
-		<td>
-			<a href="https://github.com/prezdev88">
-				<img src="https://avatars.githubusercontent.com/u/11466548?s=72&u=407904c86a8e84c74a0c726ee751c2bb045c0f4a&v=4" width="24" alt="Avatar of prezdev88"> prezdev88
-			</a><br/>
-			Pato Pérez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>798</td>
-		<td>1424</td>
-	</tr>
-	<tr>
-		<td>250</td>
 		<td>
 			<a href="https://github.com/josemquinta15">
 				<img src="https://avatars.githubusercontent.com/u/54672128?s=72&u=725625a9cff3171792fcf52aa1fe163392bfb6cc&v=4" width="24" alt="Avatar of josemquinta15"> josemquinta15
@@ -3603,7 +3589,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>0</td>
-		<td>1420</td>
+		<td>1427</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>
+			<a href="https://github.com/prezdev88">
+				<img src="https://avatars.githubusercontent.com/u/11466548?s=72&u=407904c86a8e84c74a0c726ee751c2bb045c0f4a&v=4" width="24" alt="Avatar of prezdev88"> prezdev88
+			</a><br/>
+			Pato Pérez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>798</td>
+		<td>1425</td>
 	</tr>
 	<tr>
 		<td>251</td>
@@ -3617,10 +3617,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Viña del Mar, Chile</td>
 		<td>6</td>
-		<td>1408</td>
+		<td>1410</td>
 	</tr>
 	<tr>
 		<td>252</td>
+		<td>
+			<a href="https://github.com/EstebanKiito">
+				<img src="https://avatars.githubusercontent.com/u/130420779?s=72&u=40ce757a1a2f74cfe5b12454365bf2e258a402e6&v=4" width="24" alt="Avatar of EstebanKiito"> EstebanKiito
+			</a><br/>
+			Esteban Ortega
+		</td>
+		<td>Pontificia Universidad Católica De<br/>Chile<br/></td>
+		<td>No Twitter Username</td>
+		<td>Chile, Santiago</td>
+		<td>755</td>
+		<td>1405</td>
+	</tr>
+	<tr>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/gallegogt">
 				<img src="https://avatars.githubusercontent.com/u/207064?s=72&u=f94a9dd0557e6598e96753c456f809f43f7a46e3&v=4" width="24" alt="Avatar of gallegogt"> gallegogt
@@ -3634,7 +3648,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>1396</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/Lmendev">
 				<img src="https://avatars.githubusercontent.com/u/2933342?s=72&u=ff8c0febe25f5c7b01281276ef774750245cd90e&v=4" width="24" alt="Avatar of Lmendev"> Lmendev
@@ -3648,7 +3662,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>1394</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/enBonnet">
 				<img src="https://avatars.githubusercontent.com/u/13243693?s=72&u=19359e7f504fd1ce67f874589c72596c4a7528b7&v=4" width="24" alt="Avatar of enBonnet"> enBonnet
@@ -3659,10 +3673,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/enbonnet">enbonnet</a></td>
 		<td>Chile</td>
 		<td>688</td>
-		<td>1387</td>
+		<td>1388</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/Umbingelelo">
 				<img src="https://avatars.githubusercontent.com/u/54289754?s=72&u=b71cf42f90a4ca77530ed1abcf6783a51284fa36&v=4" width="24" alt="Avatar of Umbingelelo"> Umbingelelo
@@ -3673,21 +3687,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>421</td>
-		<td>1384</td>
-	</tr>
-	<tr>
-		<td>256</td>
-		<td>
-			<a href="https://github.com/EstebanKiito">
-				<img src="https://avatars.githubusercontent.com/u/130420779?s=72&u=40ce757a1a2f74cfe5b12454365bf2e258a402e6&v=4" width="24" alt="Avatar of EstebanKiito"> EstebanKiito
-			</a><br/>
-			Esteban Ortega
-		</td>
-		<td>Pontificia Universidad Católica De<br/>Chile<br/></td>
-		<td>No Twitter Username</td>
-		<td>Chile, Santiago</td>
-		<td>749</td>
-		<td>1381</td>
+		<td>1385</td>
 	</tr>
 	<tr>
 		<td>257</td>
@@ -3729,7 +3729,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Valdivia, Chile</td>
 		<td>25</td>
-		<td>1349</td>
+		<td>1364</td>
 	</tr>
 	<tr>
 		<td>260</td>
@@ -3743,7 +3743,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>118</td>
-		<td>1334</td>
+		<td>1347</td>
 	</tr>
 	<tr>
 		<td>261</td>
@@ -3762,6 +3762,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>262</td>
 		<td>
+			<a href="https://github.com/andresgottlieb">
+				<img src="https://avatars.githubusercontent.com/u/1126905?s=72&u=60c968afc97173fe153be20d2e940683615f6859&v=4" width="24" alt="Avatar of andresgottlieb"> andresgottlieb
+			</a><br/>
+			Andrés Gottlieb
+		</td>
+		<td>Noisegrasp </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>2</td>
+		<td>1325</td>
+	</tr>
+	<tr>
+		<td>263</td>
+		<td>
 			<a href="https://github.com/misobadev">
 				<img src="https://avatars.githubusercontent.com/u/3828247?s=72&u=16c8dcbbf546e4eddcaa3bde813be6033e58c847&v=4" width="24" alt="Avatar of misobadev"> misobadev
 			</a><br/>
@@ -3774,7 +3788,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>1325</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/sebastian-aranda">
 				<img src="https://avatars.githubusercontent.com/u/5626266?s=72&u=c8335d8efa5b6dfdefb3a784740293668191f4eb&v=4" width="24" alt="Avatar of sebastian-aranda"> sebastian-aranda
@@ -3784,11 +3798,11 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>@lsst-ts </td>
 		<td><a href="https://twitter.com/arandaseba">arandaseba</a></td>
 		<td>La Serena, Chile</td>
-		<td>1306</td>
-		<td>1308</td>
+		<td>1309</td>
+		<td>1311</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/ricardoalfaro">
 				<img src="https://avatars.githubusercontent.com/u/711705?s=72&u=ac8c4c88204000fdc3bc6cdb0d5a4f3f0fb7765c&v=4" width="24" alt="Avatar of ricardoalfaro"> ricardoalfaro
@@ -3799,10 +3813,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>523</td>
-		<td>1292</td>
+		<td>1298</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/joseglego">
 				<img src="https://avatars.githubusercontent.com/u/238259?s=72&v=4" width="24" alt="Avatar of joseglego"> joseglego
@@ -3813,10 +3827,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/joseglego">joseglego</a></td>
 		<td>Santiago, Chile</td>
 		<td>3</td>
-		<td>1286</td>
+		<td>1291</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/fdoflorenzano">
 				<img src="https://avatars.githubusercontent.com/u/13511560?s=72&u=3f24ead3400aaed5b2e141fc885dbaa7906bc085&v=4" width="24" alt="Avatar of fdoflorenzano"> fdoflorenzano
@@ -3830,7 +3844,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>1281</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/ehopperdietzel">
 				<img src="https://avatars.githubusercontent.com/u/14140144?s=72&u=2050fc8a048b60701860a7ba7ed5b7333d37229b&v=4" width="24" alt="Avatar of ehopperdietzel"> ehopperdietzel
@@ -3841,21 +3855,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/CuarzoSoftware">CuarzoSoftware</a></td>
 		<td>Chile</td>
 		<td>163</td>
-		<td>1275</td>
-	</tr>
-	<tr>
-		<td>268</td>
-		<td>
-			<a href="https://github.com/andresgottlieb">
-				<img src="https://avatars.githubusercontent.com/u/1126905?s=72&u=60c968afc97173fe153be20d2e940683615f6859&v=4" width="24" alt="Avatar of andresgottlieb"> andresgottlieb
-			</a><br/>
-			Andrés Gottlieb
-		</td>
-		<td>Noisegrasp </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>2</td>
-		<td>1264</td>
+		<td>1280</td>
 	</tr>
 	<tr>
 		<td>269</td>
@@ -3868,8 +3868,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
-		<td>409</td>
-		<td>1264</td>
+		<td>411</td>
+		<td>1272</td>
 	</tr>
 	<tr>
 		<td>270</td>
@@ -3882,11 +3882,25 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santiago de Chile</td>
-		<td>1264</td>
-		<td>1264</td>
+		<td>1272</td>
+		<td>1272</td>
 	</tr>
 	<tr>
 		<td>271</td>
+		<td>
+			<a href="https://github.com/MrRevillod">
+				<img src="https://avatars.githubusercontent.com/u/104238144?s=72&u=5f9ba2b51894089d89e6a5dad0424ee9e0f26cbb&v=4" width="24" alt="Avatar of MrRevillod"> MrRevillod
+			</a><br/>
+			Luciano Revillod
+		</td>
+		<td>Universidad Católica De Temuco<br/></td>
+		<td>No Twitter Username</td>
+		<td>Temuco, Chile</td>
+		<td>1137</td>
+		<td>1263</td>
+	</tr>
+	<tr>
+		<td>272</td>
 		<td>
 			<a href="https://github.com/tyronejosee">
 				<img src="https://avatars.githubusercontent.com/u/132106425?s=72&u=9a71bac0207d446d8efbb62b3682dcdde99efbf7&v=4" width="24" alt="Avatar of tyronejosee"> tyronejosee
@@ -3898,20 +3912,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Chile</td>
 		<td>171</td>
 		<td>1258</td>
-	</tr>
-	<tr>
-		<td>272</td>
-		<td>
-			<a href="https://github.com/MrRevillod">
-				<img src="https://avatars.githubusercontent.com/u/104238144?s=72&u=5f9ba2b51894089d89e6a5dad0424ee9e0f26cbb&v=4" width="24" alt="Avatar of MrRevillod"> MrRevillod
-			</a><br/>
-			Luciano Revillod
-		</td>
-		<td>Universidad Católica De Temuco<br/></td>
-		<td>No Twitter Username</td>
-		<td>Temuco, Chile</td>
-		<td>1129</td>
-		<td>1255</td>
 	</tr>
 	<tr>
 		<td>273</td>
@@ -3930,6 +3930,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>274</td>
 		<td>
+			<a href="https://github.com/kddlb">
+				<img src="https://avatars.githubusercontent.com/u/115702?s=72&v=4" width="24" alt="Avatar of kddlb"> kddlb
+			</a><br/>
+			Kevin López Brante
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>1009</td>
+		<td>1248</td>
+	</tr>
+	<tr>
+		<td>275</td>
+		<td>
 			<a href="https://github.com/gmartinezramirez">
 				<img src="https://avatars.githubusercontent.com/u/46351496?s=72&u=b8e31afeba1b05282dfb1434367eff4804b38896&v=4" width="24" alt="Avatar of gmartinezramirez"> gmartinezramirez
 			</a><br/>
@@ -3942,7 +3956,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>1243</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/delta575">
 				<img src="https://avatars.githubusercontent.com/u/17348799?s=72&u=65376d0266d044833672f569938a1af10aa33b21&v=4" width="24" alt="Avatar of delta575"> delta575
@@ -3953,21 +3967,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Valparaiso, Chile</td>
 		<td>10</td>
-		<td>1239</td>
-	</tr>
-	<tr>
-		<td>276</td>
-		<td>
-			<a href="https://github.com/kddlb">
-				<img src="https://avatars.githubusercontent.com/u/115702?s=72&v=4" width="24" alt="Avatar of kddlb"> kddlb
-			</a><br/>
-			Kevin López Brante
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>990</td>
-		<td>1217</td>
+		<td>1240</td>
 	</tr>
 	<tr>
 		<td>277</td>
@@ -3981,7 +3981,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago</td>
 		<td>5</td>
-		<td>1213</td>
+		<td>1235</td>
 	</tr>
 	<tr>
 		<td>278</td>
@@ -3994,8 +3994,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/MrDoc94">MrDoc94</a></td>
 		<td>Santiago, Chile</td>
-		<td>860</td>
-		<td>1211</td>
+		<td>866</td>
+		<td>1217</td>
 	</tr>
 	<tr>
 		<td>279</td>
@@ -4008,8 +4008,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Stackedcode </td>
 		<td>No Twitter Username</td>
 		<td>Chile</td>
-		<td>136</td>
-		<td>1208</td>
+		<td>139</td>
+		<td>1212</td>
 	</tr>
 	<tr>
 		<td>280</td>
@@ -4028,6 +4028,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>281</td>
 		<td>
+			<a href="https://github.com/gbaldera">
+				<img src="https://avatars.githubusercontent.com/u/1013337?s=72&u=103bb207482675ab30470b91c7d41d058718502c&v=4" width="24" alt="Avatar of gbaldera"> gbaldera
+			</a><br/>
+			Gustavo Rodriguez Baldera
+		</td>
+		<td>@glasfunds </td>
+		<td><a href="https://twitter.com/grodbaldera">grodbaldera</a></td>
+		<td>Santiago de los Caballeros, Dominican Republic</td>
+		<td>0</td>
+		<td>1199</td>
+	</tr>
+	<tr>
+		<td>282</td>
+		<td>
 			<a href="https://github.com/niba291">
 				<img src="https://avatars.githubusercontent.com/u/63934510?s=72&u=d42b5fabd606d5e5d55e76c921f8fb4d17b0c372&v=4" width="24" alt="Avatar of niba291"> niba291
 			</a><br/>
@@ -4037,10 +4051,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>217</td>
-		<td>1197</td>
+		<td>1198</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/emersonxinay">
 				<img src="https://avatars.githubusercontent.com/u/51926375?s=72&u=90077248ea940508f115bd3dcb583dfb69b1aceb&v=4" width="24" alt="Avatar of emersonxinay"> emersonxinay
@@ -4052,20 +4066,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Chile</td>
 		<td>155</td>
 		<td>1195</td>
-	</tr>
-	<tr>
-		<td>283</td>
-		<td>
-			<a href="https://github.com/gbaldera">
-				<img src="https://avatars.githubusercontent.com/u/1013337?s=72&u=103bb207482675ab30470b91c7d41d058718502c&v=4" width="24" alt="Avatar of gbaldera"> gbaldera
-			</a><br/>
-			Gustavo Rodriguez Baldera
-		</td>
-		<td>@glasfunds </td>
-		<td><a href="https://twitter.com/grodbaldera">grodbaldera</a></td>
-		<td>Santiago de los Caballeros, Dominican Republic</td>
-		<td>0</td>
-		<td>1194</td>
 	</tr>
 	<tr>
 		<td>284</td>
@@ -4093,7 +4093,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/MatiasNSalas">MatiasNSalas</a></td>
 		<td>Chile</td>
 		<td>3</td>
-		<td>1172</td>
+		<td>1180</td>
 	</tr>
 	<tr>
 		<td>286</td>
@@ -4107,10 +4107,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>0</td>
-		<td>1151</td>
+		<td>1156</td>
 	</tr>
 	<tr>
 		<td>287</td>
+		<td>
+			<a href="https://github.com/lezorich">
+				<img src="https://avatars.githubusercontent.com/u/4015880?s=72&u=6c7f80fd422a74c37dfdd51966640920031f9e1a&v=4" width="24" alt="Avatar of lezorich"> lezorich
+			</a><br/>
+			Lukas Zorich
+		</td>
+		<td>@fintoc-com  </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>9</td>
+		<td>1143</td>
+	</tr>
+	<tr>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/ws-garcia">
 				<img src="https://avatars.githubusercontent.com/u/70865364?s=72&u=dc55d3cd94dff0a6cf0cb37e79b5cd1af772edeb&v=4" width="24" alt="Avatar of ws-garcia"> ws-garcia
@@ -4124,21 +4138,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>1138</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>289</td>
 		<td>
-			<a href="https://github.com/lezorich">
-				<img src="https://avatars.githubusercontent.com/u/4015880?s=72&u=6c7f80fd422a74c37dfdd51966640920031f9e1a&v=4" width="24" alt="Avatar of lezorich"> lezorich
+			<a href="https://github.com/felipegarcia98">
+				<img src="https://avatars.githubusercontent.com/u/42228743?s=72&u=05aa6bb6c39efe064a8c3b019a5ef3b976868a01&v=4" width="24" alt="Avatar of felipegarcia98"> felipegarcia98
 			</a><br/>
-			Lukas Zorich
+			Felipe García González
 		</td>
-		<td>@fintoc-com  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>9</td>
-		<td>1135</td>
+		<td>Chile</td>
+		<td>27</td>
+		<td>1133</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/ale0aranda">
 				<img src="https://avatars.githubusercontent.com/u/209288425?s=72&u=2efbb8a37479f4cb3a570696cf502e5447b36086&v=4" width="24" alt="Avatar of ale0aranda"> ale0aranda
@@ -4150,20 +4164,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Santiago, Chile</td>
 		<td>936</td>
 		<td>1121</td>
-	</tr>
-	<tr>
-		<td>290</td>
-		<td>
-			<a href="https://github.com/felipegarcia98">
-				<img src="https://avatars.githubusercontent.com/u/42228743?s=72&u=05aa6bb6c39efe064a8c3b019a5ef3b976868a01&v=4" width="24" alt="Avatar of felipegarcia98"> felipegarcia98
-			</a><br/>
-			Felipe García González
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>27</td>
-		<td>1119</td>
 	</tr>
 	<tr>
 		<td>291</td>
@@ -4182,6 +4182,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>292</td>
 		<td>
+			<a href="https://github.com/fnavarrov">
+				<img src="https://avatars.githubusercontent.com/u/19564?s=72&u=1529ada7fa891d42e3d88121882a99469b7c2f61&v=4" width="24" alt="Avatar of fnavarrov"> fnavarrov
+			</a><br/>
+			Felipe Navarro V.
+		</td>
+		<td>@alges </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>45</td>
+		<td>1111</td>
+	</tr>
+	<tr>
+		<td>293</td>
+		<td>
 			<a href="https://github.com/CamilaJaviera91">
 				<img src="https://avatars.githubusercontent.com/u/184698841?s=72&u=676b2edff387ddf4f4890d461206bd1c5b59d325&v=4" width="24" alt="Avatar of CamilaJaviera91"> CamilaJaviera91
 			</a><br/>
@@ -4194,21 +4208,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>1109</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>294</td>
 		<td>
-			<a href="https://github.com/fnavarrov">
-				<img src="https://avatars.githubusercontent.com/u/19564?s=72&u=1529ada7fa891d42e3d88121882a99469b7c2f61&v=4" width="24" alt="Avatar of fnavarrov"> fnavarrov
+			<a href="https://github.com/borisbelmar">
+				<img src="https://avatars.githubusercontent.com/u/35373302?s=72&u=ebe5b63f8c68abf6f01b776a378c74c29ca47b3e&v=4" width="24" alt="Avatar of borisbelmar"> borisbelmar
 			</a><br/>
-			Felipe Navarro V.
+			Boris Belmar
 		</td>
-		<td>@alges </td>
+		<td>Dobleb </td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
-		<td>45</td>
-		<td>1109</td>
+		<td>239</td>
+		<td>1096</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/apuromafo">
 				<img src="https://avatars.githubusercontent.com/u/23161917?s=72&u=bae3f67e314b16452a2a06659aa625bfd4886190&v=4" width="24" alt="Avatar of apuromafo"> apuromafo
@@ -4219,20 +4233,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/apuromafo">apuromafo</a></td>
 		<td>Chile</td>
 		<td>1095</td>
-		<td>1095</td>
-	</tr>
-	<tr>
-		<td>295</td>
-		<td>
-			<a href="https://github.com/borisbelmar">
-				<img src="https://avatars.githubusercontent.com/u/35373302?s=72&u=ebe5b63f8c68abf6f01b776a378c74c29ca47b3e&v=4" width="24" alt="Avatar of borisbelmar"> borisbelmar
-			</a><br/>
-			Boris Belmar
-		</td>
-		<td>Dobleb </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>238</td>
 		<td>1095</td>
 	</tr>
 	<tr>
@@ -4247,24 +4247,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>0</td>
-		<td>1094</td>
+		<td>1095</td>
 	</tr>
 	<tr>
 		<td>297</td>
-		<td>
-			<a href="https://github.com/MatiasVME">
-				<img src="https://avatars.githubusercontent.com/u/342117?s=72&u=65c929673ab450f7fcbeb6201af79498e0392033&v=4" width="24" alt="Avatar of MatiasVME"> MatiasVME
-			</a><br/>
-			Matías Muñoz Espinoza
-		</td>
-		<td>@thevulcoreteam </td>
-		<td>No Twitter Username</td>
-		<td>Chile, Chillan</td>
-		<td>76</td>
-		<td>1088</td>
-	</tr>
-	<tr>
-		<td>298</td>
 		<td>
 			<a href="https://github.com/AlfreMK">
 				<img src="https://avatars.githubusercontent.com/u/62082450?s=72&u=bbcf87e4e45cc8ae24e5ccb9d3ce371e1df37609&v=4" width="24" alt="Avatar of AlfreMK"> AlfreMK
@@ -4275,10 +4261,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>138</td>
-		<td>1077</td>
+		<td>1082</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>298</td>
 		<td>
 			<a href="https://github.com/BrayanMnz">
 				<img src="https://avatars.githubusercontent.com/u/61812255?s=72&u=7e4c0dab3009bd6b56320dabb1e64f95c2f9281b&v=4" width="24" alt="Avatar of BrayanMnz"> BrayanMnz
@@ -4289,7 +4275,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Dominican Republic</td>
 		<td>36</td>
-		<td>1069</td>
+		<td>1072</td>
+	</tr>
+	<tr>
+		<td>299</td>
+		<td>
+			<a href="https://github.com/MatiasVME">
+				<img src="https://avatars.githubusercontent.com/u/342117?s=72&u=65c929673ab450f7fcbeb6201af79498e0392033&v=4" width="24" alt="Avatar of MatiasVME"> MatiasVME
+			</a><br/>
+			Matías Muñoz Espinoza
+		</td>
+		<td>@thevulcoreteam </td>
+		<td>No Twitter Username</td>
+		<td>Chile, Chillan</td>
+		<td>76</td>
+		<td>1066</td>
 	</tr>
 	<tr>
 		<td>300</td>
@@ -4317,7 +4317,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/npulidom">npulidom</a></td>
 		<td>Pucón, Chile</td>
 		<td>7</td>
-		<td>1041</td>
+		<td>1045</td>
 	</tr>
 	<tr>
 		<td>302</td>
@@ -4336,34 +4336,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>303</td>
 		<td>
-			<a href="https://github.com/MiguelAngelRamos">
-				<img src="https://avatars.githubusercontent.com/u/35831405?s=72&u=6e1c652dce811f84afd421796397acbb22ddbff1&v=4" width="24" alt="Avatar of MiguelAngelRamos"> MiguelAngelRamos
-			</a><br/>
-			Miguel Ramos
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Miguelinfox">Miguelinfox</a></td>
-		<td>Chile</td>
-		<td>919</td>
-		<td>1030</td>
-	</tr>
-	<tr>
-		<td>304</td>
-		<td>
-			<a href="https://github.com/gantunesr">
-				<img src="https://avatars.githubusercontent.com/u/17601467?s=72&u=6726ca361a9c68e65b9e0e5f678bd52d93d0efdc&v=4" width="24" alt="Avatar of gantunesr"> gantunesr
-			</a><br/>
-			Gustavo Antunes
-		</td>
-		<td>Metamask - Consensys </td>
-		<td><a href="https://twitter.com/ar_guto">ar_guto</a></td>
-		<td>Stgo - Chile</td>
-		<td>961</td>
-		<td>1030</td>
-	</tr>
-	<tr>
-		<td>305</td>
-		<td>
 			<a href="https://github.com/lonkodev">
 				<img src="https://avatars.githubusercontent.com/u/12738307?s=72&u=b3dd51f9c0e44561566e6bc7cf6e6b6d7fd10979&v=4" width="24" alt="Avatar of lonkodev"> lonkodev
 			</a><br/>
@@ -4372,11 +4344,11 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>@bridgeonespa @mdonihue </td>
 		<td>No Twitter Username</td>
 		<td>Graneros,Chile</td>
-		<td>71</td>
-		<td>1027</td>
+		<td>68</td>
+		<td>1036</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/linares-it">
 				<img src="https://avatars.githubusercontent.com/u/26661814?s=72&u=1e6934913bd6b20d0ee5dc7e4d62cfee7370832e&v=4" width="24" alt="Avatar of linares-it"> linares-it
@@ -4387,7 +4359,35 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago</td>
 		<td>70</td>
-		<td>1026</td>
+		<td>1036</td>
+	</tr>
+	<tr>
+		<td>305</td>
+		<td>
+			<a href="https://github.com/gantunesr">
+				<img src="https://avatars.githubusercontent.com/u/17601467?s=72&u=6726ca361a9c68e65b9e0e5f678bd52d93d0efdc&v=4" width="24" alt="Avatar of gantunesr"> gantunesr
+			</a><br/>
+			Gustavo Antunes
+		</td>
+		<td>Metamask - Consensys </td>
+		<td><a href="https://twitter.com/ar_guto">ar_guto</a></td>
+		<td>Stgo - Chile</td>
+		<td>962</td>
+		<td>1031</td>
+	</tr>
+	<tr>
+		<td>306</td>
+		<td>
+			<a href="https://github.com/MiguelAngelRamos">
+				<img src="https://avatars.githubusercontent.com/u/35831405?s=72&u=6e1c652dce811f84afd421796397acbb22ddbff1&v=4" width="24" alt="Avatar of MiguelAngelRamos"> MiguelAngelRamos
+			</a><br/>
+			Miguel Ramos
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Miguelinfox">Miguelinfox</a></td>
+		<td>Chile</td>
+		<td>919</td>
+		<td>1030</td>
 	</tr>
 	<tr>
 		<td>307</td>
@@ -4406,16 +4406,16 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>308</td>
 		<td>
-			<a href="https://github.com/furendyna">
-				<img src="https://avatars.githubusercontent.com/u/30909898?s=72&u=6a22c93d1a87490b96f3e4df8bac96afa8e93b0e&v=4" width="24" alt="Avatar of furendyna"> furendyna
+			<a href="https://github.com/CTOSellside">
+				<img src="https://avatars.githubusercontent.com/u/144393936?s=72&u=39ffac4f2512f38d1f25d6cda1cf9b70e7987c0b&v=4" width="24" alt="Avatar of CTOSellside"> CTOSellside
 			</a><br/>
-			Furen
+			CTO Sellside SpA
 		</td>
-		<td>Nubison </td>
+		<td>Sellside Spa </td>
 		<td>No Twitter Username</td>
-		<td>Santiago</td>
-		<td>1019</td>
-		<td>1019</td>
+		<td>Santiago de Chile</td>
+		<td>20</td>
+		<td>1025</td>
 	</tr>
 	<tr>
 		<td>309</td>
@@ -4428,25 +4428,53 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chile</td>
-		<td>1017</td>
-		<td>1017</td>
+		<td>1024</td>
+		<td>1024</td>
 	</tr>
 	<tr>
 		<td>310</td>
 		<td>
-			<a href="https://github.com/CTOSellside">
-				<img src="https://avatars.githubusercontent.com/u/144393936?s=72&u=39ffac4f2512f38d1f25d6cda1cf9b70e7987c0b&v=4" width="24" alt="Avatar of CTOSellside"> CTOSellside
+			<a href="https://github.com/furendyna">
+				<img src="https://avatars.githubusercontent.com/u/30909898?s=72&u=6a22c93d1a87490b96f3e4df8bac96afa8e93b0e&v=4" width="24" alt="Avatar of furendyna"> furendyna
 			</a><br/>
-			CTO Sellside SpA
+			Furen
 		</td>
-		<td>Sellside Spa </td>
+		<td>Nubison </td>
 		<td>No Twitter Username</td>
-		<td>Santiago de Chile</td>
-		<td>20</td>
-		<td>1007</td>
+		<td>Santiago</td>
+		<td>1019</td>
+		<td>1019</td>
 	</tr>
 	<tr>
 		<td>311</td>
+		<td>
+			<a href="https://github.com/sanguineti">
+				<img src="https://avatars.githubusercontent.com/u/44387191?s=72&u=9b00f57367dddfa33b128e7c88bce75863732d97&v=4" width="24" alt="Avatar of sanguineti"> sanguineti
+			</a><br/>
+			Franco Sanguineti
+		</td>
+		<td>Buk </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>0</td>
+		<td>1001</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>
+			<a href="https://github.com/cuervolu">
+				<img src="https://avatars.githubusercontent.com/u/44347477?s=72&u=8297f8696e31c37ff80d0abe47968961012c2e33&v=4" width="24" alt="Avatar of cuervolu"> cuervolu
+			</a><br/>
+			Cuervolu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cuervolu29">cuervolu29</a></td>
+		<td>Chile</td>
+		<td>491</td>
+		<td>996</td>
+	</tr>
+	<tr>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/njimenez-deuna">
 				<img src="https://avatars.githubusercontent.com/u/909395?s=72&u=a9ae53c34e9480fe7a7a19943fbf88a67fab1079&v=4" width="24" alt="Avatar of njimenez-deuna"> njimenez-deuna
@@ -4460,21 +4488,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>993</td>
 	</tr>
 	<tr>
-		<td>312</td>
-		<td>
-			<a href="https://github.com/sanguineti">
-				<img src="https://avatars.githubusercontent.com/u/44387191?s=72&u=9b00f57367dddfa33b128e7c88bce75863732d97&v=4" width="24" alt="Avatar of sanguineti"> sanguineti
-			</a><br/>
-			Franco Sanguineti
-		</td>
-		<td>Buk </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>0</td>
-		<td>993</td>
-	</tr>
-	<tr>
-		<td>313</td>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/aastroza">
 				<img src="https://avatars.githubusercontent.com/u/8590877?s=72&u=e1af1b2c3c29e896b19d3018d47b753545563945&v=4" width="24" alt="Avatar of aastroza"> aastroza
@@ -4485,10 +4499,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/aastroza">aastroza</a></td>
 		<td>Santiago, Chile</td>
 		<td>272</td>
-		<td>989</td>
+		<td>992</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>315</td>
 		<td>
 			<a href="https://github.com/jfuentes">
 				<img src="https://avatars.githubusercontent.com/u/1077626?s=72&u=b62e28ce9b36a4d8b51260c83023c4488882efaa&v=4" width="24" alt="Avatar of jfuentes"> jfuentes
@@ -4502,7 +4516,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>987</td>
 	</tr>
 	<tr>
-		<td>315</td>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/juque">
 				<img src="https://avatars.githubusercontent.com/u/36350?s=72&v=4" width="24" alt="Avatar of juque"> juque
@@ -4513,21 +4527,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Temuco, Chile.</td>
 		<td>17</td>
-		<td>981</td>
-	</tr>
-	<tr>
-		<td>316</td>
-		<td>
-			<a href="https://github.com/cuervolu">
-				<img src="https://avatars.githubusercontent.com/u/44347477?s=72&u=8297f8696e31c37ff80d0abe47968961012c2e33&v=4" width="24" alt="Avatar of cuervolu"> cuervolu
-			</a><br/>
-			Cuervolu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cuervolu29">cuervolu29</a></td>
-		<td>Chile</td>
-		<td>491</td>
-		<td>980</td>
+		<td>982</td>
 	</tr>
 	<tr>
 		<td>317</td>
@@ -4555,7 +4555,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>2</td>
-		<td>970</td>
+		<td>975</td>
 	</tr>
 	<tr>
 		<td>319</td>
@@ -4611,7 +4611,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>24</td>
-		<td>940</td>
+		<td>947</td>
 	</tr>
 	<tr>
 		<td>323</td>
@@ -4630,6 +4630,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>324</td>
 		<td>
+			<a href="https://github.com/flakolefluk">
+				<img src="https://avatars.githubusercontent.com/u/11986564?s=72&u=ca9dbcf29a99418db9a49de2bcfb2b97b71fea76&v=4" width="24" alt="Avatar of flakolefluk"> flakolefluk
+			</a><br/>
+			Ignacio Falk
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/flakolefluk">flakolefluk</a></td>
+		<td>Chile</td>
+		<td>31</td>
+		<td>924</td>
+	</tr>
+	<tr>
+		<td>325</td>
+		<td>
 			<a href="https://github.com/KarlHeitmann">
 				<img src="https://avatars.githubusercontent.com/u/3003032?s=72&u=87f30e57321afe2627eec46b418bf4f08ba429f4&v=4" width="24" alt="Avatar of KarlHeitmann"> KarlHeitmann
 			</a><br/>
@@ -4639,24 +4653,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Valparaiso, Chile</td>
 		<td>52</td>
-		<td>920</td>
-	</tr>
-	<tr>
-		<td>325</td>
-		<td>
-			<a href="https://github.com/flakolefluk">
-				<img src="https://avatars.githubusercontent.com/u/11986564?s=72&u=ca9dbcf29a99418db9a49de2bcfb2b97b71fea76&v=4" width="24" alt="Avatar of flakolefluk"> flakolefluk
-			</a><br/>
-			Ignacio Falk
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/flakolefluk">flakolefluk</a></td>
-		<td>Chile</td>
-		<td>30</td>
-		<td>915</td>
+		<td>922</td>
 	</tr>
 	<tr>
 		<td>326</td>
+		<td>
+			<a href="https://github.com/ariverak">
+				<img src="https://avatars.githubusercontent.com/u/29168528?s=72&u=7b6e8809a5a64bb1b8fa2799b98efc3d0a03b2d4&v=4" width="24" alt="Avatar of ariverak"> ariverak
+			</a><br/>
+			Juan Andrés Rivera 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>3</td>
+		<td>918</td>
+	</tr>
+	<tr>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/nstraub">
 				<img src="https://avatars.githubusercontent.com/u/965447?s=72&v=4" width="24" alt="Avatar of nstraub"> nstraub
@@ -4670,7 +4684,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>910</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/wachunei">
 				<img src="https://avatars.githubusercontent.com/u/1024246?s=72&u=77044417db8b737334a7af2d04c4315d70883b21&v=4" width="24" alt="Avatar of wachunei"> wachunei
@@ -4680,25 +4694,25 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>@metamask At @consensys </td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
-		<td>660</td>
-		<td>904</td>
-	</tr>
-	<tr>
-		<td>328</td>
-		<td>
-			<a href="https://github.com/ariverak">
-				<img src="https://avatars.githubusercontent.com/u/29168528?s=72&u=7b6e8809a5a64bb1b8fa2799b98efc3d0a03b2d4&v=4" width="24" alt="Avatar of ariverak"> ariverak
-			</a><br/>
-			Juan Andrés Rivera 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>3</td>
-		<td>902</td>
+		<td>664</td>
+		<td>909</td>
 	</tr>
 	<tr>
 		<td>329</td>
+		<td>
+			<a href="https://github.com/juanu">
+				<img src="https://avatars.githubusercontent.com/u/654772?s=72&u=f698e40833958a9bccee9596a13438463eae5d47&v=4" width="24" alt="Avatar of juanu"> juanu
+			</a><br/>
+			Juan A. Ugalde
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/JuanUgaldeC">JuanUgaldeC</a></td>
+		<td>Santiago, Chile</td>
+		<td>587</td>
+		<td>905</td>
+	</tr>
+	<tr>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/bkorecic">
 				<img src="https://avatars.githubusercontent.com/u/32780326?s=72&u=52063aeb63a87d90622c9435e7d77cd2f15a5bf9&v=4" width="24" alt="Avatar of bkorecic"> bkorecic
@@ -4709,10 +4723,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>56</td>
-		<td>898</td>
+		<td>904</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/felipecalderon">
 				<img src="https://avatars.githubusercontent.com/u/7612826?s=72&u=b43529d9160cf31b9c78c330279cbf5bbf898c99&v=4" width="24" alt="Avatar of felipecalderon"> felipecalderon
@@ -4722,11 +4736,11 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Temuco</td>
-		<td>539</td>
-		<td>898</td>
+		<td>541</td>
+		<td>900</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/DiegoAndai">
 				<img src="https://avatars.githubusercontent.com/u/16889233?s=72&u=b1667affc00357145001e106a8818a268e38b2ba&v=4" width="24" alt="Avatar of DiegoAndai"> DiegoAndai
@@ -4738,20 +4752,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Santiago, Chile</td>
 		<td>20</td>
 		<td>894</td>
-	</tr>
-	<tr>
-		<td>332</td>
-		<td>
-			<a href="https://github.com/juanu">
-				<img src="https://avatars.githubusercontent.com/u/654772?s=72&u=f698e40833958a9bccee9596a13438463eae5d47&v=4" width="24" alt="Avatar of juanu"> juanu
-			</a><br/>
-			Juan A. Ugalde
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/JuanUgaldeC">JuanUgaldeC</a></td>
-		<td>Santiago, Chile</td>
-		<td>569</td>
-		<td>887</td>
 	</tr>
 	<tr>
 		<td>333</td>
@@ -4784,6 +4784,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>335</td>
 		<td>
+			<a href="https://github.com/longemen3000">
+				<img src="https://avatars.githubusercontent.com/u/38795484?s=72&u=ea770af0e0444bd799a45ebc6a79087e8fed290b&v=4" width="24" alt="Avatar of longemen3000"> longemen3000
+			</a><br/>
+			Andrés Riedemann
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>881</td>
+		<td>881</td>
+	</tr>
+	<tr>
+		<td>336</td>
+		<td>
 			<a href="https://github.com/santiagoClifford">
 				<img src="https://avatars.githubusercontent.com/u/168493763?s=72&u=31668e7f29838362f9a5a9f60af4fc9dc7c1e30e&v=4" width="24" alt="Avatar of santiagoClifford"> santiagoClifford
 			</a><br/>
@@ -4796,21 +4810,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>881</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>337</td>
 		<td>
-			<a href="https://github.com/longemen3000">
-				<img src="https://avatars.githubusercontent.com/u/38795484?s=72&u=ea770af0e0444bd799a45ebc6a79087e8fed290b&v=4" width="24" alt="Avatar of longemen3000"> longemen3000
+			<a href="https://github.com/aochagavia">
+				<img src="https://avatars.githubusercontent.com/u/5196584?s=72&u=f400c91165d6f2cdf6463abe05beca51731744a8&v=4" width="24" alt="Avatar of aochagavia"> aochagavia
 			</a><br/>
-			Andrés Riedemann
+			Adolfo Ochagavía
 		</td>
-		<td>No Company</td>
+		<td>Independent Consultant </td>
 		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>879</td>
-		<td>879</td>
+		<td>Amsterdam (The Netherlands) / Santiago (Chile)</td>
+		<td>477</td>
+		<td>869</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/diegovalenzuelaiturra">
 				<img src="https://avatars.githubusercontent.com/u/34951638?s=72&v=4" width="24" alt="Avatar of diegovalenzuelaiturra"> diegovalenzuelaiturra
@@ -4824,7 +4838,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>869</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/damkandev">
 				<img src="https://avatars.githubusercontent.com/u/70489858?s=72&u=317d7cdea3409d9194d5f1f7477db6e42d18d664&v=4" width="24" alt="Avatar of damkandev"> damkandev
@@ -4838,7 +4852,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>868</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/ljofreflor">
 				<img src="https://avatars.githubusercontent.com/u/1365836?s=72&u=8f28798918196763aa799963d69a11ec30a607ad&v=4" width="24" alt="Avatar of ljofreflor"> ljofreflor
@@ -4852,20 +4866,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>868</td>
 	</tr>
 	<tr>
-		<td>340</td>
-		<td>
-			<a href="https://github.com/aochagavia">
-				<img src="https://avatars.githubusercontent.com/u/5196584?s=72&u=f400c91165d6f2cdf6463abe05beca51731744a8&v=4" width="24" alt="Avatar of aochagavia"> aochagavia
-			</a><br/>
-			Adolfo Ochagavía
-		</td>
-		<td>Independent Consultant </td>
-		<td>No Twitter Username</td>
-		<td>Amsterdam (The Netherlands) / Santiago (Chile)</td>
-		<td>476</td>
-		<td>862</td>
-	</tr>
-	<tr>
 		<td>341</td>
 		<td>
 			<a href="https://github.com/hzambran">
@@ -4877,7 +4877,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Temuco, Chile</td>
 		<td>717</td>
-		<td>852</td>
+		<td>856</td>
 	</tr>
 	<tr>
 		<td>342</td>
@@ -4904,8 +4904,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Universidad Técnica Federico Santa<br/>María<br/></td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
-		<td>820</td>
-		<td>820</td>
+		<td>821</td>
+		<td>821</td>
 	</tr>
 	<tr>
 		<td>344</td>
@@ -4938,16 +4938,16 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>346</td>
 		<td>
-			<a href="https://github.com/marcelocampanelli">
-				<img src="https://avatars.githubusercontent.com/u/54248666?s=72&u=081fd5fdbdbb47c2b616e80e21c3ec2509095de2&v=4" width="24" alt="Avatar of marcelocampanelli"> marcelocampanelli
+			<a href="https://github.com/quest">
+				<img src="https://avatars.githubusercontent.com/u/6877?s=72&v=4" width="24" alt="Avatar of quest"> quest
 			</a><br/>
-			Marcelo Campanelli
+			Victor San Martin
 		</td>
-		<td>Totvs | Rd Station<br/></td>
-		<td><a href="https://twitter.com/devCampanelli">devCampanelli</a></td>
-		<td>Valparaíso, São Paulo, Brasil</td>
-		<td>71</td>
-		<td>793</td>
+		<td>@eclass </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>17</td>
+		<td>798</td>
 	</tr>
 	<tr>
 		<td>347</td>
@@ -4961,21 +4961,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Talcahuano, Chile</td>
 		<td>110</td>
-		<td>788</td>
+		<td>796</td>
 	</tr>
 	<tr>
 		<td>348</td>
 		<td>
-			<a href="https://github.com/quest">
-				<img src="https://avatars.githubusercontent.com/u/6877?s=72&v=4" width="24" alt="Avatar of quest"> quest
+			<a href="https://github.com/marcelocampanelli">
+				<img src="https://avatars.githubusercontent.com/u/54248666?s=72&u=081fd5fdbdbb47c2b616e80e21c3ec2509095de2&v=4" width="24" alt="Avatar of marcelocampanelli"> marcelocampanelli
 			</a><br/>
-			Victor San Martin
+			Marcelo Campanelli
 		</td>
-		<td>@eclass </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>17</td>
-		<td>787</td>
+		<td>Totvs | Rd Station<br/></td>
+		<td><a href="https://twitter.com/devCampanelli">devCampanelli</a></td>
+		<td>Valparaíso, São Paulo, Brasil</td>
+		<td>71</td>
+		<td>795</td>
 	</tr>
 	<tr>
 		<td>349</td>
@@ -4988,8 +4988,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chile</td>
-		<td>540</td>
-		<td>777</td>
+		<td>544</td>
+		<td>781</td>
 	</tr>
 	<tr>
 		<td>350</td>
@@ -5017,10 +5017,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago-Chile</td>
 		<td>0</td>
-		<td>773</td>
+		<td>775</td>
 	</tr>
 	<tr>
 		<td>352</td>
+		<td>
+			<a href="https://github.com/igbasly">
+				<img src="https://avatars.githubusercontent.com/u/42249038?s=72&u=a0332eec85090954e1525e8ef806d27e348da1b2&v=4" width="24" alt="Avatar of igbasly"> igbasly
+			</a><br/>
+			Ian Basly
+		</td>
+		<td>Buk </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>0</td>
+		<td>768</td>
+	</tr>
+	<tr>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/rodvaldes">
 				<img src="https://avatars.githubusercontent.com/u/714288?s=72&u=cfc3669e1ccfb1afce63a1081ce56c6f2085d1d5&v=4" width="24" alt="Avatar of rodvaldes"> rodvaldes
@@ -5034,21 +5048,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>766</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>354</td>
 		<td>
-			<a href="https://github.com/igbasly">
-				<img src="https://avatars.githubusercontent.com/u/42249038?s=72&u=a0332eec85090954e1525e8ef806d27e348da1b2&v=4" width="24" alt="Avatar of igbasly"> igbasly
+			<a href="https://github.com/gepd">
+				<img src="https://avatars.githubusercontent.com/u/7091609?s=72&u=0c9fad16be4a2bfb47e1666e62603f73258df983&v=4" width="24" alt="Avatar of gepd"> gepd
 			</a><br/>
-			Ian Basly
+			gepd
 		</td>
-		<td>Buk </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>0</td>
-		<td>765</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/gepd">gepd</a></td>
+		<td>Chile</td>
+		<td>169</td>
+		<td>758</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/dokshor">
 				<img src="https://avatars.githubusercontent.com/u/14633?s=72&v=4" width="24" alt="Avatar of dokshor"> dokshor
@@ -5062,21 +5076,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>755</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>356</td>
 		<td>
-			<a href="https://github.com/gepd">
-				<img src="https://avatars.githubusercontent.com/u/7091609?s=72&u=0c9fad16be4a2bfb47e1666e62603f73258df983&v=4" width="24" alt="Avatar of gepd"> gepd
+			<a href="https://github.com/Geeermy">
+				<img src="https://avatars.githubusercontent.com/u/5559611?s=72&u=c91cf7a9899cbbdcc42f8d2b895a0f70e0eab0ff&v=4" width="24" alt="Avatar of Geeermy"> Geeermy
 			</a><br/>
-			gepd
+			Germán Leandro Contreras Sagredo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/gepd">gepd</a></td>
+		<td>No Twitter Username</td>
 		<td>Chile</td>
-		<td>169</td>
-		<td>755</td>
+		<td>74</td>
+		<td>753</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/Victorsitou">
 				<img src="https://avatars.githubusercontent.com/u/67214928?s=72&u=91461b4e58aec0c8470fed850d38108a9b398872&v=4" width="24" alt="Avatar of Victorsitou"> Victorsitou
@@ -5090,21 +5104,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>745</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>358</td>
 		<td>
-			<a href="https://github.com/Geeermy">
-				<img src="https://avatars.githubusercontent.com/u/5559611?s=72&u=c91cf7a9899cbbdcc42f8d2b895a0f70e0eab0ff&v=4" width="24" alt="Avatar of Geeermy"> Geeermy
+			<a href="https://github.com/ajunge">
+				<img src="https://avatars.githubusercontent.com/u/3538255?s=72&u=6c34e7f65ca71cdb1b7545fdcdffe3f613750d8d&v=4" width="24" alt="Avatar of ajunge"> ajunge
 			</a><br/>
-			Germán Leandro Contreras Sagredo
+			Andres Junge
 		</td>
-		<td>No Company</td>
+		<td>Notabene </td>
 		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>74</td>
+		<td>Santiago, Chile</td>
+		<td>79</td>
 		<td>736</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/rivaquiroga">
 				<img src="https://avatars.githubusercontent.com/u/31421616?s=72&u=1c259777bec94b7c226bcfb87152d2414b2e74b7&v=4" width="24" alt="Avatar of rivaquiroga"> rivaquiroga
@@ -5118,7 +5132,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>733</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>360</td>
+		<td>
+			<a href="https://github.com/gatochico">
+				<img src="https://avatars.githubusercontent.com/u/37161120?s=72&u=784d9ae971515393a88a23b3c313d6c5419634a7&v=4" width="24" alt="Avatar of gatochico"> gatochico
+			</a><br/>
+			Fran Ibarra
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>236</td>
+		<td>733</td>
+	</tr>
+	<tr>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/vinjatovix">
 				<img src="https://avatars.githubusercontent.com/u/63653916?s=72&u=55017a7a4eb6481233221d2af6496356b3523860&v=4" width="24" alt="Avatar of vinjatovix"> vinjatovix
@@ -5132,7 +5160,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>733</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/rgcl">
 				<img src="https://avatars.githubusercontent.com/u/828854?s=72&u=19ebd5c09f86908dc2f2daeb5726eba97932f724&v=4" width="24" alt="Avatar of rgcl"> rgcl
@@ -5146,34 +5174,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>733</td>
 	</tr>
 	<tr>
-		<td>361</td>
-		<td>
-			<a href="https://github.com/gatochico">
-				<img src="https://avatars.githubusercontent.com/u/37161120?s=72&u=784d9ae971515393a88a23b3c313d6c5419634a7&v=4" width="24" alt="Avatar of gatochico"> gatochico
-			</a><br/>
-			Fran Ibarra
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>236</td>
-		<td>732</td>
-	</tr>
-	<tr>
-		<td>362</td>
-		<td>
-			<a href="https://github.com/ajunge">
-				<img src="https://avatars.githubusercontent.com/u/3538255?s=72&u=6c34e7f65ca71cdb1b7545fdcdffe3f613750d8d&v=4" width="24" alt="Avatar of ajunge"> ajunge
-			</a><br/>
-			Andres Junge
-		</td>
-		<td>Notabene </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>79</td>
-		<td>722</td>
-	</tr>
-	<tr>
 		<td>363</td>
 		<td>
 			<a href="https://github.com/quanticc">
@@ -5185,7 +5185,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>0</td>
-		<td>721</td>
+		<td>723</td>
 	</tr>
 	<tr>
 		<td>364</td>
@@ -5204,6 +5204,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>365</td>
 		<td>
+			<a href="https://github.com/felipejoq">
+				<img src="https://avatars.githubusercontent.com/u/35277450?s=72&u=5912af05ee7b42f7891e5b7847149fddf98883d4&v=4" width="24" alt="Avatar of felipejoq"> felipejoq
+			</a><br/>
+			Felipe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>120</td>
+		<td>715</td>
+	</tr>
+	<tr>
+		<td>366</td>
+		<td>
 			<a href="https://github.com/MrXploder">
 				<img src="https://avatars.githubusercontent.com/u/18601217?s=72&u=4a038a6ca14f6d737826b69fe0dfc1123e3c731c&v=4" width="24" alt="Avatar of MrXploder"> MrXploder
 			</a><br/>
@@ -5216,7 +5230,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>705</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/douglaszuqueto">
 				<img src="https://avatars.githubusercontent.com/u/7410247?s=72&u=8a4b40801e6e438efc2e30b5b166d89c344a5500&v=4" width="24" alt="Avatar of douglaszuqueto"> douglaszuqueto
@@ -5230,7 +5244,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>702</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/vicenteconejerosdelacruz">
 				<img src="https://avatars.githubusercontent.com/u/10147674?s=72&v=4" width="24" alt="Avatar of vicenteconejerosdelacruz"> vicenteconejerosdelacruz
@@ -5244,7 +5258,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>702</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/paskuvan">
 				<img src="https://avatars.githubusercontent.com/u/5359079?s=72&u=cd715750e24aad8bcad52db95762d2dc23deb01f&v=4" width="24" alt="Avatar of paskuvan"> paskuvan
@@ -5258,7 +5272,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>700</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/mavillan">
 				<img src="https://avatars.githubusercontent.com/u/6305371?s=72&u=b4dbf42328bf8f0ea24445edade8a3339bdfbc5c&v=4" width="24" alt="Avatar of mavillan"> mavillan
@@ -5272,7 +5286,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>698</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/KrlitosForever">
 				<img src="https://avatars.githubusercontent.com/u/7423579?s=72&u=6f2640f99095be564d5a4fbc137b0effde79db18&v=4" width="24" alt="Avatar of KrlitosForever"> KrlitosForever
@@ -5283,10 +5297,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/Krlitos_Forever">Krlitos_Forever</a></td>
 		<td>Chile</td>
 		<td>119</td>
-		<td>693</td>
+		<td>694</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/eliukblau">
 				<img src="https://avatars.githubusercontent.com/u/655950?s=72&u=a8e41604ed3841736bc4c1176eddf6ed2e776f97&v=4" width="24" alt="Avatar of eliukblau"> eliukblau
@@ -5300,7 +5314,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>688</td>
 	</tr>
 	<tr>
-		<td>372</td>
+		<td>373</td>
 		<td>
 			<a href="https://github.com/ericmartinezr">
 				<img src="https://avatars.githubusercontent.com/u/13039652?s=72&u=36c9d6a385332e0478603afffedffd56ad9989a4&v=4" width="24" alt="Avatar of ericmartinezr"> ericmartinezr
@@ -5314,7 +5328,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>687</td>
 	</tr>
 	<tr>
-		<td>373</td>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/geronimoarteaga">
 				<img src="https://avatars.githubusercontent.com/u/11145475?s=72&u=2b46cdcbedadb86bf9910204bf00b6ad655e6ef5&v=4" width="24" alt="Avatar of geronimoarteaga"> geronimoarteaga
@@ -5328,7 +5342,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>686</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/JDConejeros">
 				<img src="https://avatars.githubusercontent.com/u/43749364?s=72&u=4c2c318c87c24fa5714e5619d1c0cd2a3b3883f7&v=4" width="24" alt="Avatar of JDConejeros"> JDConejeros
@@ -5339,10 +5353,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>555</td>
-		<td>679</td>
+		<td>680</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/miguelcarcamov">
 				<img src="https://avatars.githubusercontent.com/u/5432126?s=72&u=fec4f05e6598cb8d8e0b969e86c9ef9a36e6d5d8&v=4" width="24" alt="Avatar of miguelcarcamov"> miguelcarcamov
@@ -5356,7 +5370,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>670</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/Deivid21">
 				<img src="https://avatars.githubusercontent.com/u/31148871?s=72&u=16037b1a700f456101cb0017d7bc3b06c32bdf95&v=4" width="24" alt="Avatar of Deivid21"> Deivid21
@@ -5366,11 +5380,11 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
-		<td>654</td>
-		<td>665</td>
+		<td>658</td>
+		<td>669</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/luc-mo">
 				<img src="https://avatars.githubusercontent.com/u/53484686?s=72&u=1a1cf60541584f43bbad6a85aafc93a2b9793ae1&v=4" width="24" alt="Avatar of luc-mo"> luc-mo
@@ -5384,7 +5398,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>664</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/solarc3">
 				<img src="https://avatars.githubusercontent.com/u/100742706?s=72&u=dc83bf0895673868d4fb30dd6c4b69211578fc74&v=4" width="24" alt="Avatar of solarc3"> solarc3
@@ -5398,20 +5412,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>663</td>
 	</tr>
 	<tr>
-		<td>379</td>
-		<td>
-			<a href="https://github.com/felipejoq">
-				<img src="https://avatars.githubusercontent.com/u/35277450?s=72&u=5912af05ee7b42f7891e5b7847149fddf98883d4&v=4" width="24" alt="Avatar of felipejoq"> felipejoq
-			</a><br/>
-			Felipe
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>90</td>
-		<td>660</td>
-	</tr>
-	<tr>
 		<td>380</td>
 		<td>
 			<a href="https://github.com/Bernardita-Jesus">
@@ -5422,8 +5422,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>@disenoudp  </td>
 		<td>No Twitter Username</td>
 		<td>Chile</td>
-		<td>629</td>
-		<td>655</td>
+		<td>632</td>
+		<td>658</td>
 	</tr>
 	<tr>
 		<td>381</td>
@@ -5437,7 +5437,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>56</td>
-		<td>645</td>
+		<td>653</td>
 	</tr>
 	<tr>
 		<td>382</td>
@@ -5465,7 +5465,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/nikosantise">nikosantise</a></td>
 		<td>Santiago, Chile</td>
 		<td>3</td>
-		<td>630</td>
+		<td>633</td>
 	</tr>
 	<tr>
 		<td>384</td>
@@ -5568,6 +5568,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>391</td>
 		<td>
+			<a href="https://github.com/Himuravidal">
+				<img src="https://avatars.githubusercontent.com/u/22780253?s=72&u=ab92f539b62d20dc83ad8d1c8f0e605bf5f5f845&v=4" width="24" alt="Avatar of Himuravidal"> Himuravidal
+			</a><br/>
+			Cristian Vidal
+		</td>
+		<td>Vacasa </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>0</td>
+		<td>592</td>
+	</tr>
+	<tr>
+		<td>392</td>
+		<td>
 			<a href="https://github.com/MasterKrab">
 				<img src="https://avatars.githubusercontent.com/u/47456460?s=72&u=be1dd0962911982f07699774100cd9c1a5479065&v=4" width="24" alt="Avatar of MasterKrab"> MasterKrab
 			</a><br/>
@@ -5578,20 +5592,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Chile</td>
 		<td>174</td>
 		<td>591</td>
-	</tr>
-	<tr>
-		<td>392</td>
-		<td>
-			<a href="https://github.com/Himuravidal">
-				<img src="https://avatars.githubusercontent.com/u/22780253?s=72&u=ab92f539b62d20dc83ad8d1c8f0e605bf5f5f845&v=4" width="24" alt="Avatar of Himuravidal"> Himuravidal
-			</a><br/>
-			Cristian Vidal
-		</td>
-		<td>Vacasa </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>0</td>
-		<td>590</td>
 	</tr>
 	<tr>
 		<td>393</td>
@@ -5633,21 +5633,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago</td>
 		<td>14</td>
-		<td>582</td>
+		<td>583</td>
 	</tr>
 	<tr>
 		<td>396</td>
 		<td>
-			<a href="https://github.com/davidlealo">
-				<img src="https://avatars.githubusercontent.com/u/10031100?s=72&u=bdb249e948d4cd0aa17fab9765d99c456097a8b9&v=4" width="24" alt="Avatar of davidlealo"> davidlealo
+			<a href="https://github.com/rebelytics">
+				<img src="https://avatars.githubusercontent.com/u/261660926?s=72&v=4" width="24" alt="Avatar of rebelytics"> rebelytics
 			</a><br/>
-			David Leal
+			Eoghan Henn
 		</td>
-		<td>Innovacien </td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>364</td>
-		<td>571</td>
+		<td>Rebelytics.com </td>
+		<td><a href="https://twitter.com/rebelytics">rebelytics</a></td>
+		<td>Santiago de Compostela </td>
+		<td>535</td>
+		<td>579</td>
 	</tr>
 	<tr>
 		<td>397</td>
@@ -5661,10 +5661,24 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>129</td>
-		<td>566</td>
+		<td>579</td>
 	</tr>
 	<tr>
 		<td>398</td>
+		<td>
+			<a href="https://github.com/davidlealo">
+				<img src="https://avatars.githubusercontent.com/u/10031100?s=72&u=bdb249e948d4cd0aa17fab9765d99c456097a8b9&v=4" width="24" alt="Avatar of davidlealo"> davidlealo
+			</a><br/>
+			David Leal
+		</td>
+		<td>Innovacien </td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>364</td>
+		<td>571</td>
+	</tr>
+	<tr>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/pbadillatorrealba">
 				<img src="https://avatars.githubusercontent.com/u/22802485?s=72&u=98d2828c226bf670a153b5ec92f28f76ce08b723&v=4" width="24" alt="Avatar of pbadillatorrealba"> pbadillatorrealba
@@ -5678,7 +5692,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>560</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>400</td>
+		<td>
+			<a href="https://github.com/JajoScript">
+				<img src="https://avatars.githubusercontent.com/u/21326296?s=72&u=66bca010616d7467dd44761fbbcef9135c5c5739&v=4" width="24" alt="Avatar of JajoScript"> JajoScript
+			</a><br/>
+			Javier Almarza
+		</td>
+		<td>Tcs </td>
+		<td>No Twitter Username</td>
+		<td>Santiago de Chile</td>
+		<td>65</td>
+		<td>557</td>
+	</tr>
+	<tr>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/pblov">
 				<img src="https://avatars.githubusercontent.com/u/46308163?s=72&u=bfcc5a250ed44d85ed2ae2cbc96ca8cfe95bdc86&v=4" width="24" alt="Avatar of pblov"> pblov
@@ -5689,10 +5717,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile.</td>
 		<td>0</td>
-		<td>552</td>
+		<td>554</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>402</td>
 		<td>
 			<a href="https://github.com/lcgodoy">
 				<img src="https://avatars.githubusercontent.com/u/24809942?s=72&u=afcfd715106dfe7b9ad5b2ea38dc1b9e3aa233a2&v=4" width="24" alt="Avatar of lcgodoy"> lcgodoy
@@ -5706,7 +5734,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>551</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>403</td>
 		<td>
 			<a href="https://github.com/aaossa">
 				<img src="https://avatars.githubusercontent.com/u/10425834?s=72&u=ec7cf4861b16786ec1123b541e00056ff9525429&v=4" width="24" alt="Avatar of aaossa"> aaossa
@@ -5720,7 +5748,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>549</td>
 	</tr>
 	<tr>
-		<td>402</td>
+		<td>404</td>
+		<td>
+			<a href="https://github.com/caracena">
+				<img src="https://avatars.githubusercontent.com/u/7471555?s=72&u=3d2d40f71fbd26f6720ac6ea78729cb4001173f6&v=4" width="24" alt="Avatar of caracena"> caracena
+			</a><br/>
+			Claudio Aracena
+		</td>
+		<td>Uai </td>
+		<td><a href="https://twitter.com/caracena">caracena</a></td>
+		<td>Santiago, Chile</td>
+		<td>87</td>
+		<td>549</td>
+	</tr>
+	<tr>
+		<td>405</td>
 		<td>
 			<a href="https://github.com/kevinzeladacl">
 				<img src="https://avatars.githubusercontent.com/u/7696201?s=72&u=76a15961574f6e5b425f3b1adcbf4eb1b95c95dd&v=4" width="24" alt="Avatar of kevinzeladacl"> kevinzeladacl
@@ -5734,35 +5776,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>547</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>406</td>
 		<td>
-			<a href="https://github.com/rebelytics">
-				<img src="https://avatars.githubusercontent.com/u/261660926?s=72&v=4" width="24" alt="Avatar of rebelytics"> rebelytics
+			<a href="https://github.com/A6GibKm">
+				<img src="https://avatars.githubusercontent.com/u/11528996?s=72&u=5222896fe0f5e535a961616cbf52dfced9591da1&v=4" width="24" alt="Avatar of A6GibKm"> A6GibKm
 			</a><br/>
-			Eoghan Henn
+			Maximiliano
 		</td>
-		<td>Rebelytics.com </td>
-		<td><a href="https://twitter.com/rebelytics">rebelytics</a></td>
-		<td>Santiago de Compostela </td>
-		<td>502</td>
-		<td>546</td>
-	</tr>
-	<tr>
-		<td>404</td>
-		<td>
-			<a href="https://github.com/JajoScript">
-				<img src="https://avatars.githubusercontent.com/u/21326296?s=72&u=66bca010616d7467dd44761fbbcef9135c5c5739&v=4" width="24" alt="Avatar of JajoScript"> JajoScript
-			</a><br/>
-			Javier Almarza
-		</td>
-		<td>Tcs </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santiago de Chile</td>
-		<td>53</td>
-		<td>545</td>
+		<td>Chile</td>
+		<td>543</td>
+		<td>543</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/devjaime">
 				<img src="https://avatars.githubusercontent.com/u/26843824?s=72&u=8c983b10216fe32de776d1a8b665fcc2a9b1618e&v=4" width="24" alt="Avatar of devjaime"> devjaime
@@ -5776,21 +5804,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>542</td>
 	</tr>
 	<tr>
-		<td>406</td>
-		<td>
-			<a href="https://github.com/A6GibKm">
-				<img src="https://avatars.githubusercontent.com/u/11528996?s=72&u=5222896fe0f5e535a961616cbf52dfced9591da1&v=4" width="24" alt="Avatar of A6GibKm"> A6GibKm
-			</a><br/>
-			Maximiliano
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>542</td>
-		<td>542</td>
-	</tr>
-	<tr>
-		<td>407</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/vizPilot">
 				<img src="https://avatars.githubusercontent.com/u/66806243?s=72&u=46c73a8160e822f9261e822b3e76dbe579482a0e&v=4" width="24" alt="Avatar of vizPilot"> vizPilot
@@ -5801,20 +5815,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>247</td>
-		<td>541</td>
-	</tr>
-	<tr>
-		<td>408</td>
-		<td>
-			<a href="https://github.com/caracena">
-				<img src="https://avatars.githubusercontent.com/u/7471555?s=72&u=3d2d40f71fbd26f6720ac6ea78729cb4001173f6&v=4" width="24" alt="Avatar of caracena"> caracena
-			</a><br/>
-			Claudio Aracena
-		</td>
-		<td>Uai </td>
-		<td><a href="https://twitter.com/caracena">caracena</a></td>
-		<td>Santiago, Chile</td>
-		<td>87</td>
 		<td>541</td>
 	</tr>
 	<tr>
@@ -5871,7 +5871,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile / Argentina</td>
 		<td>34</td>
-		<td>529</td>
+		<td>532</td>
 	</tr>
 	<tr>
 		<td>413</td>
@@ -5885,7 +5885,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>5</td>
-		<td>525</td>
+		<td>526</td>
 	</tr>
 	<tr>
 		<td>414</td>
@@ -5969,7 +5969,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile - Las Bellotas 199 Piso 6 Oficina 62</td>
 		<td>82</td>
-		<td>502</td>
+		<td>512</td>
 	</tr>
 	<tr>
 		<td>420</td>
@@ -6025,7 +6025,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>14</td>
-		<td>489</td>
+		<td>490</td>
 	</tr>
 	<tr>
 		<td>424</td>
@@ -6094,8 +6094,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chile</td>
-		<td>470</td>
-		<td>470</td>
+		<td>472</td>
+		<td>472</td>
 	</tr>
 	<tr>
 		<td>429</td>
@@ -6128,6 +6128,34 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>431</td>
 		<td>
+			<a href="https://github.com/Nandem1">
+				<img src="https://avatars.githubusercontent.com/u/103139553?s=72&u=f0df2a8d3ee3779a3175e978c256fbc3a6887e49&v=4" width="24" alt="Avatar of Nandem1"> Nandem1
+			</a><br/>
+			Vicente Aguirre
+		</td>
+		<td>Mercado House Spa </td>
+		<td>No Twitter Username</td>
+		<td>Coquimbo, Chile</td>
+		<td>461</td>
+		<td>461</td>
+	</tr>
+	<tr>
+		<td>432</td>
+		<td>
+			<a href="https://github.com/andrewcooke">
+				<img src="https://avatars.githubusercontent.com/u/1429281?s=72&v=4" width="24" alt="Avatar of andrewcooke"> andrewcooke
+			</a><br/>
+			andrew cooke
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>santiago, chile</td>
+		<td>460</td>
+		<td>460</td>
+	</tr>
+	<tr>
+		<td>433</td>
+		<td>
 			<a href="https://github.com/jpgelmi">
 				<img src="https://avatars.githubusercontent.com/u/68973694?s=72&u=08e275cb17228233d8521ef37a29326180c73cdd&v=4" width="24" alt="Avatar of jpgelmi"> jpgelmi
 			</a><br/>
@@ -6140,21 +6168,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>458</td>
 	</tr>
 	<tr>
-		<td>432</td>
-		<td>
-			<a href="https://github.com/Nandem1">
-				<img src="https://avatars.githubusercontent.com/u/103139553?s=72&u=f0df2a8d3ee3779a3175e978c256fbc3a6887e49&v=4" width="24" alt="Avatar of Nandem1"> Nandem1
-			</a><br/>
-			Vicente Aguirre
-		</td>
-		<td>Mercado House Spa </td>
-		<td>No Twitter Username</td>
-		<td>Coquimbo, Chile</td>
-		<td>458</td>
-		<td>458</td>
-	</tr>
-	<tr>
-		<td>433</td>
+		<td>434</td>
 		<td>
 			<a href="https://github.com/shaka0241">
 				<img src="https://avatars.githubusercontent.com/u/25334358?s=72&u=a6aa6d5352b75f49eff5c404ffa453849a3e204f&v=4" width="24" alt="Avatar of shaka0241"> shaka0241
@@ -6168,7 +6182,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>455</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>435</td>
 		<td>
 			<a href="https://github.com/clsource">
 				<img src="https://avatars.githubusercontent.com/u/292738?s=72&u=1f3edaeddc87d0a8e86e98066cd2c3238d7b3b64&v=4" width="24" alt="Avatar of clsource"> clsource
@@ -6182,7 +6196,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>454</td>
 	</tr>
 	<tr>
-		<td>435</td>
+		<td>436</td>
 		<td>
 			<a href="https://github.com/JorgeRiveraMancilla">
 				<img src="https://avatars.githubusercontent.com/u/84692366?s=72&u=d60e69d4385f67c73c028787759853f6fa868d13&v=4" width="24" alt="Avatar of JorgeRiveraMancilla"> JorgeRiveraMancilla
@@ -6196,7 +6210,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>451</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>437</td>
 		<td>
 			<a href="https://github.com/Mjrovai">
 				<img src="https://avatars.githubusercontent.com/u/17109416?s=72&u=ef0b226c4108eff0b35124985efef67d93ee2b4e&v=4" width="24" alt="Avatar of Mjrovai"> Mjrovai
@@ -6210,7 +6224,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>448</td>
 	</tr>
 	<tr>
-		<td>437</td>
+		<td>438</td>
 		<td>
 			<a href="https://github.com/KeatoonMask">
 				<img src="https://avatars.githubusercontent.com/u/63545481?s=72&u=ffdfe0b5a01f22c03dbd3f9e4936d38380f3e684&v=4" width="24" alt="Avatar of KeatoonMask"> KeatoonMask
@@ -6224,7 +6238,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>448</td>
 	</tr>
 	<tr>
-		<td>438</td>
+		<td>439</td>
 		<td>
 			<a href="https://github.com/Vctorqui">
 				<img src="https://avatars.githubusercontent.com/u/108197038?s=72&u=f61505419b443487bff25a4a7cd5f496ba17bc54&v=4" width="24" alt="Avatar of Vctorqui"> Vctorqui
@@ -6238,7 +6252,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>446</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>440</td>
 		<td>
 			<a href="https://github.com/cyber-drak">
 				<img src="https://avatars.githubusercontent.com/u/55255468?s=72&u=fd683952c4f0ba50832ea41eb808a08b6b8e92ec&v=4" width="24" alt="Avatar of cyber-drak"> cyber-drak
@@ -6248,11 +6262,11 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Jeanroa.dev </td>
 		<td>No Twitter Username</td>
 		<td>Chile</td>
-		<td>157</td>
-		<td>443</td>
+		<td>158</td>
+		<td>445</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/fralfaro">
 				<img src="https://avatars.githubusercontent.com/u/18752583?s=72&u=12239e660c82d4bdb06a219f41a2aba15f59f9fb&v=4" width="24" alt="Avatar of fralfaro"> fralfaro
@@ -6266,7 +6280,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>442</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>442</td>
 		<td>
 			<a href="https://github.com/hcarrasc">
 				<img src="https://avatars.githubusercontent.com/u/153291?s=72&u=37f1ee038d7b07cbe70f7ca0a9e84012249723dc&v=4" width="24" alt="Avatar of hcarrasc"> hcarrasc
@@ -6280,7 +6294,35 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>441</td>
 	</tr>
 	<tr>
-		<td>442</td>
+		<td>443</td>
+		<td>
+			<a href="https://github.com/a-chacon">
+				<img src="https://avatars.githubusercontent.com/u/39093711?s=72&u=60837a7248c8b21d6a84e4d64b9ac81f05ce1cf7&v=4" width="24" alt="Avatar of a-chacon"> a-chacon
+			</a><br/>
+			Andrés
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>377</td>
+		<td>434</td>
+	</tr>
+	<tr>
+		<td>444</td>
+		<td>
+			<a href="https://github.com/hernandw">
+				<img src="https://avatars.githubusercontent.com/u/43607368?s=72&u=ca7fbc507c91039065ad3515e92c37a93cdf4a7f&v=4" width="24" alt="Avatar of hernandw"> hernandw
+			</a><br/>
+			Williams Hernández
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Arica, Chile</td>
+		<td>432</td>
+		<td>432</td>
+	</tr>
+	<tr>
+		<td>445</td>
 		<td>
 			<a href="https://github.com/juancarloscastillo">
 				<img src="https://avatars.githubusercontent.com/u/29175922?s=72&u=21f4e24c42078f91ea0ee5ae02240c957f3f0fe6&v=4" width="24" alt="Avatar of juancarloscastillo"> juancarloscastillo
@@ -6290,11 +6332,25 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Universidad De Chile </td>
 		<td>No Twitter Username</td>
 		<td>Santiago</td>
-		<td>430</td>
-		<td>430</td>
+		<td>431</td>
+		<td>431</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>446</td>
+		<td>
+			<a href="https://github.com/basiclines">
+				<img src="https://avatars.githubusercontent.com/u/532028?s=72&u=08e88b899c2832e30a5666d93b26fe01e07594bf&v=4" width="24" alt="Avatar of basiclines"> basiclines
+			</a><br/>
+			Ismael Canal
+		</td>
+		<td>Secture </td>
+		<td>No Twitter Username</td>
+		<td>Santiago de Compostela, Spain</td>
+		<td>429</td>
+		<td>429</td>
+	</tr>
+	<tr>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/ignaciocastro">
 				<img src="https://avatars.githubusercontent.com/u/7141944?s=72&u=91234eb9def713e656cb2b9c7ed339f2b5e18f3d&v=4" width="24" alt="Avatar of ignaciocastro"> ignaciocastro
@@ -6308,35 +6364,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>428</td>
 	</tr>
 	<tr>
-		<td>444</td>
-		<td>
-			<a href="https://github.com/basiclines">
-				<img src="https://avatars.githubusercontent.com/u/532028?s=72&u=08e88b899c2832e30a5666d93b26fe01e07594bf&v=4" width="24" alt="Avatar of basiclines"> basiclines
-			</a><br/>
-			Ismael Canal
-		</td>
-		<td>Secture </td>
-		<td>No Twitter Username</td>
-		<td>Santiago de Compostela, Spain</td>
-		<td>426</td>
-		<td>426</td>
-	</tr>
-	<tr>
-		<td>445</td>
-		<td>
-			<a href="https://github.com/a-chacon">
-				<img src="https://avatars.githubusercontent.com/u/39093711?s=72&u=60837a7248c8b21d6a84e4d64b9ac81f05ce1cf7&v=4" width="24" alt="Avatar of a-chacon"> a-chacon
-			</a><br/>
-			Andrés
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>369</td>
-		<td>426</td>
-	</tr>
-	<tr>
-		<td>446</td>
+		<td>448</td>
 		<td>
 			<a href="https://github.com/Happyuky7">
 				<img src="https://avatars.githubusercontent.com/u/58347721?s=72&u=4eeb9d5d1c880d6152c297b2eea254d6ff48cfae&v=4" width="24" alt="Avatar of Happyuky7"> Happyuky7
@@ -6346,11 +6374,25 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Happyuky7">Happyuky7</a></td>
 		<td>Chile</td>
-		<td>232</td>
-		<td>426</td>
+		<td>234</td>
+		<td>428</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>449</td>
+		<td>
+			<a href="https://github.com/nicoavila">
+				<img src="https://avatars.githubusercontent.com/u/602639?s=72&u=f6714b02500dc6c9f3a9bc5ba4094c53f0e03e98&v=4" width="24" alt="Avatar of nicoavila"> nicoavila
+			</a><br/>
+			Nicolás Avila
+		</td>
+		<td>@ngchile  </td>
+		<td><a href="https://twitter.com/nicoavila_a">nicoavila_a</a></td>
+		<td>Santiago, Chile</td>
+		<td>15</td>
+		<td>425</td>
+	</tr>
+	<tr>
+		<td>450</td>
 		<td>
 			<a href="https://github.com/matamalaortiz">
 				<img src="https://avatars.githubusercontent.com/u/5123955?s=72&u=d49f37836f5961f8f6a74fac650a50fb5f594622&v=4" width="24" alt="Avatar of matamalaortiz"> matamalaortiz
@@ -6364,21 +6406,35 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>424</td>
 	</tr>
 	<tr>
-		<td>448</td>
+		<td>451</td>
 		<td>
-			<a href="https://github.com/nicoavila">
-				<img src="https://avatars.githubusercontent.com/u/602639?s=72&u=f6714b02500dc6c9f3a9bc5ba4094c53f0e03e98&v=4" width="24" alt="Avatar of nicoavila"> nicoavila
+			<a href="https://github.com/Bastianleaf">
+				<img src="https://avatars.githubusercontent.com/u/21956486?s=72&u=5703abc763613f42e5ed8ca15dd1ed29c7d72a85&v=4" width="24" alt="Avatar of Bastianleaf"> Bastianleaf
 			</a><br/>
-			Nicolás Avila
+			Bastián Martínez
 		</td>
-		<td>@ngchile  </td>
-		<td><a href="https://twitter.com/nicoavila_a">nicoavila_a</a></td>
-		<td>Santiago, Chile</td>
-		<td>15</td>
+		<td>Hf Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>10</td>
 		<td>423</td>
 	</tr>
 	<tr>
-		<td>449</td>
+		<td>452</td>
+		<td>
+			<a href="https://github.com/german-rs">
+				<img src="https://avatars.githubusercontent.com/u/18427568?s=72&u=fa2f8502d444b393ea46a0c773d3ea692d04d9d1&v=4" width="24" alt="Avatar of german-rs"> german-rs
+			</a><br/>
+			Germán Riveros S.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago </td>
+		<td>414</td>
+		<td>420</td>
+	</tr>
+	<tr>
+		<td>453</td>
 		<td>
 			<a href="https://github.com/DerSarco">
 				<img src="https://avatars.githubusercontent.com/u/64336008?s=72&u=9cc3523e987ccf831a8a7d6ed1dbc6664ee74695&v=4" width="24" alt="Avatar of DerSarco"> DerSarco
@@ -6392,49 +6448,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>419</td>
 	</tr>
 	<tr>
-		<td>450</td>
-		<td>
-			<a href="https://github.com/andrewcooke">
-				<img src="https://avatars.githubusercontent.com/u/1429281?s=72&v=4" width="24" alt="Avatar of andrewcooke"> andrewcooke
-			</a><br/>
-			andrew cooke
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>santiago, chile</td>
-		<td>419</td>
-		<td>419</td>
-	</tr>
-	<tr>
-		<td>451</td>
-		<td>
-			<a href="https://github.com/Bastianleaf">
-				<img src="https://avatars.githubusercontent.com/u/21956486?s=72&u=5703abc763613f42e5ed8ca15dd1ed29c7d72a85&v=4" width="24" alt="Avatar of Bastianleaf"> Bastianleaf
-			</a><br/>
-			Bastián Martínez
-		</td>
-		<td>Hf Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>10</td>
-		<td>417</td>
-	</tr>
-	<tr>
-		<td>452</td>
-		<td>
-			<a href="https://github.com/german-rs">
-				<img src="https://avatars.githubusercontent.com/u/18427568?s=72&u=fa2f8502d444b393ea46a0c773d3ea692d04d9d1&v=4" width="24" alt="Avatar of german-rs"> german-rs
-			</a><br/>
-			Germán Riveros S.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santiago </td>
-		<td>413</td>
-		<td>416</td>
-	</tr>
-	<tr>
-		<td>453</td>
+		<td>454</td>
 		<td>
 			<a href="https://github.com/Jioh19">
 				<img src="https://avatars.githubusercontent.com/u/14877618?s=72&u=d0523978210c9d487c45b0c0c803e823d6a41f6a&v=4" width="24" alt="Avatar of Jioh19"> Jioh19
@@ -6445,10 +6459,10 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>45</td>
-		<td>403</td>
+		<td>405</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>455</td>
 		<td>
 			<a href="https://github.com/fsahli">
 				<img src="https://avatars.githubusercontent.com/u/6242101?s=72&u=72ac7bc76eca0988e4b753c9cadef6d55b50c173&v=4" width="24" alt="Avatar of fsahli"> fsahli
@@ -6462,7 +6476,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>399</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>456</td>
 		<td>
 			<a href="https://github.com/diegocaro">
 				<img src="https://avatars.githubusercontent.com/u/421146?s=72&u=627d05f1a56555444db79a99cc5813f657ce0d39&v=4" width="24" alt="Avatar of diegocaro"> diegocaro
@@ -6476,7 +6490,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>396</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/jovicon">
 				<img src="https://avatars.githubusercontent.com/u/21287303?s=72&u=b049eac3e51a4c0473c2efe66b4d28a7d8f2b572&v=4" width="24" alt="Avatar of jovicon"> jovicon
@@ -6488,20 +6502,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Santiago de Chile</td>
 		<td>127</td>
 		<td>396</td>
-	</tr>
-	<tr>
-		<td>457</td>
-		<td>
-			<a href="https://github.com/hernandw">
-				<img src="https://avatars.githubusercontent.com/u/43607368?s=72&u=ca7fbc507c91039065ad3515e92c37a93cdf4a7f&v=4" width="24" alt="Avatar of hernandw"> hernandw
-			</a><br/>
-			Williams Hernández
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Arica, Chile</td>
-		<td>394</td>
-		<td>394</td>
 	</tr>
 	<tr>
 		<td>458</td>
@@ -6528,8 +6528,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Navalsec </td>
 		<td>No Twitter Username</td>
 		<td>Netherlands / Chile</td>
-		<td>391</td>
-		<td>391</td>
+		<td>392</td>
+		<td>392</td>
 	</tr>
 	<tr>
 		<td>460</td>
@@ -6599,7 +6599,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/Sergio_SZG">Sergio_SZG</a></td>
 		<td>Valladolid / Santiago de Compostela</td>
 		<td>158</td>
-		<td>375</td>
+		<td>382</td>
 	</tr>
 	<tr>
 		<td>465</td>
@@ -6711,7 +6711,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>3</td>
-		<td>343</td>
+		<td>348</td>
 	</tr>
 	<tr>
 		<td>473</td>
@@ -6724,8 +6724,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chile</td>
-		<td>335</td>
-		<td>335</td>
+		<td>338</td>
+		<td>338</td>
 	</tr>
 	<tr>
 		<td>474</td>
@@ -6739,7 +6739,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago</td>
 		<td>111</td>
-		<td>331</td>
+		<td>332</td>
 	</tr>
 	<tr>
 		<td>475</td>
@@ -6753,7 +6753,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago de Chile</td>
 		<td>0</td>
-		<td>326</td>
+		<td>329</td>
 	</tr>
 	<tr>
 		<td>476</td>
@@ -6767,7 +6767,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>7</td>
-		<td>321</td>
+		<td>322</td>
 	</tr>
 	<tr>
 		<td>477</td>
@@ -6850,8 +6850,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Datageo Insights </td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chle</td>
-		<td>299</td>
-		<td>299</td>
+		<td>300</td>
+		<td>300</td>
 	</tr>
 	<tr>
 		<td>483</td>
@@ -6892,8 +6892,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Iate (oac-unc-conicet) And Frc-uls<br/></td>
 		<td><a href="https://twitter.com/marianojavierd1">marianojavierd1</a></td>
 		<td>La Serena, Chile</td>
-		<td>235</td>
-		<td>294</td>
+		<td>236</td>
+		<td>295</td>
 	</tr>
 	<tr>
 		<td>486</td>
@@ -6907,7 +6907,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/ferbac0">ferbac0</a></td>
 		<td>Santiago, Chile</td>
 		<td>1</td>
-		<td>292</td>
+		<td>293</td>
 	</tr>
 	<tr>
 		<td>487</td>
@@ -6934,8 +6934,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/benjavicenteg">benjavicenteg</a></td>
 		<td>Chile</td>
-		<td>255</td>
-		<td>283</td>
+		<td>258</td>
+		<td>286</td>
 	</tr>
 	<tr>
 		<td>489</td>
@@ -6962,8 +6962,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>La Calera, Chile</td>
-		<td>281</td>
-		<td>281</td>
+		<td>282</td>
+		<td>282</td>
 	</tr>
 	<tr>
 		<td>491</td>
@@ -6982,6 +6982,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>492</td>
 		<td>
+			<a href="https://github.com/cneira">
+				<img src="https://avatars.githubusercontent.com/u/4327541?s=72&u=098ff4ef33b8816a74af6487322f7db03d9a1b51&v=4" width="24" alt="Avatar of cneira"> cneira
+			</a><br/>
+			Neirac
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>113</td>
+		<td>268</td>
+	</tr>
+	<tr>
+		<td>493</td>
+		<td>
 			<a href="https://github.com/byron-villegas">
 				<img src="https://avatars.githubusercontent.com/u/96267011?s=72&u=4a03b01fa35095208d22bbc6e3275ae906886a51&v=4" width="24" alt="Avatar of byron-villegas"> byron-villegas
 			</a><br/>
@@ -6992,20 +7006,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Santiago, Chile</td>
 		<td>122</td>
 		<td>267</td>
-	</tr>
-	<tr>
-		<td>493</td>
-		<td>
-			<a href="https://github.com/cneira">
-				<img src="https://avatars.githubusercontent.com/u/4327541?s=72&u=098ff4ef33b8816a74af6487322f7db03d9a1b51&v=4" width="24" alt="Avatar of cneira"> cneira
-			</a><br/>
-			Neirac
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>112</td>
-		<td>262</td>
 	</tr>
 	<tr>
 		<td>494</td>
@@ -7108,6 +7108,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>501</td>
 		<td>
+			<a href="https://github.com/fabricix">
+				<img src="https://avatars.githubusercontent.com/u/22794916?s=72&u=8f4946476e9eeb799e3abaf10702fc0b5d7ca58c&v=4" width="24" alt="Avatar of fabricix"> fabricix
+			</a><br/>
+			Fabricio Fernández
+		</td>
+		<td>Universidad Católica Del Norte<br/>(chile)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Antofagasta, Chile</td>
+		<td>197</td>
+		<td>242</td>
+	</tr>
+	<tr>
+		<td>502</td>
+		<td>
 			<a href="https://github.com/zuki2610">
 				<img src="https://avatars.githubusercontent.com/u/110415057?s=72&u=fc09729571302acaad725de922ad89afee5abd30&v=4" width="24" alt="Avatar of zuki2610"> zuki2610
 			</a><br/>
@@ -7120,7 +7134,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>240</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/ggasp">
 				<img src="https://avatars.githubusercontent.com/u/54523?s=72&v=4" width="24" alt="Avatar of ggasp"> ggasp
@@ -7134,7 +7148,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>240</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/felipehfa">
 				<img src="https://avatars.githubusercontent.com/u/91924156?s=72&u=1278d7460ff9d9587a6ae0c4eb191b95c81f290b&v=4" width="24" alt="Avatar of felipehfa"> felipehfa
@@ -7144,11 +7158,11 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santiago</td>
-		<td>234</td>
-		<td>236</td>
+		<td>235</td>
+		<td>237</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/rezzo">
 				<img src="https://avatars.githubusercontent.com/u/153339?s=72&u=0fc0ff362cd9457c5bdda9e5d2a5375a7a5966b0&v=4" width="24" alt="Avatar of rezzo"> rezzo
@@ -7162,7 +7176,35 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>231</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>506</td>
+		<td>
+			<a href="https://github.com/KaterinaPenaloza">
+				<img src="https://avatars.githubusercontent.com/u/74738986?s=72&u=920262b01f0d77f17896f8aff6044b98579f18f4&v=4" width="24" alt="Avatar of KaterinaPenaloza"> KaterinaPenaloza
+			</a><br/>
+			Katerina Peñaloza
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>151</td>
+		<td>230</td>
+	</tr>
+	<tr>
+		<td>507</td>
+		<td>
+			<a href="https://github.com/eepymoonshine">
+				<img src="https://avatars.githubusercontent.com/u/20606963?s=72&u=5bbb6ff56a949536856a3dade3066ee51ff110ef&v=4" width="24" alt="Avatar of eepymoonshine"> eepymoonshine
+			</a><br/>
+			Luna
+		</td>
+		<td>Tempo </td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>59</td>
+		<td>227</td>
+	</tr>
+	<tr>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/felipebravom">
 				<img src="https://avatars.githubusercontent.com/u/3768963?s=72&u=19179a7cb72dfd10d2fd8f0ddfd78c14879b9b92&v=4" width="24" alt="Avatar of felipebravom"> felipebravom
@@ -7176,7 +7218,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>226</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/alejandraconb-dev">
 				<img src="https://avatars.githubusercontent.com/u/154462336?s=72&u=c61b1618b8de3cec2f0f7c357967dbe63a4f3c9d&v=4" width="24" alt="Avatar of alejandraconb-dev"> alejandraconb-dev
@@ -7190,21 +7232,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>226</td>
 	</tr>
 	<tr>
-		<td>507</td>
-		<td>
-			<a href="https://github.com/eepymoonshine">
-				<img src="https://avatars.githubusercontent.com/u/20606963?s=72&u=5bbb6ff56a949536856a3dade3066ee51ff110ef&v=4" width="24" alt="Avatar of eepymoonshine"> eepymoonshine
-			</a><br/>
-			Luna
-		</td>
-		<td>Tempo </td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>56</td>
-		<td>224</td>
-	</tr>
-	<tr>
-		<td>508</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/MakerTobey">
 				<img src="https://avatars.githubusercontent.com/u/14097042?s=72&u=5168b0c56dd0057e9355eeff8510eeebbe66c447&v=4" width="24" alt="Avatar of MakerTobey"> MakerTobey
@@ -7218,21 +7246,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>223</td>
 	</tr>
 	<tr>
-		<td>509</td>
-		<td>
-			<a href="https://github.com/fabricix">
-				<img src="https://avatars.githubusercontent.com/u/22794916?s=72&u=8f4946476e9eeb799e3abaf10702fc0b5d7ca58c&v=4" width="24" alt="Avatar of fabricix"> fabricix
-			</a><br/>
-			Fabricio Fernández
-		</td>
-		<td>Universidad Católica Del Norte<br/>(chile)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Antofagasta, Chile</td>
-		<td>178</td>
-		<td>223</td>
-	</tr>
-	<tr>
-		<td>510</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/leotorrez">
 				<img src="https://avatars.githubusercontent.com/u/5174777?s=72&u=4688ef4c48dad4e0149310acf8fe021fb8d1f667&v=4" width="24" alt="Avatar of leotorrez"> leotorrez
@@ -7243,20 +7257,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago del Estero, Argentina</td>
 		<td>215</td>
-		<td>222</td>
-	</tr>
-	<tr>
-		<td>511</td>
-		<td>
-			<a href="https://github.com/KaterinaPenaloza">
-				<img src="https://avatars.githubusercontent.com/u/74738986?s=72&u=920262b01f0d77f17896f8aff6044b98579f18f4&v=4" width="24" alt="Avatar of KaterinaPenaloza"> KaterinaPenaloza
-			</a><br/>
-			Katerina Peñaloza
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>143</td>
 		<td>222</td>
 	</tr>
 	<tr>
@@ -7276,6 +7276,34 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>513</td>
 		<td>
+			<a href="https://github.com/Byevenes">
+				<img src="https://avatars.githubusercontent.com/u/41674080?s=72&u=64728dae2bf15367eb64d27909b0cb7053ee59f5&v=4" width="24" alt="Avatar of Byevenes"> Byevenes
+			</a><br/>
+			Brayan Yévenes 
+		</td>
+		<td>Goat </td>
+		<td>No Twitter Username</td>
+		<td>Concepción, Chile</td>
+		<td>208</td>
+		<td>220</td>
+	</tr>
+	<tr>
+		<td>514</td>
+		<td>
+			<a href="https://github.com/Saryace">
+				<img src="https://avatars.githubusercontent.com/u/30844164?s=72&u=16450e4d18ad57f18bf45c357c75b4375c732be6&v=4" width="24" alt="Avatar of Saryace"> Saryace
+			</a><br/>
+			Sara Acevedo
+		</td>
+		<td>Pontificia Universidad Católica De<br/>Chile<br/></td>
+		<td><a href="https://twitter.com/saryace">saryace</a></td>
+		<td>Santiago, Chile</td>
+		<td>216</td>
+		<td>216</td>
+	</tr>
+	<tr>
+		<td>515</td>
+		<td>
 			<a href="https://github.com/javiluco">
 				<img src="https://avatars.githubusercontent.com/u/102006845?s=72&u=e987f80152885f5f37eaffb589d3bd71c2a6f157&v=4" width="24" alt="Avatar of javiluco"> javiluco
 			</a><br/>
@@ -7288,7 +7316,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>216</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/robertoalvarezm">
 				<img src="https://avatars.githubusercontent.com/u/12945669?s=72&v=4" width="24" alt="Avatar of robertoalvarezm"> robertoalvarezm
@@ -7302,7 +7330,21 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>214</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>517</td>
+		<td>
+			<a href="https://github.com/DvdQzd">
+				<img src="https://avatars.githubusercontent.com/u/6012266?s=72&u=4cc3dfc4f5151c59960b7a2d83377aff15e1a8e4&v=4" width="24" alt="Avatar of DvdQzd"> DvdQzd
+			</a><br/>
+			David Quezada
+		</td>
+		<td>Softserve </td>
+		<td>No Twitter Username</td>
+		<td>Valparaíso, Chile.</td>
+		<td>10</td>
+		<td>213</td>
+	</tr>
+	<tr>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/ristofer">
 				<img src="https://avatars.githubusercontent.com/u/20021589?s=72&u=ebd32f083e199184a0ef086ab65839a6afa00026&v=4" width="24" alt="Avatar of ristofer"> ristofer
@@ -7314,48 +7356,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Chile</td>
 		<td>0</td>
 		<td>213</td>
-	</tr>
-	<tr>
-		<td>516</td>
-		<td>
-			<a href="https://github.com/Byevenes">
-				<img src="https://avatars.githubusercontent.com/u/41674080?s=72&u=64728dae2bf15367eb64d27909b0cb7053ee59f5&v=4" width="24" alt="Avatar of Byevenes"> Byevenes
-			</a><br/>
-			Brayan Yévenes 
-		</td>
-		<td>Goat </td>
-		<td>No Twitter Username</td>
-		<td>Concepción, Chile</td>
-		<td>200</td>
-		<td>212</td>
-	</tr>
-	<tr>
-		<td>517</td>
-		<td>
-			<a href="https://github.com/Saryace">
-				<img src="https://avatars.githubusercontent.com/u/30844164?s=72&u=16450e4d18ad57f18bf45c357c75b4375c732be6&v=4" width="24" alt="Avatar of Saryace"> Saryace
-			</a><br/>
-			Sara Acevedo
-		</td>
-		<td>Pontificia Universidad Católica De<br/>Chile<br/></td>
-		<td><a href="https://twitter.com/saryace">saryace</a></td>
-		<td>Santiago, Chile</td>
-		<td>211</td>
-		<td>211</td>
-	</tr>
-	<tr>
-		<td>518</td>
-		<td>
-			<a href="https://github.com/DvdQzd">
-				<img src="https://avatars.githubusercontent.com/u/6012266?s=72&u=4cc3dfc4f5151c59960b7a2d83377aff15e1a8e4&v=4" width="24" alt="Avatar of DvdQzd"> DvdQzd
-			</a><br/>
-			David Quezada
-		</td>
-		<td>Softserve </td>
-		<td>No Twitter Username</td>
-		<td>Valparaíso, Chile.</td>
-		<td>10</td>
-		<td>211</td>
 	</tr>
 	<tr>
 		<td>519</td>
@@ -7556,6 +7556,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>533</td>
 		<td>
+			<a href="https://github.com/acarril">
+				<img src="https://avatars.githubusercontent.com/u/9773292?s=72&u=57c082a4474d109a550301f96c4f37e138c77714&v=4" width="24" alt="Avatar of acarril"> acarril
+			</a><br/>
+			Alvaro Carril
+		</td>
+		<td>Mercado Libre </td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>179</td>
+		<td>193</td>
+	</tr>
+	<tr>
+		<td>534</td>
+		<td>
 			<a href="https://github.com/JoaquinMelladoQ">
 				<img src="https://avatars.githubusercontent.com/u/64607908?s=72&u=8b4658381f7cfb9915d936959adae5415e8500e0&v=4" width="24" alt="Avatar of JoaquinMelladoQ"> JoaquinMelladoQ
 			</a><br/>
@@ -7568,7 +7582,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>193</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/Marfullsen">
 				<img src="https://avatars.githubusercontent.com/u/56993209?s=72&u=fce66b0f0dc87bcf7d911e656bdd421249fa8f69&v=4" width="24" alt="Avatar of Marfullsen"> Marfullsen
@@ -7580,20 +7594,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Santiago, Chile</td>
 		<td>179</td>
 		<td>192</td>
-	</tr>
-	<tr>
-		<td>535</td>
-		<td>
-			<a href="https://github.com/acarril">
-				<img src="https://avatars.githubusercontent.com/u/9773292?s=72&u=57c082a4474d109a550301f96c4f37e138c77714&v=4" width="24" alt="Avatar of acarril"> acarril
-			</a><br/>
-			Alvaro Carril
-		</td>
-		<td>Mercado Libre </td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>179</td>
-		<td>191</td>
 	</tr>
 	<tr>
 		<td>536</td>
@@ -7654,6 +7654,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>540</td>
 		<td>
+			<a href="https://github.com/leslysandra">
+				<img src="https://avatars.githubusercontent.com/u/7820754?s=72&u=5b725d94db12dabae948245cc2e9ffd65e9463a6&v=4" width="24" alt="Avatar of leslysandra"> leslysandra
+			</a><br/>
+			Lesly Zerna
+		</td>
+		<td>Deeplearning.ai </td>
+		<td><a href="https://twitter.com/leslysandra">leslysandra</a></td>
+		<td>Chile</td>
+		<td>71</td>
+		<td>189</td>
+	</tr>
+	<tr>
+		<td>541</td>
+		<td>
 			<a href="https://github.com/DiegoBan">
 				<img src="https://avatars.githubusercontent.com/u/128759027?s=72&u=f2074b6406f63d4331a07e19f3c2ca34e0fcedb4&v=4" width="24" alt="Avatar of DiegoBan"> DiegoBan
 			</a><br/>
@@ -7664,20 +7678,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Chile</td>
 		<td>97</td>
 		<td>189</td>
-	</tr>
-	<tr>
-		<td>541</td>
-		<td>
-			<a href="https://github.com/leslysandra">
-				<img src="https://avatars.githubusercontent.com/u/7820754?s=72&u=5b725d94db12dabae948245cc2e9ffd65e9463a6&v=4" width="24" alt="Avatar of leslysandra"> leslysandra
-			</a><br/>
-			Lesly Zerna
-		</td>
-		<td>Deeplearning.ai </td>
-		<td><a href="https://twitter.com/leslysandra">leslysandra</a></td>
-		<td>Chile</td>
-		<td>71</td>
-		<td>188</td>
 	</tr>
 	<tr>
 		<td>542</td>
@@ -7816,8 +7816,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Uber </td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
-		<td>135</td>
-		<td>163</td>
+		<td>136</td>
+		<td>164</td>
 	</tr>
 	<tr>
 		<td>552</td>
@@ -7990,20 +7990,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>564</td>
 		<td>
-			<a href="https://github.com/segundogaldames">
-				<img src="https://avatars.githubusercontent.com/u/25353230?s=72&v=4" width="24" alt="Avatar of segundogaldames"> segundogaldames
-			</a><br/>
-			Segundo Galdames H
-		</td>
-		<td>Meta Servicios </td>
-		<td>No Twitter Username</td>
-		<td>Santiago de Chile</td>
-		<td>152</td>
-		<td>152</td>
-	</tr>
-	<tr>
-		<td>565</td>
-		<td>
 			<a href="https://github.com/jarriagadat">
 				<img src="https://avatars.githubusercontent.com/u/5865486?s=72&u=512b5502b6fe6689dddeed2642f3e4315c91a2a4&v=4" width="24" alt="Avatar of jarriagadat"> jarriagadat
 			</a><br/>
@@ -8016,7 +8002,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>143</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>565</td>
 		<td>
 			<a href="https://github.com/Didudocl">
 				<img src="https://avatars.githubusercontent.com/u/130184364?s=72&u=920cfaf9c4d2322db489c760d9bb92029cdff1ff&v=4" width="24" alt="Avatar of Didudocl"> Didudocl
@@ -8030,7 +8016,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>143</td>
 	</tr>
 	<tr>
-		<td>567</td>
+		<td>566</td>
 		<td>
 			<a href="https://github.com/marcelino-m">
 				<img src="https://avatars.githubusercontent.com/u/10197711?s=72&u=14484501d05fb3fb29555435569dd7ae1cba3f6a&v=4" width="24" alt="Avatar of marcelino-m"> marcelino-m
@@ -8044,7 +8030,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>567</td>
 		<td>
 			<a href="https://github.com/wdelcant">
 				<img src="https://avatars.githubusercontent.com/u/99770820?s=72&u=ceea81e84b1114ac1dcb1242facdf904daad3eb3&v=4" width="24" alt="Avatar of wdelcant"> wdelcant
@@ -8058,7 +8044,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>138</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/GusGA">
 				<img src="https://avatars.githubusercontent.com/u/1875350?s=72&u=bd87ecb159442582e318c30a68cae7144f6561ae&v=4" width="24" alt="Avatar of GusGA"> GusGA
@@ -8072,7 +8058,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>138</td>
 	</tr>
 	<tr>
-		<td>570</td>
+		<td>569</td>
 		<td>
 			<a href="https://github.com/Martin-Venegas-M">
 				<img src="https://avatars.githubusercontent.com/u/64295294?s=72&u=046fbf7f654fa95345c36ae4eab44bd60b90aa67&v=4" width="24" alt="Avatar of Martin-Venegas-M"> Martin-Venegas-M
@@ -8086,7 +8072,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>138</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/RRUZ">
 				<img src="https://avatars.githubusercontent.com/u/11446959?s=72&u=af2cbdefb357d6d818c5ecfe8778a22b5831fb80&v=4" width="24" alt="Avatar of RRUZ"> RRUZ
@@ -8100,7 +8086,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/AlexSegen">
 				<img src="https://avatars.githubusercontent.com/u/5666895?s=72&u=738b0fcbe55dcd5479af23a3e91a81ef2a4679e7&v=4" width="24" alt="Avatar of AlexSegen"> AlexSegen
@@ -8114,7 +8100,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/rrooddooxx">
 				<img src="https://avatars.githubusercontent.com/u/70353160?s=72&u=0a34003990e4b5922e0a363d69e667d746373744&v=4" width="24" alt="Avatar of rrooddooxx"> rrooddooxx
@@ -8128,7 +8114,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>573</td>
 		<td>
 			<a href="https://github.com/korbek99">
 				<img src="https://avatars.githubusercontent.com/u/35240264?s=72&u=9c19c020307378e1847e5d2f8fd8d4042bf818b2&v=4" width="24" alt="Avatar of korbek99"> korbek99
@@ -8140,6 +8126,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Santiago , Chile</td>
 		<td>93</td>
 		<td>128</td>
+	</tr>
+	<tr>
+		<td>574</td>
+		<td>
+			<a href="https://github.com/ruizRojasFel">
+				<img src="https://avatars.githubusercontent.com/u/213725716?s=72&u=5ad660886872769a5f52902c7fa543e2835542a9&v=4" width="24" alt="Avatar of ruizRojasFel"> ruizRojasFel
+			</a><br/>
+			Fel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>94</td>
+		<td>126</td>
 	</tr>
 	<tr>
 		<td>575</td>
@@ -8186,20 +8186,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>578</td>
 		<td>
-			<a href="https://github.com/ruizRojasFel">
-				<img src="https://avatars.githubusercontent.com/u/213725716?s=72&u=5ad660886872769a5f52902c7fa543e2835542a9&v=4" width="24" alt="Avatar of ruizRojasFel"> ruizRojasFel
-			</a><br/>
-			Fel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>94</td>
-		<td>122</td>
-	</tr>
-	<tr>
-		<td>579</td>
-		<td>
 			<a href="https://github.com/bloidev">
 				<img src="https://avatars.githubusercontent.com/u/52079200?s=72&u=e81d8c43678f5251d5732cb399f9297325dd1ceb&v=4" width="24" alt="Avatar of bloidev"> bloidev
 			</a><br/>
@@ -8212,7 +8198,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>579</td>
 		<td>
 			<a href="https://github.com/mithriock">
 				<img src="https://avatars.githubusercontent.com/u/511632?s=72&u=2cd1ee65c3026dc4d86545761bd2c8e3d23a78bb&v=4" width="24" alt="Avatar of mithriock"> mithriock
@@ -8226,7 +8212,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>580</td>
 		<td>
 			<a href="https://github.com/Fabianko">
 				<img src="https://avatars.githubusercontent.com/u/5956148?s=72&u=a456a787d14e02be974a3d5cdb878ce34912c339&v=4" width="24" alt="Avatar of Fabianko"> Fabianko
@@ -8240,7 +8226,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>581</td>
 		<td>
 			<a href="https://github.com/CesarOssesC">
 				<img src="https://avatars.githubusercontent.com/u/67532963?s=72&u=49600361e9427328cfe29af7c3cf703f3952a440&v=4" width="24" alt="Avatar of CesarOssesC"> CesarOssesC
@@ -8254,7 +8240,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/tecnocriollo">
 				<img src="https://avatars.githubusercontent.com/u/2193542?s=72&u=51aa0af649d4e34dc08911973a04db4f4f0ba3b8&v=4" width="24" alt="Avatar of tecnocriollo"> tecnocriollo
@@ -8268,7 +8254,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/vespina">
 				<img src="https://avatars.githubusercontent.com/u/983720?s=72&u=bb19c37b90de8a0e6832ac8056d8cb3b6eab7f6c&v=4" width="24" alt="Avatar of vespina"> vespina
@@ -8279,6 +8265,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>30</td>
+		<td>117</td>
+	</tr>
+	<tr>
+		<td>584</td>
+		<td>
+			<a href="https://github.com/educarrascov">
+				<img src="https://avatars.githubusercontent.com/u/62967687?s=72&u=b896ccf7d3e0baa87e325c3fb2d5a54db161f83f&v=4" width="24" alt="Avatar of educarrascov"> educarrascov
+			</a><br/>
+			Edu Carrasco
+		</td>
+		<td>Personal </td>
+		<td><a href="https://twitter.com/educarrascov">educarrascov</a></td>
+		<td>Valparaíso, Chile</td>
+		<td>117</td>
 		<td>117</td>
 	</tr>
 	<tr>
@@ -8326,6 +8326,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>588</td>
 		<td>
+			<a href="https://github.com/Niennis">
+				<img src="https://avatars.githubusercontent.com/u/32283958?s=72&u=b6225a49ab4760b82886595c101948df75ac4278&v=4" width="24" alt="Avatar of Niennis"> Niennis
+			</a><br/>
+			Estefanía Osses Vera
+		</td>
+		<td>@laboratoria </td>
+		<td>No Twitter Username</td>
+		<td>Valparaíso, Chile</td>
+		<td>111</td>
+		<td>111</td>
+	</tr>
+	<tr>
+		<td>589</td>
+		<td>
 			<a href="https://github.com/develasquez">
 				<img src="https://avatars.githubusercontent.com/u/887111?s=72&u=cd87e515205e828c46eb2509a8817ab37ab8a359&v=4" width="24" alt="Avatar of develasquez"> develasquez
 			</a><br/>
@@ -8338,7 +8352,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>590</td>
 		<td>
 			<a href="https://github.com/gsalfate-code">
 				<img src="https://avatars.githubusercontent.com/u/237879084?s=72&u=3aadb217692ac0503de74b3c8c81bb0b1d96e7b9&v=4" width="24" alt="Avatar of gsalfate-code"> gsalfate-code
@@ -8352,7 +8366,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/aweinstein">
 				<img src="https://avatars.githubusercontent.com/u/123405?s=72&u=a609288c0a413a9b7af5eda9f4b41f70a7ced11a&v=4" width="24" alt="Avatar of aweinstein"> aweinstein
@@ -8366,7 +8380,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/ProfeVivitaSol">
 				<img src="https://avatars.githubusercontent.com/u/125841161?s=72&u=6332341878e32fa4908d0e69fab581cdb5b1ab34&v=4" width="24" alt="Avatar of ProfeVivitaSol"> ProfeVivitaSol
@@ -8378,20 +8392,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>Chile</td>
 		<td>106</td>
 		<td>106</td>
-	</tr>
-	<tr>
-		<td>592</td>
-		<td>
-			<a href="https://github.com/Niennis">
-				<img src="https://avatars.githubusercontent.com/u/32283958?s=72&u=b6225a49ab4760b82886595c101948df75ac4278&v=4" width="24" alt="Avatar of Niennis"> Niennis
-			</a><br/>
-			Estefanía Osses Vera
-		</td>
-		<td>@laboratoria </td>
-		<td>No Twitter Username</td>
-		<td>Valparaíso, Chile</td>
-		<td>105</td>
-		<td>105</td>
 	</tr>
 	<tr>
 		<td>593</td>
@@ -8544,8 +8544,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>@wikimedia </td>
 		<td>No Twitter Username</td>
 		<td>Santiago de Compostela</td>
-		<td>95</td>
-		<td>95</td>
+		<td>96</td>
+		<td>96</td>
 	</tr>
 	<tr>
 		<td>604</td>
@@ -8558,8 +8558,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chile</td>
-		<td>86</td>
-		<td>94</td>
+		<td>88</td>
+		<td>96</td>
 	</tr>
 	<tr>
 		<td>605</td>
@@ -8572,8 +8572,8 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/not_an_engineer">not_an_engineer</a></td>
 		<td>Santiago, Chile</td>
-		<td>89</td>
 		<td>90</td>
+		<td>91</td>
 	</tr>
 	<tr>
 		<td>606</td>
@@ -8942,6 +8942,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>632</td>
 		<td>
+			<a href="https://github.com/DMasterIO">
+				<img src="https://avatars.githubusercontent.com/u/5914439?s=72&u=d5d4c00eab95f42f665fc539153162adc58abc54&v=4" width="24" alt="Avatar of DMasterIO"> DMasterIO
+			</a><br/>
+			César Encina León
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/DMaster_io">DMaster_io</a></td>
+		<td>Chile</td>
+		<td>70</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>633</td>
+		<td>
 			<a href="https://github.com/kmtkei">
 				<img src="https://avatars.githubusercontent.com/u/6144541?s=72&u=6e6d2ef43d99563ea3a6cc8945bbe000e8cf02ca&v=4" width="24" alt="Avatar of kmtkei"> kmtkei
 			</a><br/>
@@ -8951,20 +8965,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>San Antonio, Valparaiso, Chile.</td>
 		<td>2</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>633</td>
-		<td>
-			<a href="https://github.com/DMasterIO">
-				<img src="https://avatars.githubusercontent.com/u/5914439?s=72&u=d5d4c00eab95f42f665fc539153162adc58abc54&v=4" width="24" alt="Avatar of DMasterIO"> DMasterIO
-			</a><br/>
-			César Encina León
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/DMaster_io">DMaster_io</a></td>
-		<td>Chile</td>
-		<td>69</td>
 		<td>69</td>
 	</tr>
 	<tr>
@@ -8989,7 +8989,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 			</a><br/>
 			ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 		</td>
-		<td>Friends ♡ @nine-integer @prwttypup<br/>@joosbocks<br/>@xxjardxgalf-yaoi69x<br/>@hanasatominoridesu<br/>@catasthrope99<br/>@rubinator2763<br/>@ge0rgemccartney<br/></td>
+		<td>ᦏ♡᪔ @nine-integer ﹐@prwttypup ﹐@joosbocks<br/>﹐@xxjardxgalf-yaoi69<br/>﹐@hanasatominoridesu<br/>﹐@catasthrope99<br/>﹐@rubinator2763<br/>﹐@ge0rgemccartney<br/></td>
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>67</td>
@@ -9208,6 +9208,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>651</td>
 		<td>
+			<a href="https://github.com/Erive5">
+				<img src="https://avatars.githubusercontent.com/u/144373517?s=72&u=7fb3e6a2ee9a0f88c2396a4e76fe005418747b7d&v=4" width="24" alt="Avatar of Erive5"> Erive5
+			</a><br/>
+			Erika Verónica 🎀
+		</td>
+		<td>Seidor </td>
+		<td>No Twitter Username</td>
+		<td>Santiago, Chile</td>
+		<td>44</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>652</td>
+		<td>
 			<a href="https://github.com/MPazJelvez">
 				<img src="https://avatars.githubusercontent.com/u/94771159?s=72&u=c02303169936c95ea6208e127829f96daa011e09&v=4" width="24" alt="Avatar of MPazJelvez"> MPazJelvez
 			</a><br/>
@@ -9220,7 +9234,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>653</td>
 		<td>
 			<a href="https://github.com/Joacker">
 				<img src="https://avatars.githubusercontent.com/u/67400456?s=72&u=f0436d2df5f61ea915400df7b2f0a8474fcb29c3&v=4" width="24" alt="Avatar of Joacker"> Joacker
@@ -9234,7 +9248,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>653</td>
+		<td>654</td>
 		<td>
 			<a href="https://github.com/gchaperon">
 				<img src="https://avatars.githubusercontent.com/u/21991723?s=72&v=4" width="24" alt="Avatar of gchaperon"> gchaperon
@@ -9248,7 +9262,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>654</td>
+		<td>655</td>
 		<td>
 			<a href="https://github.com/atma">
 				<img src="https://avatars.githubusercontent.com/u/72800?s=72&v=4" width="24" alt="Avatar of atma"> atma
@@ -9262,7 +9276,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>656</td>
 		<td>
 			<a href="https://github.com/bunzli">
 				<img src="https://avatars.githubusercontent.com/u/741483?s=72&v=4" width="24" alt="Avatar of bunzli"> bunzli
@@ -9276,7 +9290,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/rhernandog">
 				<img src="https://avatars.githubusercontent.com/u/4622323?s=72&u=8b49176c80a948de99465d124da60de9b8b305a5&v=4" width="24" alt="Avatar of rhernandog"> rhernandog
@@ -9290,7 +9304,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/nancyB3a">
 				<img src="https://avatars.githubusercontent.com/u/81131696?s=72&u=51669435ab423157b0653ca96d1fb9116e9be112&v=4" width="24" alt="Avatar of nancyB3a"> nancyB3a
@@ -9304,7 +9318,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/denisparra">
 				<img src="https://avatars.githubusercontent.com/u/208111?s=72&v=4" width="24" alt="Avatar of denisparra"> denisparra
@@ -9318,7 +9332,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/juannfrancisco">
 				<img src="https://avatars.githubusercontent.com/u/287825?s=72&u=e5883e9f1baa0f88a3eb121b50026d3a8a0fd297&v=4" width="24" alt="Avatar of juannfrancisco"> juannfrancisco
@@ -9332,7 +9346,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/gjmveloso">
 				<img src="https://avatars.githubusercontent.com/u/590540?s=72&v=4" width="24" alt="Avatar of gjmveloso"> gjmveloso
@@ -9343,20 +9357,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td><a href="https://twitter.com/gjmveloso">gjmveloso</a></td>
 		<td>Santiago, Chile</td>
 		<td>12</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>661</td>
-		<td>
-			<a href="https://github.com/Erive5">
-				<img src="https://avatars.githubusercontent.com/u/144373517?s=72&u=7fb3e6a2ee9a0f88c2396a4e76fe005418747b7d&v=4" width="24" alt="Avatar of Erive5"> Erive5
-			</a><br/>
-			Erika Verónica 🎀
-		</td>
-		<td>Seidor </td>
-		<td>No Twitter Username</td>
-		<td>Santiago, Chile</td>
-		<td>44</td>
 		<td>47</td>
 	</tr>
 	<tr>
@@ -9516,6 +9516,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>673</td>
 		<td>
+			<a href="https://github.com/RDLuisL">
+				<img src="https://avatars.githubusercontent.com/u/102940535?s=72&u=79315e2e85bdf4ce698eea6b04e9f0c5ca4d06b5&v=4" width="24" alt="Avatar of RDLuisL"> RDLuisL
+			</a><br/>
+			Luis Luna
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago Chile</td>
+		<td>42</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>674</td>
+		<td>
 			<a href="https://github.com/ivanlalvarez22">
 				<img src="https://avatars.githubusercontent.com/u/92383926?s=72&u=d910dd5a5af25f57a2fbba67a21c15a250667090&v=4" width="24" alt="Avatar of ivanlalvarez22"> ivanlalvarez22
 			</a><br/>
@@ -9528,7 +9542,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/fvillena">
 				<img src="https://avatars.githubusercontent.com/u/25204452?s=72&u=9c334b0a079694ef09a017e6331bfbfa9a5ec3b3&v=4" width="24" alt="Avatar of fvillena"> fvillena
@@ -9542,7 +9556,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/Bustami">
 				<img src="https://avatars.githubusercontent.com/u/9221734?s=72&u=50c6616e1b9073911b77c8e1a2ad63d9ee4c7f25&v=4" width="24" alt="Avatar of Bustami"> Bustami
@@ -9556,7 +9570,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/JFelixZuniga">
 				<img src="https://avatars.githubusercontent.com/u/51497610?s=72&u=64e894b37ee86b7d179e760e0c289c44ec1b4ed5&v=4" width="24" alt="Avatar of JFelixZuniga"> JFelixZuniga
@@ -9570,7 +9584,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/Gabriel-Lillo">
 				<img src="https://avatars.githubusercontent.com/u/78933732?s=72&u=a244b2aa328fbf1354b834473f53de13ca8a8ad5&v=4" width="24" alt="Avatar of Gabriel-Lillo"> Gabriel-Lillo
@@ -9584,7 +9598,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/pedroburon">
 				<img src="https://avatars.githubusercontent.com/u/530098?s=72&v=4" width="24" alt="Avatar of pedroburon"> pedroburon
@@ -9594,20 +9608,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>@cornershop  </td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
-		<td>39</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>679</td>
-		<td>
-			<a href="https://github.com/RDLuisL">
-				<img src="https://avatars.githubusercontent.com/u/102940535?s=72&u=79315e2e85bdf4ce698eea6b04e9f0c5ca4d06b5&v=4" width="24" alt="Avatar of RDLuisL"> RDLuisL
-			</a><br/>
-			Luis Luna
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santiago Chile</td>
 		<td>39</td>
 		<td>39</td>
 	</tr>
@@ -10776,20 +10776,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>763</td>
 		<td>
-			<a href="https://github.com/NattyPavez">
-				<img src="https://avatars.githubusercontent.com/u/196650699?s=72&u=1f1cb4e63dffa3327d39294bed185e36223b348e&v=4" width="24" alt="Avatar of NattyPavez"> NattyPavez
-			</a><br/>
-			Natalia 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Puerto Varas - Chile</td>
-		<td>8</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>764</td>
-		<td>
 			<a href="https://github.com/mattgaviota">
 				<img src="https://avatars.githubusercontent.com/u/245104?s=72&u=03d34fd07c8d3f8836facfdb273aa193631b3974&v=4" width="24" alt="Avatar of mattgaviota"> mattgaviota
 			</a><br/>
@@ -10798,6 +10784,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
+		<td>8</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>764</td>
+		<td>
+			<a href="https://github.com/NattyPavez">
+				<img src="https://avatars.githubusercontent.com/u/196650699?s=72&u=1f1cb4e63dffa3327d39294bed185e36223b348e&v=4" width="24" alt="Avatar of NattyPavez"> NattyPavez
+			</a><br/>
+			Natalia 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Puerto Varas - Chile</td>
 		<td>8</td>
 		<td>8</td>
 	</tr>
@@ -10832,12 +10832,12 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>767</td>
 		<td>
-			<a href="https://github.com/gricelsepulveda">
-				<img src="https://avatars.githubusercontent.com/u/12860968?s=72&u=8401b869b56aba21db54dce79d379b2a16c2e3bf&v=4" width="24" alt="Avatar of gricelsepulveda"> gricelsepulveda
+			<a href="https://github.com/PotterSys">
+				<img src="https://avatars.githubusercontent.com/u/244173?s=72&v=4" width="24" alt="Avatar of PotterSys"> PotterSys
 			</a><br/>
-			Slowpokita
+			Juan
 		</td>
-		<td>@meli </td>
+		<td>Ps Labs </td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>7</td>
@@ -10846,12 +10846,12 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>768</td>
 		<td>
-			<a href="https://github.com/PotterSys">
-				<img src="https://avatars.githubusercontent.com/u/244173?s=72&v=4" width="24" alt="Avatar of PotterSys"> PotterSys
+			<a href="https://github.com/gricelsepulveda">
+				<img src="https://avatars.githubusercontent.com/u/12860968?s=72&u=8401b869b56aba21db54dce79d379b2a16c2e3bf&v=4" width="24" alt="Avatar of gricelsepulveda"> gricelsepulveda
 			</a><br/>
-			Juan
+			Slowpokita
 		</td>
-		<td>Ps Labs </td>
+		<td>@meli </td>
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>7</td>
@@ -11504,20 +11504,6 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 	<tr>
 		<td>815</td>
 		<td>
-			<a href="https://github.com/YsisC">
-				<img src="https://avatars.githubusercontent.com/u/114823353?s=72&u=273eb152accdcfd2b0453d02fd7bc69f1c7da8f9&v=4" width="24" alt="Avatar of YsisC"> YsisC
-			</a><br/>
-			Ysis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santiago de chile</td>
-		<td>2</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>816</td>
-		<td>
 			<a href="https://github.com/AntonioER9">
 				<img src="https://avatars.githubusercontent.com/u/28747544?s=72&u=55b44e345cd466b4ddaf63855d3e06c7ec773f6a&v=4" width="24" alt="Avatar of AntonioER9"> AntonioER9
 			</a><br/>
@@ -11530,7 +11516,7 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>817</td>
+		<td>816</td>
 		<td>
 			<a href="https://github.com/rvalenzuelar">
 				<img src="https://avatars.githubusercontent.com/u/6894066?s=72&u=a50984e2fbc420f513bff0b3fa874f62a6e310ce&v=4" width="24" alt="Avatar of rvalenzuelar"> rvalenzuelar
@@ -11540,6 +11526,20 @@ There are `944 users`  in Chile. You need at least `34 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/raulrainfall">raulrainfall</a></td>
 		<td>Rancagua, Chile</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>817</td>
+		<td>
+			<a href="https://github.com/YsisC">
+				<img src="https://avatars.githubusercontent.com/u/114823353?s=72&u=273eb152accdcfd2b0453d02fd7bc69f1c7da8f9&v=4" width="24" alt="Avatar of YsisC"> YsisC
+			</a><br/>
+			Ysis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago de chile</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
